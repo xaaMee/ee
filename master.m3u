@@ -3,6 +3,10 @@
 https://ctrl.laotv.la/live/ABCA/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/640px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="General",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdn6dwN/image.png" group-title="General",Best Action
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8?channel_name=bestactiontv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wwsZvyR/image.png" group-title="General",Best Thriller
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/60917caa-de31-4fed-9e63-bafffb5f5a7e_0_HLS/manifest.m3u8?channel_name=?channel_name=bestthrillertv
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cartoon-Network-2022-Logo.jpg" group-title="General",Cartoon Network
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/640px-Charge%21_Logo_2020.svg.png" group-title="General",Charge
