@@ -1,24 +1,86 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/640px-ABC_Australia_logo.svg.png" group-title="General",ABC Australia
+https://ctrl.laotv.la/live/ABCA/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/640px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="General",ANC
+https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cartoon-Network-2022-Logo.jpg" group-title="General",Cartoon Network
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/640px-Charge%21_Logo_2020.svg.png" group-title="General",Charge
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/611-cinemax95d0925ac4168b2d.png" group-title="General",Cinemax Lao
+https://edge1.laotv.la/live/Cinemax/sc-gaFECQ/v1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cinemo.jpg" group-title="General",Cinemo
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/606px-CNA_new_logo.svg.png" group-title="General",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/CNN-Feb-2022.jpg" group-title="General",CNN
 https://ctrl.laotv.la/live/CNN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ComedyDynamics_LOGO_2017.png/640px-ComedyDynamics_LOGO_2017.png" group-title="General",Comedy Dynamics OTTERA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=580
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ComedyDynamics_LOGO_2017.png/640px-ComedyDynamics_LOGO_2017.png" group-title="General",Comedy Dynamics TUBI
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Comedy-Dynamics.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/640px-Eastern_Broadcasting_Co_Limited_logo.svg.png" group-title="General",Dongsen Foreign Movie
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
 #EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="General",Discovery Lao
 https://edge1.laotv.la/live/Discovery/sc-gaFECQ/v1/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/320px-DMAX_Logo_16_05_2011.jpg" group-title="General",DMAX
+https://raw.githubusercontent.com/zorilrock/vtpi/main/dmax.m3u8
+#EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="General",English Club TV
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC21/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fight-Sports.jpg" group-title="General",Fight Sports
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/fightsports.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/768px-FRANCE_24_logo.svg.png" group-title="General",France24
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/HBO.jpg" group-title="General",HBO
 https://edge1.laotv.la/live/HBO/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLIV",Sony PIX HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="General",HGTV
+https://raw.githubusercontent.com/zorilrock/vtpi/main/hgtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Pcb1w8/image.png" group-title="General",House Channel
+https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC17/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/692px-Investigation_Discovery_Logo_2018.svg.png" group-title="General",Investigation Documentary
+https://raw.githubusercontent.com/zorilrock/vtpi/main/id.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/KBS.png" group-title="General",KBS World
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="General",MyCinemaEurope
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/mycinemaeurope.m3u8
+#EXTINF:-1 tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png" group-title="General",Motorvision Amagi
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png" group-title="General",Motorvision Dens
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/motorvision.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Myx.jpg" group-title="General",MYX
+https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="General",Now90s Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/640px-Outdoor_Channel_logo_2017.svg.png" group-title="General",Outdoor
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/652f763c1fcddfc32c6860de_logo_act_web.png" group-title="General",Rock Action
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockextreme.m3u8
+#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow-p-500.png" group-title="General",Rock Entertainment
+https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockentertainment.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="General",Sony PIX HD-GOO
 https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/611-cinemax95d0925ac4168b2d.png" group-title="General",Cinemax Lao
-https://edge1.laotv.la/live/Cinemax/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp" group-title="General",True Film1 Lao
-https://edge1.laotv.la/live/TureFilm/sc-gaFECQ/v1/index.m3u8
-#EXTINF: tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="General", True Premier Football 1 Lao
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="General",Sony PIX HD-CDN
+https://cdn-tv.co.in/myweb/watch.php?id=1000009258&e=.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/640px-TeleRadyo_Serbisyo_logo.svg.png" group-title="General",Teleradyo
+https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/587px-Tennis_Channel_logo.svg.png" group-title="General",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/The_Filipino_Channel_2011_logo.svg/640px-The_Filipino_Channel_2011_logo.svg.png" group-title="General",TFC Guam
+https://tfcguam-abscbn-ono.amagi.tv/index_6.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/TLC-(1).png" group-title="General",TLC
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/tlc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/640px-TraceSSLogo.png" group-title="General",Trace Sport Stars
+https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/640px-2018_Travel_Channel_logo.svg.png" group-title="General",Trvl
+https://mhdtvmax.com/delta/discovery/api/TRVL_Channel.m3u8
+.#EXTINF: tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="General", True Premier Football 1 Lao
 https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/index.m3u8
 #EXTINF: tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" group-title="General", True Premier Football 2 Lao
 https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/index.m3u8
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png" group-title="General", World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png" group-title="General", ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF: tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="General", BEIN1 Lao
 https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0/index.m3u8
 #EXTINF: tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="General", Bein2 Lao
@@ -63,6 +125,8 @@ https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
 https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
 #EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLIV",Sony BBC Earth HD
 https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLIV",Sony PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLIV",Sony TEN 1
 https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLIV",Sony TEN 2
@@ -85,3 +149,21 @@ https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
 https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SonyLIV",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLIV-CDN",Sony PIX HD
+https://cdn-tv.co.in/myweb/watch.php?id=1000009258&e=.m3u8
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLIV-CDN",Sony BBC Earth HD
+https://cdn-tv.co.in/myweb/watch.php?id=1000009252&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLIV-CDN",Sony TEN 1 HD
+https://cdn-tv.co.in/myweb/watch.php?id=1000009276&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLIV-CDN",Sony  TEN 2 HD
+https://cdn-tv.co.in/myweb/watch.php?id=1000009277&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLIV-CDN",Sony TEN 3 HD
+https://cdn-tv.co.in/myweb/watch.php?id=1000009278&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV-CDN",Sony TEN 5 HD
+https://cdn-tv.co.in/myweb/watch.php?id=1000009275&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLIV-CDN",Sony TEN 1
+https://cdn-tv.co.in/myweb/watch.php?id=1000009280&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLIV-CDN",Sony TEN 3
+https://cdn-tv.co.in/myweb/watch.php?id=1000009283&e=.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLIV-CDN",Sony TEN 5
+https://cdn-tv.co.in/myweb/watch.php?id=1000009281&e=.m3u8
