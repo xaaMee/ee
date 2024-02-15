@@ -1,0 +1,87 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cartoon-Network-2022-Logo.jpg" group-title="LAOTV🇱🇦",Cartoon Network
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/CNN-Feb-2022.jpg" group-title="LAOTV🇱🇦",CNN
+https://ctrl.laotv.la/live/CNN/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/640px-Eastern_Broadcasting_Co_Limited_logo.svg.png" group-title="LAOTV🇱🇦",Dongsen Foreign Movie
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="LAOTV🇱🇦",Discovery Lao
+https://edge1.laotv.la/live/Discovery/sc-gaFECQ/v1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/HBO.jpg" group-title="LAOTV🇱🇦",HBO
+https://edge1.laotv.la/live/HBO/sc-gaFECQ/v1/index.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SonyLIV-SabbirIPTV",Sony PIX HD
+https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-logo="https://img2.pic.in.th/pic/611-cinemax95d0925ac4168b2d.png" group-title="LAOTV🇱🇦",Cinemax Lao
+https://edge1.laotv.la/live/Cinemax/sc-gaFECQ/v1/index.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp" group-title="LAOTV🇱🇦",True Film1 Lao
+https://edge1.laotv.la/live/TureFilm/sc-gaFECQ/v1/index.m3u8
+#EXTINF: tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-1.png" group-title="LAOTV🇱🇦", True Premier Football 1 Lao
+https://edge1.laotv.la/live/TSport1/sc-gaFECQ/v1/index.m3u8
+#EXTINF: tvg-logo="https://rentapi.blackboxsys.net/images/png/epl-2.png" group-title="LAOTV🇱🇦", True Premier Football 2 Lao
+https://edge1.laotv.la/live/TSport2/sc-gaFECQ/v1/index.m3u8
+#EXTINF: tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="LAOTV🇱🇦", BEIN1 Lao
+https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0/index.m3u8
+#EXTINF: tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="LAOTV🇱🇦", Bein2 Lao
+https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/v0/index.m3u8
+#EXTINF: tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp" group-title="LAOTV🇱🇦",True Sport 1
+https://edge2.laotv.la/live/TrueSport6/sc-gaFECQ/v1/index.m3u8|Referer=https://https://edge2.laotv.la/
+#EXTINF: tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="LAOTV🇱🇦",True Sport 3
+https://edge1.laotv.la/live/TrueSport3/sc-gaFECQ/v1/index.m3u8
+#EXTINF: tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp" group-title="LAOTV🇱🇦",True Sport 7
+https://edge2.laotv.la/live/THD7/sc-gaFECQ/v1/index.m3u8
+#EXTINF: tvg-logo="https://img2.pic.in.th/pic/oie_transparent-6.png" group-title="LAOTV🇱🇦",WWE Lao
+https://edge2.laotv.la/live/WWE/sc-gaFECQ/v1/index.m3u8
+#EXTINF:-1 tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png" group-title="LAOTV🇱🇦",Boomerang Lao
+https://edge2.laotv.la/live/Boomerang/sc-gaFECQ/v0/index.m3u8
+#EXTINF: tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//0171.png" group-title="LAOTV🇱🇦", Cartoon Network
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
+#EXTINF: tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png" group-title="LAOTV🇱🇦", AnimalPlanet
+https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
+#EXTINF: tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="LAOTV🇱🇦", True4U
+https://ctrl.laotv.la/live/True4U/index.m3u8
+#EXTINF: tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0100.png" group-title="LAOTV🇱🇦", CartoonClub
+https://ctrl.laotv.la/live/CartoonClub/index.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SonyLIV-SabbirIPTV",SET HD
+https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SonyLIV-SabbirIPTV",Sony SAB HD
+https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SonyLIV-SabbirIPTV",Sony PAL
+https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SonyLIV-SabbirIPTV",Sony YAY
+https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SonyLIV-SabbirIPTV",Sony Marathi
+https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SonyLIV-SabbirIPTV",Sony AATH
+https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SonyLIV-SabbirIPTV",Sony MAX HD
+https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SonyLIV-SabbirIPTV",Sony MAX
+https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SonyLIV-SabbirIPTV",Sony WAH
+https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SonyLIV-SabbirIPTV",Sony MAX2
+https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SonyLIV-SabbirIPTV",Sony BBC Earth HD
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony  TEN 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 4 HD
+https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SonyLIV-SabbirIPTV",Sony TEN 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SonyLIV-SabbirIPTV",Sony Kal
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
