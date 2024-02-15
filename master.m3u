@@ -3,6 +3,10 @@
 https://ctrl.laotv.la/live/ABCA/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/640px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="General",ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/640px-AXS_TV_logo.svg.png" group-title="General",AXS TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=606605549dbfca002d2ae877
+#EXTINF:-1 tvg-logo="https://media.info/l/o/1/1470.1576698043.png" group-title="General",Baby First
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3d21d9ee-e2b7-49f7-93da-7d459f89e083_0_HLS/manifest.m3u8?channel_name=%20babyfirsten
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdn6dwN/image.png" group-title="General",Best Action
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8?channel_name=bestactiontv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wwsZvyR/image.png" group-title="General",Best Thriller
@@ -23,10 +27,10 @@ https://ctrl.laotv.la/live/CNN/index.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=580
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ComedyDynamics_LOGO_2017.png/640px-ComedyDynamics_LOGO_2017.png" group-title="General",Comedy Dynamics TUBI
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Comedy-Dynamics.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="General",Discovery
+https://edge1.laotv.la/live/Discovery/sc-gaFECQ/v1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Eastern_Broadcasting_Co_Limited_logo.svg/640px-Eastern_Broadcasting_Co_Limited_logo.svg.png" group-title="General",Dongsen Foreign Movie
 https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="General",Discovery Lao
-https://edge1.laotv.la/live/Discovery/sc-gaFECQ/v1/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/320px-DMAX_Logo_16_05_2011.jpg" group-title="General",DMAX
 https://raw.githubusercontent.com/zorilrock/vtpi/main/dmax.m3u8
 #EXTINF:-1 tvg-logo="https://english-club.tv/wp-content/uploads/2015/09/logo-round.png" group-title="General",English Club TV
@@ -45,6 +49,8 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC17/index.m3u8
 https://raw.githubusercontent.com/zorilrock/vtpi/main/id.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/KBS.png" group-title="General",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kcmRt8k/image.png" group-title="General",Kung Fu+
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/9e927eb7-5729-4176-ac4c-a3f8ad762435_0_HLS/manifest.m3u8?channel_name=kungfu+
 #EXTINF:-1 tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687502977_tvchannels_v1.jpg" group-title="General",MyCinemaEurope
 https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/mycinemaeurope.m3u8
 #EXTINF:-1 tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png" group-title="General",Motorvision Amagi
@@ -69,6 +75,8 @@ https://cdn-tv.co.in/myweb/watch.php?id=1000009258&e=.m3u8
 https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_pix_hd
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="General",Sony PIX SD-NAYEEM
 https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_pix
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/640px-Stingray_Music_logo.svg.png" group-title="General",Stingray Music
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1388
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Techstorm-logo.jpg" group-title="General",Techstorm
 https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=tech_storm
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/640px-TeleRadyo_Serbisyo_logo.svg.png" group-title="General",Teleradyo
@@ -177,3 +185,27 @@ https://cdn-tv.co.in/myweb/watch.php?id=1000009280&e=.m3u8
 https://cdn-tv.co.in/myweb/watch.php?id=1000009283&e=.m3u8
 #EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SonyLIV-CDN",Sony TEN 5 CDN
 https://cdn-tv.co.in/myweb/watch.php?id=1000009281&e=.m3u8
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/31/6376c0b0-fbff-11e9-815f-e77857a1249b_original.png" group-title="Nayeem",Discovery Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=discovery_hd
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Nayeem",Sony BBC Earth HD Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_bbc_earth_hd
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="Nayeem",Sony BBC Earth SD Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_bbc_earth
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Nayeem",Sony PIX HD Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_pix_hd
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Nayeem",Sony PIX SD Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_pix
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Nayeem",Sony TEN 1 HD Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_ten1_hd
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Nayeem",Sony  TEN 2 HD Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_ten2_hd
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Nayeem",Sony TEN 3 HD Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_ten3_hd
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Nayeem",Sony TEN 1 SD Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_ten1
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Nayeem",Sony  TEN 2 SD Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_ten2
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Nayeem",Sony TEN 3 SD Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=sony_ten3
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/TLC-(1).png" group-title="Nayeem",TLC HD Nayeem
+https://nayeem-parvez.pw/api-s1/toxffee/master.m3u8?id=tlc_hd
