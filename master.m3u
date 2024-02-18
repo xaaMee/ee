@@ -15,6 +15,10 @@ https://code.vthanhtivi.pw/getlink/eazie/243128/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=606605549dbfca002d2ae877
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1470.1576698043.png" group-title="General",Baby First
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3d21d9ee-e2b7-49f7-93da-7d459f89e083_0_HLS/manifest.m3u8?channel_name=%20babyfirsten
+#EXTINF: tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="General",BEIN1
+https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0/index.m3u8
+#EXTINF: tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="General",BEIN2
+https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/v0/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdn6dwN/image.png" group-title="General",Best Action
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8?channel_name=bestactiontv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wwsZvyR/image.png" group-title="General",Best Thriller
@@ -67,7 +71,7 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC21/index.m3u8
 https://code.vthanhtivi.pw/getlink/eazie/244619/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yspQRkK/image.png" group-title="General",Filmbox
 https://code.vthanhtivi.pw/getlink/eazie/241438/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/640px-Fashion_TV_logo.svg.png" group-title="General",FTV
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fashion-TV.jpg" group-title="General",FTV
 https://code.vthanhtivi.pw/getlink/eazie/241432/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fight-Sports.jpg" group-title="General",Fight Sports
 https://code.vthanhtivi.pw/getlink/eazie/244618/playlist.m3u8
@@ -167,14 +171,11 @@ https://ythls-v2.onrender.com/channel/UCiFx0kZFjR29u0uJxTSq5MQ.m3u8
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/526px-WWE_Logo.svg.png" group-title="General", WWE
 https://edge2.laotv.la/live/WWE/sc-gaFECQ/v1/index.m3u8
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png" group-title="General", ZooMoo AM
+#EXTINF: tvg-logo="https://3.bp.blogspot.com/-64dBO0Pw7sw/WjmT8fnqYMI/AAAAAAABCac/goe2AYBFl0UePyHSm0yMztwwULHgTajIgCLcBGAs/s1600/Zoomoo.png" group-title="General", ZooMoo AM
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png" group-title="General", ZooMoo VT
+#EXTINF: tvg-logo="https://3.bp.blogspot.com/-64dBO0Pw7sw/WjmT8fnqYMI/AAAAAAABCac/goe2AYBFl0UePyHSm0yMztwwULHgTajIgCLcBGAs/s1600/Zoomoo.png" group-title="General", ZooMoo VT
 https://code.vthanhtivi.pw/getlink/eazie/242929/playlist.m3u8
-#EXTINF: tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png" group-title="General", BEIN1 Lao
-https://edge1.laotv.la/live/Bsport1/sc-gaFECQ/v0/index.m3u8
-#EXTINF: tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp" group-title="General", Bein2 Lao
-https://edge2.laotv.la/live/Bsport2/sc-gaFECQ/v0/index.m3u8
+
 #EXTINF: tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp" group-title="General",True Sport 1
 https://edge2.laotv.la/live/TrueSport6/sc-gaFECQ/v1/index.m3u8|Referer=https://https://edge2.laotv.la/
 #EXTINF: tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp" group-title="General",True Sport 3
