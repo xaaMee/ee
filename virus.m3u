@@ -35,7 +35,7 @@ https://tglmp04.akamaized.net/out/v1/0f439c1d8a1a47fca9ae1fa92144306e/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"b8090c8361cc5cc5c1aac0ec2710de10": "ca0d18538845bae2cb4f4a168036f174"}
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default.mpd
 
 #EXTINF:-1 tvg-id="HBOFamily" ch-number="414" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",414 HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
