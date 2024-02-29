@@ -1,5 +1,5 @@
-
-chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/iptv/player.html#https://raw.githubusercontent.com/xaaMee/ee/main/virus.m3u MAIN.
+Install https://chromewebstore.google.com/detail/videoplayer-mpdm3u8m3uepg/opmeopcambhfimffbomjgemehjkbbmji?pli=1
+Open Player Link: https://raw.githubusercontent.com/xaaMee/ee/main/ee.m3u
 
 chrome-extension://opmeopcambhfimffbomjgemehjkbbmji/pages/player.html#https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8 SonyPIX
 
