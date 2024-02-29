@@ -104,7 +104,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2503/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"}
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/defaul.mpd
+#https://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",513 Al Jazeera English HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
