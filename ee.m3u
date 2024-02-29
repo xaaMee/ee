@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"  
 refresh="3600"
 
-#EXTINF:-1 tvg-ID="ANC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/640px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="Philippines" ch-number="1",1 ANC
+#EXTINF:-1 tvg-ID="ANC" tvg-logo="https://i.ibb.co/gT0V5jC/anc.png" group-title="Philippines" ch-number="1",1 ANC
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="CinemaOne" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Cinema_One_2013_logo.svg/482px-Cinema_One_2013_logo.svg.png" group-title="Philippines" ch-number="2",2 Cinema One
 https://cinemaone-abscbn-ono.amagi.tv/index.m3u8
 
-#EXTINF:-1 tvg-ID="Cinemo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Cinemo_logo_vectorized.svg/640px-Cinemo_logo_vectorized.svg.png" group-title="Philippines" ch-number="3",3 Cinemo
+#EXTINF:-1 tvg-ID="Cinemo" tvg-logo="https://i.ibb.co/jDjYKnS/image.png" group-title="Philippines" ch-number="3",3 Cinemo
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-ID="Myx" tvg-logo="https://assets-myxglobal.abs-cbn.com/wp-content/uploads/2022/07/MYX_New_Logo_Web1.png" group-title="Philippines" ch-number="4",4 MYX
@@ -22,7 +22,7 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-ID="Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/640px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Philippines" ch-number="7",7 Teleradyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-ID="UNTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/640px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Philippines" ch-number="8",8 UNTV
+#EXTINF:-1 tvg-ID="UNTV" tvg-logo="https://i.ibb.co/bXnF9LT/untv.png" group-title="Philippines" ch-number="8",8 UNTV
 https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
 
 MOVIES 
