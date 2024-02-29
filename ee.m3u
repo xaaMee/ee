@@ -99,7 +99,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"1b618a291cece44c9845dddfc4fd9b10": "bf7e1b97555c4acb7455f711b2a9ff16"}
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2503/default.mpd
 
-#EXTINF:-1 tvg-id="BBCWorldNews" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201910/20191017/20191017092229933nmy.png" ch-number="512",512 BBC World News HD
+#EXTINF:-1 tvg-id="BBCWorldNews" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/320px-BBC_World_News_red.svg.png" ch-number="512",512 BBC World News HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -121,8 +121,6 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2102/default.mpd
 
 #EXTINF:-1 tvg-id="CNA" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" ch-number="515",515 CNA
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/605
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-id="CNBCAsia" group-title="News" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ch-number="516",516 CNBC Asia HD
@@ -130,7 +128,7 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4bef7fc1bcb6bd7f287def940e38cb10": "b0dadd74b713e4b29fd27e147cae7133"}
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/900/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/900/default.mpd
 
 #EXTINF:-1 tvg-id="BloombergTV" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" ch-number="517",517 Bloomberg
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -139,10 +137,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 #KODIPROP:inputstream.adaptive.license_key={"4bef7fc1bcb6bd7f287def940e38cb10": "b0dadd74b713e4b29fd27e147cae7133"}
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 
-#EXTINF:-1 tvg-id="ABCAustralia" group-title="News" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716073533638c35.png" ch-number="518",518 ABC Australia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/904
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/904/default.mpd
+#EXTINF:-1 tvg-id="ABCAustralia" group-title="News" tvg-logo="https://ih1.redbubble.net/image.5028740176.8765/st,large,507x507-pad,600x600,f8f8f8.jpg" ch-number="518",518 ABC Australia
+https://ctrl.laotv.la/live/ABCA/index.m3u8
 
 #EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" ch-number="521",521 DW English
 #KODIPROP:inputstreamaddon=inputstream.adaptive
