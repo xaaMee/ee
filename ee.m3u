@@ -130,7 +130,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2503/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",513 Al Jazeera English HD
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News" tvg-logo="https://1000logos.net/wp-content/uploads/2023/01/Al-Jazeera-Logo.png" ch-number="513",513 Al Jazeera English HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -163,10 +163,13 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/900/default.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
-https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default.mpd
 
 #EXTINF:-1 tvg-id="ABCAustralia" group-title="News" tvg-logo="https://ih1.redbubble.net/image.5028740176.8765/st,large,507x507-pad,600x600,f8f8f8.jpg" ch-number="518",518 ABC Australia
-https://ctrl.laotv.la/live/ABCA/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
+#https://ctrl.laotv.la/live/ABCA/index.m3u8
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/904/default.mpd
 
 #EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1024px-Deutsche_Welle_Logo.svg.png" ch-number="521",521 DW English
 #KODIPROP:inputstreamaddon=inputstream.adaptive
