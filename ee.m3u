@@ -238,7 +238,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/604/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"d5199f1513a0286e038dae8f7d820010": "4d4d4d9dc41be43f528a4940cf66f14c"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2710/default.mpd
 
-#EXTINF:-1 tvg-id="Outdoor" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/640px-Outdoor_Channel_logo_2017.svg.png" group-title="Documentary" ch-number="557",557 Outdoor
+#EXTINF:-1 tvg-id="Outdoor" tvg-logo="https://i.ibb.co/NxQrP8P/57409e50258033-58cb840c2bbbb.jpg" group-title="Documentary" ch-number="557",557 Outdoor
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 KIDS
@@ -402,6 +402,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
 SPORTS 
+#EXTINF:-1 tvg-id="Billiardtv" group-title="Sports" ch-number="800" tvg-logo="https://i.ibb.co/FD8z1nD/1680728015128.png",800 Billiard TV
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2167&live=1&avod=1
 
 #EXTINF:-1 tvg-id="AstroArena" group-title="Sports" ch-number="801" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/92_144.png",801 Astro Arena 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
