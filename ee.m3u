@@ -358,8 +358,8 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2709/default.mpd
 
 #EXTINF:-1 tvg-id="FoodNetwork" group-title="Education" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/153_144.png" ch-number="708",708 Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2300
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=2d13c814df4a0c2ce488b2eda052d710:2dc2a7617bde2ab00136ee689c56d789
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/2300/default.mpd
 
 #EXTINF:-1 tvg-id="AFN" group-title="Education" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" ch-number="709",709 Asian Food Network HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -391,7 +391,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 
 #EXTINF:-1 tvg-id="BBCLifestyle"  ch-number="717" group-title="Education" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",717 BBC Lifestyle HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5050
+#KODIPROP:inputstream.adaptive.license_key=82c5ba9d6368aa9d36d50e4198177910:9161f6debd89e32de98008338f0455b7
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 
 #EXTINF:-1 tvg-id="MTVAsia" ch-number="718" group-title="Education" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210913/20210913160636492fzf.png",718 MTV Asia HD
@@ -433,7 +433,7 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 
 #EXTINF:-1 tvg-id="AstroArenaBola4" group-title="Sports" ch-number="808" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png",808 Astro Arena Bola 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5102
+#KODIPROP:inputstream.adaptive.license_key=2cb9e74464744126a406b04bb92070bf:8a6b59d0bf43e1265fceefe3218400
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5102/default.mpd
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="Sports" ch-number="811" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/71_144.png",811 Astro SuperSport HD 
