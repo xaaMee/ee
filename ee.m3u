@@ -476,7 +476,7 @@ http://vnlive.khanggtivi.xyz/clrlive.m3u8?c=spotv2&rlkey=aDRvYzJrNW0xR0RmeHRvR3A
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508a f348844107f5e026a4fd6b16e
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
-#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/bein2.png" group-title="Sports" ch-number="819",819 beIN Sports 2 HD
+#EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="Sports" ch-number="819",819 beIN Sports 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default.mpd
