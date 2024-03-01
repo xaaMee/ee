@@ -194,7 +194,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2103/default.mpd
 
 #EXTINF:-1 tvg-id="NationalGeographic" group-title="Documentary" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 National Geographic
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
+#KODIPROP:inputstream.adaptive.license_key=394a40dfff6320fca4a327d7c3127610:68633db62849223bb7de00c64f87166f
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/600/default.mpd
 
 #EXTINF:-1 tvg-id="Love Nature" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" ch-number="549",549 Love Nature  
