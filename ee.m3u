@@ -98,21 +98,27 @@ https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/9e927eb7-5729-4176-ac4c-a3f8ad762435_0_HLS/manifest.m3u8?channel_name=kungfu+
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdn6dwN/image.png" group-title="Movies" ch-number="419",419 Best Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8?channel_name=bestactiontv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wwsZvyR/image.png" group-title="Movies" ch-number="420",420 Best Thriller
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/60917caa-de31-4fed-9e63-bafffb5f5a7e_0_HLS/manifest.m3u8?channel_name=?channel_name=bestthrillertv
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z8YrT2y/image.png" group-title="Movies" ch-number="421",421 Electric Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=552
+
 NEWS
 
-#EXTINF:-1 tvg-id="AstroAwani" ch-number="501" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
+#EXTINF:-1 tvg-id="RT" ch-number="502" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png",502 RT
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default.mpd
-
-#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="News" tvg-logo="https://i.ibb.co/YtQykMv/bernama.jpg",502 BERNAMA  
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
 
 #EXTINF:-1 tvg-id="CGTN" ch-number="503" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/2560px-CGTN.svg.png",503 CGTN HD  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -209,7 +215,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/600/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"168bd815468639fe4528b4bf0141f310": "775a654c0610811ad022329a68884de1"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5096/default.mpd
 
-#EXTINF:-1 tvg-id="Global Trekker" group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpfPRrXubIxPR4apcIjWmqLBXh5F34dCL6w&usqp=CAU" ch-number="550",551 Global Trekker
+#EXTINF:-1 tvg-id="GlobalTrekker" group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpfPRrXubIxPR4apcIjWmqLBXh5F34dCL6w&usqp=CAU" ch-number="550",551 Global Trekker
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -570,27 +576,37 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"03c2e0af2f8159f9f0ce9b5dbc865f10":"cd84ed136b0cc71f8ab8cd4d4f6a2e4c"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
-#EXTINF: tvg-logo="https://wptmedia.s3.amazonaws.com/wp-content/uploads/2017/01/Main-WPT-Logo.jpg" group-title="Sports" ch-number="826",826 World Poker Tour
+#EXTINF:-1 tvg-id="WorldPokerTour" tvg-logo="https://wptmedia.s3.amazonaws.com/wp-content/uploads/2017/01/Main-WPT-Logo.jpg" group-title="Sports" ch-number="826",826 World Poker Tour
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/640px-TraceSSLogo.png" group-title="Sports" ch-number="827",827 Trace Sport Stars
+#EXTINF:-1 tvg-id="TraceSportStars" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/640px-TraceSSLogo.png" group-title="Sports" ch-number="827",827 Trace Sport Stars
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/587px-Tennis_Channel_logo.svg.png" group-title="Sports" ch-number="828",828 Tennis Channel
+#EXTINF:-1 tvg-id="TennisChannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/587px-Tennis_Channel_logo.svg.png" group-title="Sports" ch-number="828",828 Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
+RELIGIOUS
+
+#EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious" ch-number="970",970 EWTN Asia-Pacific
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="INCTV.ph" tvg-shift="0" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious,Philippines" ch-number="971",971 INC TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+
+#EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="Religious,Philippines" ch-number="972",972 SMNI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
 ANIME
-
-#EXTINF:-1 tvg-id="Animax.MACAN" group-title="ANIME" tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",Animax (ID)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MzRjOGRhNmItM2ZmNi0zMGIwLWI1NTEtM2ViNjlhZmM2NWU0
-#EXTVLCOPT:http-referrer=http://www.astro.com.my
-#https://av-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=YTgyMjFhNTQtMTg0Zi0zYWE3LTg3YjUtOWNkOTY1ZjIzZjZi
@@ -1144,6 +1160,20 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/700/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"691916164be2b1ae6c852f1990d1fe10": "38a68c749898114cf0629d77e246a888"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/212/default.mpd
+
+#EXTINF:-1 tvg-id="AstroAwani" ch-number="501" group-title="Malaysia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default.mpd
+
+#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="Malaysia" tvg-logo="https://i.ibb.co/YtQykMv/bernama.jpg",502 BERNAMA  
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1406bbf218ca14f967034fcf4abf7710": "39a27aa2cc84a29b665fcc4dbf9c54b6"}
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 
 
 
