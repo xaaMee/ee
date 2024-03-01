@@ -295,10 +295,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 ENTERTAINMENT 
 
 #EXTINF:-1 tvg-id="RockAction" group-title="Entertainment" tvg-logo="https://assets-global.website-files.com/64e961c3862892bff815289d/64f5706309cfeef5f1d4bc1f_logo_act_web-p-500.png" ch-number="701",701 Rock Action
-https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockextreme.m3u8
+#https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockextreme.m3u8
+https://ott3.khanggtivi.xyz/live/b3NybXEzcTBGQTNuZUdlZDFaQU9XZXVwVjR4V2hwSS9nTnZiclZya0IxK1k4ZFU5bitnbUIzUVhSb3lMVE9Na1VqclV2T1NtRnBqYzZKWkpOdUN3UFRFV1RpYlhxMUVLZml0ak1Xc3ZaaWs9/asia/rockaction/master.m3u8
 
 #EXTINF:-1 tvg-id="RockEntertainment" group-title="Entertainment" tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow-p-500.png" ch-number="702",702 Rock Entertainment
-https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockentertainment.m3u8
+#https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockentertainment.m3u8
+https://ott3.khanggtivi.xyz/live/b3NybXEzcTBGQTNuZUdlZDFaQU9XZXVwVjR4V2hwSS9nTnZiclZya0IxK1k4ZFU5bitnbUIzUVhSb3lMVE9Na1VqclV2T1NtRnBqYzZKWkpOdUN3UFRFV1RpYlhxMUVLZml0ak1Xc3ZaaWs9/asia/rockaction/master.m3u8
 
 #EXTINF:-1 tvg-id="AXN" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" ch-number="703",703 AXN HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
