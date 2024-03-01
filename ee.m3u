@@ -93,6 +93,11 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2406/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=90480f571f5d410891d7add7103c1e84:b64f887d2480bcaea992c2f0826449a9
 https://tglmp02.akamaized.net/out/v1/b37a81eb3585471cb9c639c78edcdefa/manifest.mpd
 
+#EXTINF:-1 ch-number="418" group-title="Movies" tvg-logo="https://i.ibb.co/kcmRt8k/image.png",418 Kung Fu+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/9e927eb7-5729-4176-ac4c-a3f8ad762435_0_HLS/manifest.m3u8?channel_name=kungfu+
+
 NEWS
 
 #EXTINF:-1 tvg-id="AstroAwani" ch-number="501" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",501 Astro Awani 
@@ -422,7 +427,12 @@ MUSIC
 #KODIPROP:inputstream.adaptive.license_key={"3ac2542a4f7be746633db07647451710": "22f964a6d6927ccdba482e775cdff190"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
+#EXTINF:-1 ch-number="751" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/426px-MTV_90s_2022.svg.png",751 MTV 90s
+https://code.vthanhtivi.pw/getlink/eazie/243116/playlist.m3u8
+
 #EXTINF:-1 ch-number="751" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",751 Trace Urban
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 
 
@@ -539,11 +549,18 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"03c2e0af2f8159f9f0ce9b5dbc865f10":"cd84ed136b0cc71f8ab8cd4d4f6a2e4c"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
-#EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/World_Poker_Tour_2022_Logo.png" group-title="Sports" ch-number="826",826 World Poker Tour
+#EXTINF: tvg-logo="https://wptmedia.s3.amazonaws.com/wp-content/uploads/2017/01/Main-WPT-Logo.jpg" group-title="Sports" ch-number="826",826 World Poker Tour
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TraceSSLogo.png/640px-TraceSSLogo.png" group-title="Sports" ch-number="827",827 Trace Sport Stars
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://trace-sportstars-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/587px-Tennis_Channel_logo.svg.png" group-title="Sports" ch-number="828",828 Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 
 ANIME
@@ -1106,6 +1123,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/700/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"691916164be2b1ae6c852f1990d1fe10": "38a68c749898114cf0629d77e246a888"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/212/default.mpd
+
 
 
 
