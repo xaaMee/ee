@@ -521,7 +521,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 
 #EXTINF:-1 tvg-id="AstroCricket" group-title="Sports" ch-number="825" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",825 Astro Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a5ce785d63f164f5be079a0aa9b6210:d388cbf715f1bb08901a55a7db7f26c0
+#KODIPROP:inputstream.adaptive.license_key={"03c2e0af2f8159f9f0ce9b5dbc865f10":"cd84ed136b0cc71f8ab8cd4d4f6a2e4c"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
 
 
