@@ -484,7 +484,7 @@ http://vnlive.khanggtivi.xyz/clrlive.m3u8?c=spotv&rlkey=aDRvYzJrNW0xR0RmeHRvR3A1
 #EXTINF: -1 tvg-id="SPOTV2" group-title="Sports" ch-number="817" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",817 SPOTV2
 http://vnlive.khanggtivi.xyz/clrlive.m3u8?c=spotv2&rlkey=aDRvYzJrNW0xR0RmeHRvR3A1dUNDZVM3SHZMai9uVWNCQW1SOVdhL1VaUHo0YWNwcmszUDBUb2ducHlPUjl6RUVacmlOUWx4SDNrbjJVK3BiL29hYURWckFPazhNM2dYWTBKbEhzWjBEMGM9&date=&updatecontents=yes&type=iptv&ottplayer=yes&blockgeo=yes&cl=hd&sd_birate=150000&domain=khanggtivi.xyz&referrer=vnptlivecdn.root.sx&origin=vnptlivecdn.root.sx&drmsv=ott3.khanggtivi.xyz/license&natip=123.31.36.68
 
-#EXTINF:-1 tvg-id="beINSports" group-title="Sports" ch-number="818" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",818 beIN Sports HD
+#EXTINF:-1 tvg-id="beINSports" group-title="Sports" ch-number="818" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",818 beIN Sports 1 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"1a655189ab5c49eb235308c2b1a9e710":"3c4508af348844107f5e026a4fd6b16e"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default.mpd
