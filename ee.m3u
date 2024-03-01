@@ -185,6 +185,11 @@ DOCUMENTARY
 #KODIPROP:inputstream.adaptive.license_key=0c626a3022340ea1d7af15e51a118a10:543ce4c3e6139f46c4a95c57ef64f540
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2103/default.mpd
 
+#EXTINF:-1 tvg-id="NationalGeographic" group-title="Documentary" tvg-logo="http://aqfad.xtgem.com/images/NatGeo.png" ch-number="551",551 National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=394a40dfff6320fca4a327d7c3127610:68633db62849223bb7de00c64f87166f
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/600/default.mpd
+
 #EXTINF:-1 tvg-id="Love Nature" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" ch-number="549",549 Love Nature  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -486,7 +491,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default.mpd
 
 #EXTINF:-1 tvg-id="Eurosport" group-title="Sports" ch-number="821" tvg-logo="https://i.postimg.cc/Hk9h8WsS/Eurosport-White.png",821 Eurosport HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7299bdb9de13b235cda94cd5063ab810:247ed97854d185349998873672294cad
+#KODIPROP:inputstream.adaptive.license_key=4db23a41babfe9afc222a58c59828310:d0e794e3cff564ed2c720a098eb177c7
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2100/default.mpd
 
 #EXTINF:-1 tvg-id="WWENetwork" group-title="Sports" ch-number="822" tvg-logo="https://i.postimg.cc/wxDcjfB2/WWENetwork-White.png",822 WWE Network HD 
