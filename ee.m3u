@@ -671,7 +671,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b98b41000076cd0
 https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoupeArt-prod/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-chno="558" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Biznet_Home_Logo.svg/1200px-Biznet_Home_Logo.svg.png" group-title="CHANNEL 4K",ADVENTURE 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/chunklist_w45338377_b5256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1pSllpd3ZzQWhLTGdZanRNY294VnAxR1pnMVhXX3dOY3J2Zy1sY05xNlZkeXZfbFdWRXIwY1NFT0JDa0l5ZlRT.m3u8
-#EXTINF:-1 group-title="CHANNEL 4K" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://playtv.unifi.com.my:7053/CPS/images/universal/film/logo/202107/20210724/20210724151935567nih.png",LOVE NATURE 4K
+#EXTINF:-1 group-title="CHANNEL 4K" ch-number="502" tvg-id="502" tvg-chno="502" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 
 ===============VOD===============
