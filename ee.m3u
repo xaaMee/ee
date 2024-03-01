@@ -486,7 +486,7 @@ http://vnlive.khanggtivi.xyz/clrlive.m3u8?c=spotv2&rlkey=aDRvYzJrNW0xR0RmeHRvR3A
 
 #EXTINF:-1 tvg-id="beINSports" group-title="Sports" ch-number="818" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",818 beIN Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+#KODIPROP:inputstream.adaptive.license_key=d96d4ec1a73623b5789d78a48b829d10:1ca8dd93af16c84fa1ef5f1b761a03e3
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
 #EXTINF:-1 tvg-id="beINSports2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="Sports" ch-number="819",819 beIN Sports 2 HD
