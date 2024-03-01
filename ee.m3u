@@ -113,7 +113,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1114/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"}
+#KODIPROP:inputstream.adaptive.license_key=fc66ef0ee35b5ba639dc0e13c5f8a910:9e706161f02fb99cb692d2965470494e
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5019/default.mpd
 
 #EXTINF:-1 tvg-id="CNN" ch-number="511" group-title="News" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/336_144.png",511 CNN HD
@@ -127,7 +127,7 @@ http://linearjitp02-playback.astro.com.my/dash-wv/linear/2503/default.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"98817b144bcf19fd0ddca7fe54cee110": "44b423a77dd34ace162db35cbb0fb6a3"}
+#KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1008/default.mpd
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish" group-title="News" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png" ch-number="513",513 Al Jazeera English HD
@@ -145,20 +145,24 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2110/default.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2102/default.mpd
 
 #EXTINF:-1 tvg-id="CNA" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png" ch-number="515",515 CNA
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415
+#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/605/default.mpd
 
 #EXTINF:-1 tvg-id="CNBCAsia" group-title="News" tvg-logo="https://i.postimg.cc/76CXD57r/CNBCAsia.png" ch-number="516",516 CNBC Asia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4bef7fc1bcb6bd7f287def940e38cb10": "b0dadd74b713e4b29fd27e147cae7133"}
+#KODIPROP:inputstream.adaptive.license_key=c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/900/default.mpd
 
 #EXTINF:-1 tvg-id="BloombergTV" group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png" ch-number="517",517 Bloomberg
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4bef7fc1bcb6bd7f287def940e38cb10": "b0dadd74b713e4b29fd27e147cae7133"}
+#KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
 https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 
 #EXTINF:-1 tvg-id="ABCAustralia" group-title="News" tvg-logo="https://ih1.redbubble.net/image.5028740176.8765/st,large,507x507-pad,600x600,f8f8f8.jpg" ch-number="518",518 ABC Australia
@@ -168,12 +172,12 @@ https://ctrl.laotv.la/live/ABCA/index.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4bef7fc1bcb6bd7f287def940e38cb10": "b0dadd74b713e4b29fd27e147cae7133"}
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=7edf3bd590cf337f721a2e5bec361510:13bb829ce4836ccf74071c45993978c5
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/9984/default.mpd
 
 #EXTINF:-1 tvg-id="France24" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/480px-FRANCE_24_logo.svg.png" ch-number="522",522 France 24 English 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/9985
+#KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/9985/default.mpd
 
 DOCUMENTARY
