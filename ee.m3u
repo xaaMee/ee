@@ -192,7 +192,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default.mpd
 
 #EXTINF:-1 tvg-id="ABCAustralia" group-title="News" tvg-logo="https://ih1.redbubble.net/image.5028740176.8765/st,large,507x507-pad,600x600,f8f8f8.jpg" ch-number="518",518 ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6621b86409caa46f9d34d563a8a3a10:77b37a494a87a6a2dfbbbae42e9e4708
+#KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 #https://ctrl.laotv.la/live/ABCA/index.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/904/default.mpd
 
