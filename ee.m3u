@@ -367,11 +367,16 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2605/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"fff5927a2249f094fa3773c390294010": "a5a770d88e4403772f36e2313e8e32d0"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 
-#EXTINF:-1 tvg-id="ComedyDyanamics" ch-number="714" group-title="Entertainment"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ComedyDynamics_LOGO_2017.png/640px-ComedyDynamics_LOGO_2017.png",714 Comedy Dynamics
+#EXTINF:-1 tvg-id="ComedyDyanamics" ch-number="714" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ComedyDynamics_LOGO_2017.png/640px-ComedyDynamics_LOGO_2017.png",714 Comedy Dynamics
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Comedy-Dynamics.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=580
+
+#EXTINF:-1 tvg-id="Charge" ch-number="715" group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Charge%21_Logo_2020.svg/640px-Charge%21_Logo_2020.svg.png",715 Charge
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 
 
 EDUCATION 
