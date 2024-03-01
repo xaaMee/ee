@@ -32,7 +32,9 @@ https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd651
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
-#EXTINF:-1 tvg-ID="UNTV" tvg-logo="https://i.ibb.co/bXnF9LT/untv.png" group-title="Philippines" ch-number="8",8 UNTV
+#EXTINF:-1 tvg-ID="UNTV" tvg-logo="https://i.ibb.co/bXnF9LT/untv.png" group-title="Philippines" ch-number="10",10 UNTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
 
 MOVIES 
