@@ -305,7 +305,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default.mpd
 #KODIPROP:inputstream.adaptive.license_key={"e3cb7499710786eb105fab7b52459910": "8ab093adabdc343b8734b7ecf0aea11a"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5067/default.mpd
 
-#EXTINF:-1 tvg-id="ZooMoo" group-title="Kids" tvg-logo="https://3.bp.blogspot.com/-64dBO0Pw7sw/WjmT8fnqYMI/AAAAAAABCac/goe2AYBFl0UePyHSm0yMztwwULHgTajIgCLcBGAs/s1600/Zoomoo.png" group-title="General" ch-number="619",619 ZooMoo
+#EXTINF:-1 tvg-id="ZooMoo" group-title="Kids" tvg-logo="https://3.bp.blogspot.com/-64dBO0Pw7sw/WjmT8fnqYMI/AAAAAAABCac/goe2AYBFl0UePyHSm0yMztwwULHgTajIgCLcBGAs/s1600/Zoomoo.png" ch-number="619",619 ZooMoo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
@@ -446,10 +446,12 @@ MUSIC
 #KODIPROP:inputstream.adaptive.license_key={"3ac2542a4f7be746633db07647451710": "22f964a6d6927ccdba482e775cdff190"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
 
-#EXTINF:-1 ch-number="751" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/MTV_90s_2022.svg/426px-MTV_90s_2022.svg.png",751 MTV 90s
-https://code.vthanhtivi.pw/getlink/eazie/243116/playlist.m3u8
+#EXTINF:-1 ch-number="751" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png",751 Now90s Rock
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 ch-number="751" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",751 Trace Urban
+#EXTINF:-1 ch-number="752" group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Traceurban2022.png",752 Trace Urban
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
