@@ -22,6 +22,16 @@ https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-ID="Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/640px-TeleRadyo_Serbisyo_logo.svg.png" group-title="Philippines" ch-number="7",7 Teleradyo
 https://teleradyo-abscbn-ono.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="INCTV.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/INCTV_Logo_With_Shadow.webp/320px-INCTV_Logo_With_Shadow.webp.png" group-title="Philippines" ch-number="8",8 INC TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
+
+#EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://i.ibb.co/yXDtjWX/image.png" group-title="Philippines" ch-number="9",9 SMNI
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
+
 #EXTINF:-1 tvg-ID="UNTV" tvg-logo="https://i.ibb.co/bXnF9LT/untv.png" group-title="Philippines" ch-number="8",8 UNTV
 https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
 
@@ -595,16 +605,6 @@ RELIGIOUS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="INCTV.ph" tvg-shift="0" tvg-logo="https://i.imgur.com/JGSLqA6.png" group-title="Religious,Philippines" ch-number="971",971 INC TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://199211.global.ssl.fastly.net/643cc12aa824db4374021c8c/live_95f6ac80dd6511ed9d08b12be56ae55e/index.m3u8
-
-#EXTINF:-1 tvg-id="SMNI.ph" tvg-logo="https://i.imgur.com/l2JSQme.png" group-title="Religious,Philippines" ch-number="972",972 SMNI
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 
 ANIME
 
