@@ -392,7 +392,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 #EXTINF:-1 tvg-id="BBCLifestyle"  ch-number="717" group-title="Education" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",717 BBC Lifestyle HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82c5ba9d6368aa9d36d50e4198177910:9161f6debd89e32de98008338f0455b7
-#https://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default.mpd
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5050/default.mpd
 
 #EXTINF:-1 tvg-id="MTVAsia" ch-number="718" group-title="Education" tvg-logo="https://playtv.unifi.com.my:7048/CPS/images/universal/film/logo/202109/20210913/20210913160636492fzf.png",718 MTV Asia HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -400,6 +400,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/2610/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3ac2542a4f7be746633db07647451710": "22f964a6d6927ccdba482e775cdff190"}
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
+
+#EXTINF:-1 tvg-id="Trvl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/2018_Travel_Channel_logo.svg/640px-2018_Travel_Channel_logo.svg.png" ch-number="719" group-title="Education",719 Trvl
+https://raw.githubusercontent.com/xaaMee/ee/main/trvl.m3u8
 
 SPORTS 
 #EXTINF:-1 tvg-id="Billiardtv" group-title="Sports" ch-number="800" tvg-logo="https://i.ibb.co/FD8z1nD/1680728015128.png",800 Billiard TV
@@ -586,163 +589,42 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5018/default.mpd
 INDONESIA & SINGGAPOR & THAILAND
 
 ===================SINGAPORE============
-
+#EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png",Channel 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
-#EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="Ch 5" tvg-chno="Ch 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428076_ico.png",Channel 5 
+#KODIPROP:inputstream.adaptive.license_key=607b7d22565c4bc3b95ff6c33ce65425:28cc5367df666c44be4382e64af64d57
 https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2448fc561b0c4220a81f1008971d3088&key=f48eb6753f3d1774da682970c93cf260
 #EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="Ch 8" tvg-chno="Ch 8" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428078_ico.png",Channel 8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2448fc561b0c4220a81f1008971d3088:f48eb6753f3d1774da682970c93cf260
 https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
 #EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="Ch U" tvg-chno="Ch U" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428075_ico.png",Channel U
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0328a153c2994b279ab03ab25102fc59:2cc69eaaa858fed24c5623654daf8d3d
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7a9ea6df52044841b0c562766e602610&key=b9380188b4896b25e8d419dfce938c6e
 #EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="Suria" tvg-chno="Suria" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428073_ico.png,Suria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a9ea6df52044841b0c562766e602610:b9380188b4896b25e8d419dfce938c6e
 https://tglmp04.akamaized.net/out/v1/b200e885125f4787bd2329952ff28fa1/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=9970038ef6c548e39768f3a1ff6f5081&key=3e19d54b7bcd8bb336776fe136d48f57
+
 #EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="Vasantham" tvg-chno="Vasantham" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9428079_ico.png",Vasantham
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9970038ef6c548e39768f3a1ff6f5081:3e19d54b7bcd8bb336776fe136d48f57
 https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7cb90b341f444e4ca3fb60de2ed3d6e5&key=5640220b78729773fbeaabc19a502b50
+
 #EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="CNA" tvg-chno="CNA" tvg-logo="https://poster.starhubgo.com/Linear_channels2/106_1920x1080_HTV.png",Channel News Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7cb90b341f444e4ca3fb60de2ed3d6e5:5640220b78729773fbeaabc19a502b50
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=612eb711dfb444f7a194c5e20d7f7048&key=b6226449b9ed5066542e6d6ad5ecb346
 #EXTINF:-1 group-title="🇸🇬Singapore" tvg-id="CHN" tvg-chno="CHN" tvg-logo="https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format='png'&Quality=85&ImageId='2362416'&EntityType='Item'&EntityId='187161'&Width=336&Height=189&ImageUrl='2362416.png'&device='web_browser'&subscriptions='Registered'&segmentationTags='_en,all'&ResizeAction='fill'&HorizontalAlignment='center'&VerticalAlignment='top'",oktolidays
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=612eb711dfb444f7a194c5e20d7f7048:b6226449b9ed5066542e6d6ad5ecb346
 https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.mpd
-
-=================THAILAND ================================================================
-
-#EXTINF:-1 tvg-id="ThaiTV5HD1.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%875.png" group-title="🇹🇭 THAILAND", CH5 SD
-https://tc-live1.sanook.com/live/22302_ch5.m3u8
-#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://seeklogo.com/images/M/mcot-hd-logo-D6F286C4DD-seeklogo.com.png" group-title="🇹🇭 THAILAND", MCOT SD
-https://tc-live1.sanook.com/live/22302_ch9.m3u8
-#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/ALTV_Logo.png/150px-ALTV_Logo.png" group-title="🇹🇭 THAILAND", Altv 4 SD
-https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://pbs.twimg.com/profile_images/616532058718892032/SmjrJwro_400x400.jpg" group-title="🇹🇭 THAILAND", Attv
-http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://f.ptcdn.info/601/063/000/pqcvhsxk7PuKUZbFKv4-o.png" group-title="🇹🇭 THAILAND", CTB
-http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://photos.live-tv-channels.org/tv-logo/white-channel-9194.webp" group-title="🇹🇭 THAILAND", White Channel 28
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 tvg-id="CHN" tvg-logo="https://photos.live-tv-channels.org/tv-logo/th-zabb-channel-1948.jpg" group-title="🇹🇭 THAILAND", Zabb Channel
-https://live1.thaitvstream.com/play/zabbtv/index.m3u8
-
-
-RADIO
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="HITZ" ch-number="852" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png",HITZ
-https://astro1.rastream.com/hitz
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="MY" ch-number="853" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png", MY
-https://astro1.rastream.com/myfm
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="MIX" ch-number="855" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/18_144.png",MIX
-https://astro2.rastream.com/mix
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="ERA" ch-number="856" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/14_144.png",ERA
-https://astro2.rastream.com/era
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="SINAR" ch-number="857" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/26_144.png",SINAR
-https://astro2.rastream.com/sinar
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="MELODY" ch-number="858" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/28_144.png",MELODY
-https://astro3.rastream.com/melody
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="RAAGA" ch-number="859" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/30_144.png",RAAGA
-https://astro3.rastream.com/raaga
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="ROCK" ch-number="860" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokClassicRock2021.png",SYOK Classic Rock
-https://astro4.rastream.com/rock
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="GOLD" ch-number="861" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokGold2021.png",SYOK Gold
-https://astro4.rastream.com/gold
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="OPUS" ch-number="862" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOpus2021.png",SYOK Opus
-https://astro4.rastream.com/opus
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="GEGAR" ch-number="863" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/22_144.png",GEGAR
-https://astro3.rastream.com/gegar
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="INDIA" ch-number="864" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokIndiaBeat.png",SYOK India Beat
-https://astro4.rastream.com/india
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="JAZZ" ch-number="865" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokJazz2021.png",SYOK Jazz
-https://astro4.rastream.com/jazz
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="OSAI" ch-number="866" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokOsai2021.png",SYOK Osai
-https://astro4.rastream.com/osai
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="BAYU" ch-number="867" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokBayu2021.png",SYOK Bayu
-https://astro4.rastream.com/bayu
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="KENYALANG" ch-number="868" tvg-logo="https://aqfadtv.astradamy.com/logos/SyokKenyalang2021.png",SYOK Kenyalang
-https://astro4.rastream.com/kenyalang
-
-#EXTINF:-1, group-title="Radio Astro" tvg-id="CHN" tvg-logo="https://telegra.ph/file/3bd2712a70950607fa779.png",TV IKIM
-https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="RTMK10" ch-number="869" tvg-logo="https://user-images.githubusercontent.com/85995579/128818868-1f01f150-d8ec-4d0a-913c-efbd58b35536.png",Nasional FM
-https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="VFM" ch-number="870" tvg-logo="https://i.postimg.cc/4dW9q6P1/Sabah-VFM-New.png",VFM
-https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="WAIFM" ch-number="871" tvg-logo="https://i.postimg.cc/4yGS2T8c/Wai-FM-New.png",WAI FM
-https://waifmi.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="RTMK11" ch-number="872" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/312_144.png",TRAXX FM
-https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019.m3u8
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="RTMK13" ch-number="873" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/311_144.png",MINNAL FM
-https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021.m3u8
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="RTMK12" ch-number="874" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/303_144.png",AI FM
-https://klfmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="RTMK14" ch-number="875" tvg-logo="https://i.postimg.cc/rwd95Xd8/AsyikFM.png",ASYIK FM
-https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022.m3u8
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="ZAYAN" ch-number="876" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/292_144.png",ZAYAN
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/Zayan.m3u8
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="GOXUAN" ch-number="877" tvg-logo="https://aqfadtv.astradamy.com/logos/GoXuan2022.png",GOXUAN
-https://raw.githubusercontent.com/AqFad2811/RadioYTLive/main/GoXuan.m3u8
-
-#EXTINF:-1 tvg-id="CHN" ch-number="878" group-title="Radio Astro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/501.png/revision/latest?cb=20200520200333",Astro Awani Radio
-https://awanitv.akamaized.net/hls/live/2018478/Radio/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Era_Sabah_2018.png/revision/latest?cb=20211107023416",ERA Sabah
-https://astro2.rastream.com/amp-era-kk
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/Era_Sarawak_2018.png/revision/latest?cb=20211107023427",ERA Sarawak
-https://astro2.rastream.com/amp-era-kch
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Hitz_Sabah_2018.png/revision/latest?cb=20211113030208",HITZ Sabah
-https://astro1.rastream.com/amp-hitz-kk
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Hitz_Sarawak_2018.png/revision/latest?cb=20211113030223",HITZ Sarawak
-https://astro1.rastream.com/amp-hitz-kch
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/My_FM_Sabah_2018.png/revision/latest?cb=20211113091611",MY Sabah
-https://astro1.rastream.com/amp-myfm-kk
-
-#EXTINF:-1 group-title="Radio Astro" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c5/My_FM_Sarawak_2018.png/revision/latest?cb=20211113091627",MY Sarawak
-https://astro1.rastream.com/amp-myfm-kch
-
-#EXTINF:-1, group-title="Radio Astro" tvg-id="CHN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/Mola_logo_%282021%29.png/revision/latest/scale-to-width-down/300?cb=20210603035347", Mola Radio
-https://cdn3.wowza.com/1/OWlOaXJWREpLUzhs/RjZPa2pL/hls/live/playlist.m3u8
 
 
 
