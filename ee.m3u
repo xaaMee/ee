@@ -168,7 +168,7 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia" group-title="News" tvg-logo="https://ih1.redbubble.net/image.5028740176.8765/st,large,507x507-pad,600x600,f8f8f8.jpg" ch-number="518",518 ABC Australia
 https://ctrl.laotv.la/live/ABCA/index.m3u8
 
-#EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/201907160734540687tu.png" ch-number="521",521 DW English
+#EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1024px-Deutsche_Welle_Logo.svg.png" ch-number="521",521 DW English
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
