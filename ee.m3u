@@ -505,7 +505,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/1003/default.mpd
 
 #EXTINF:-1 tvg-id="PremierSports" group-title="Sports" ch-number="824" tvg-logo="https://aqfadtv.astradamy.com/logos/PremierSports2021.png",824 Premier Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfc32f4dc3dac49b34708ded20364610:025dcec778861dd1e40cce4dd35e73a4
+#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2601/default.mpd
 
 #EXTINF:-1 tvg-id="AstroCricket" group-title="Sports" ch-number="825" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/197_144.png",825 Astro Cricket
