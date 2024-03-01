@@ -188,7 +188,7 @@ DOCUMENTARY
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2103
 #https://linearjitp02-playback.astro.com.my/dash-wv/linear/2103/default.mpd
 
-#EXTINF:-1 tvg-id="Love Nature" group-title="Documentary" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS96LtAvdcxCAt3e5k1tKXF7E2Zzxan7cnOA&usqp=CAU" ch-number="549",549 Love Nature  
+#EXTINF:-1 tvg-id="Love Nature" group-title="Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" ch-number="549",549 Love Nature  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
