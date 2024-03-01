@@ -99,8 +99,8 @@ NEWS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4fc112f92a9f4eb989a1bd780d3e3de6": "19904aafe89d45a401d5caad9d841a77"}
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/501/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5025/default.mpd
 
 #EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="News" tvg-logo="https://i.ibb.co/YtQykMv/bernama.jpg",502 BERNAMA  
 #KODIPROP:inputstreamaddon=inputstream.adaptive
