@@ -661,7 +661,7 @@ https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 
 RELIGIOUS
 
-#EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious" ch-number="970",970 EWTN Asia-Pacific
+#EXTINF:-1 tvg-id="EWTNAsiaPacific.us" tvg-logo="https://paradisusdei.org/wp-content/uploads/2017/04/EWTN-Logo-Thumb.jpg" group-title="Religious" ch-number="970",970 EWTN Asia-Pacific
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
