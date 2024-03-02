@@ -673,12 +673,18 @@ https://ythls.armelin.one/channel/UCDXPB23ws_T0rVvrXVCYqyA.m3u8
 
 ANIME
 
-#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax" group-title="ANIME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" ch-number="718",718 Animax TH
+#EXTINF:-1 group-title="Anime" tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" ch-number="970",717 ANIMAX (SGP) 
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" } 
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-name="Animax" group-title="Anime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" ch-number="718",718 Animax TH
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ott3.khanggtivi.xyz/live/b3NybXEzcTBGQTNuZUdlZDFaQU9XYStoRHhGN1p5V0xTT1NlVkhWK0tOd1BpQXdMTHNFS1JZUi9oWEtNYW1nb1RyUjd2MzVsQ0NyY3pTM216QTd1UTBrdUdBM0ZaQXdCL1Y0WEdoRGk3b289/qnettv/animax/master.m3u8
 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://warningfm.github.io/v3/img/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name="Animax" ch-number="719", 719 Animax (Vision)
+#EXTINF:-1 group-title="Anime" tvg-logo="https://warningfm.github.io/v3/img/XTBtpcT.png?v=1.0.0.1" tvg-id="Animax" tvg-name="Animax" ch-number="719", 719 Animax (Vision)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
