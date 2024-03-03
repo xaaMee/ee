@@ -265,7 +265,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5020/default.mpd
 #KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5075/default.mpd
 
-#EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1024px-Deutsche_Welle_Logo.svg.png" ch-number="521",521 DW English
+#EXTINF:-1 tvg-id="DW" group-title="News" tvg-logo="https://i.ibb.co/nbtM8mX/image.png" ch-number="521",521 DW English
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
