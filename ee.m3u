@@ -414,16 +414,25 @@ ENTERTAINMENT
 https://gsn.z5cable.com/803B48A/n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="RockAction" group-title="Entertainment" tvg-logo="https://assets-global.website-files.com/64e961c3862892bff815289d/64f5706309cfeef5f1d4bc1f_logo_act_web-p-500.png" ch-number="701",701 Rock Action
-#https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockextreme.m3u8
-https://ott3.khanggtivi.xyz/live/b3NybXEzcTBGQTNuZUdlZDFaQU9XYStoRHhGN1p5V0xTT1NlVkhWK0tOd1BpQXdMTHNFS1JZUi9oWEtNYW1nb1RyUjd2MzVsQ0NyY3pTM216QTd1UTBrdUdBM0ZaQXdCL1Y0WEdoRGk3b289/asia/rockaction/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"rUUgLmT2bvNrP2D6yTzEfw", "kid":"I0HC7NPPSGWIG7D6Eofejw" } ], "type":"temporary" }
+https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
 #EXTINF:-1 tvg-id="RockEntertainment" group-title="Entertainment" tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow-p-500.png" ch-number="702",702 Rock Entertainment
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
-#https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockentertainment.m3u8
-#https://ott3.khanggtivi.xyz/live/b3NybXEzcTBGQTNuZUdlZDFaQU9XYStoRHhGN1p5V0xTT1NlVkhWK0tOd1BpQXdMTHNFS1JZUi9oWEtNYW1nb1RyUjd2MzVsQ0NyY3pTM216QTd1UTBrdUdBM0ZaQXdCL1Y0WEdoRGk3b289/asia/rockentertainment/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QLnyUEVbQ7Oy6mhFq4Gryg", "kid":"kimBTGKbQG+N6Y0vI8looA" } ], "type":"temporary" }
+https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
+
+##EXTINF:-1 tvg-id="RockEntertainment" group-title="Entertainment" tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow-p-500.png" ch-number="702",702 Rock Entertainment
+##KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+##KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+##EXTVLCOPT:http-referrer=https://visionplus.id
+##https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+##https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockentertainment.m3u8
+##https://ott3.khanggtivi.xyz/live/b3NybXEzcTBGQTNuZUdlZDFaQU9XYStoRHhGN1p5V0xTT1NlVkhWK0tOd1BpQXdMTHNFS1JZUi9oWEtNYW1nb1RyUjd2MzVsQ0NyY3pTM216QTd1UTBrdUdBM0ZaQXdCL1Y0WEdoRGk3b289/asia/rockentertainment/master.m3u8
 
 #EXTINF:-1 tvg-id="AXN" group-title="Entertainment" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png" ch-number="703",703 AXN HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
