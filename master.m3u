@@ -7,6 +7,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 https://ancglobal-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://wildaid.org/wp-content/uploads/2021/08/animal-planet-logo-white-1024x602.png" group-title="General",Animal Planet
 https://github.com/mimipipi22/lalajo/raw/main/animalplanet.m3u8
+#EXTINF:-1 tvg-logo="https://www.awetv.com/wp-content/uploads/2022/02/cropped-AWELogo-Header.jpg" group-title="General",AWE
+https://gsn.z5cable.com/803B48A/n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxXJ4bN/axs-tv-logo-1-by-hellmen45-dewoui2-pre.png" group-title="General",AXS TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=606605549dbfca002d2ae877
 #EXTINF:-1 tvg-logo="https://media.info/l/o/1/1470.1576698043.png" group-title="General",Baby First
