@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/ABC-Australia.jpg" group-title="General",ABC Australia
-https://ctrl.laotv.la/live/ABCA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K7SNXxw/image.png" group-title="General",Action Hollywood
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/ABS-CBN_News_Channel_%282015%29.svg/640px-ABS-CBN_News_Channel_%282015%29.svg.png" group-title="General",ANC
