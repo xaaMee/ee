@@ -11,7 +11,7 @@ https://github.com/mimipipi22/lalajo/raw/main/animalplanet.m3u8
 https://gsn.z5cable.com/803B48A/n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vxXJ4bN/axs-tv-logo-1-by-hellmen45-dewoui2-pre.png" group-title="General",AXS TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=778&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=Tog8X6wK6iweuzGFsz6p&content_series=606605549dbfca002d2ae877&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=Tog8X6wK6iweuzGFsz6p&custom_7=606605549dbfca002d2ae877
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/640px-BBC_World_News_red.svg.png" group-title="General",BBC World News
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/640px-BBC_World_News_red.svg.png" group-title="General",BBC News
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png" group-title="General",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
