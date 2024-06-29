@@ -26,7 +26,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=580
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ComedyDynamics_LOGO_2017.png/640px-ComedyDynamics_LOGO_2017.png" group-title="General",Comedy Dynamics TUBI
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Comedy-Dynamics.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="General",Discovery Channel
-https://github.com/mimipipi22/lalajo/raw/main/discoverychannel.m3u8
+https://raw.githubusercontent.com/xaaMee/ee/main/discov.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/320px-DMAX_Logo_16_05_2011.jpg" group-title="General",DMAX
 https://raw.githubusercontent.com/xaaMee/ee/main/dmax.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Z8YrT2y/image.png" group-title="General",Electric Now 
