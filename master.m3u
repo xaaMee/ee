@@ -23,8 +23,6 @@ https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/606px-CNA_new_logo.svg.png" group-title="General",Channel News Asia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/CNN-Feb-2022.jpg" group-title="General",CNN
-https://ctrl.laotv.la/live/CNN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ComedyDynamics_LOGO_2017.png/640px-ComedyDynamics_LOGO_2017.png" group-title="General",Comedy Dynamics OTTERA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=580
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ComedyDynamics_LOGO_2017.png/640px-ComedyDynamics_LOGO_2017.png" group-title="General",Comedy Dynamics TUBI
@@ -47,14 +45,12 @@ https://gsn.z5cable.com/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 https://gsn.z5cable.com/803B48A/n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QrQ7PCT/image.png" group-title="General",GMA
 https://ythls-v2.onrender.com/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/HBO.jpg" group-title="General",HBO
-https://edge1.laotv.la/live/HBO/sc-gaFECQ/v1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/HBO.jpg" group-title="General",HBO Astro 2
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2304/default.mpd?ck=eyJhMDk4ODk2ZDJiMTFjNWYzOTA2YTk5M2MzYmE1YzYxMCI6ImYzZjg0MmM1NGNjOTZjYmJkMGJjYjk2YTRjYjhhODEzIn0%3D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="General",HGTV
 https://raw.githubusercontent.com/xaaMee/ee/main/hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Pcb1w8/image.png" group-title="General",House Channel
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC17/index.m3u8
+#EXTINF:-1 tvg-logo="https://wrestlingheadlines.com/wp-content/uploads/2021/06/impact-wrestling-logo.jpg" group-title="General",Impact Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/692px-Investigation_Discovery_Logo_2018.svg.png" group-title="General",Investigation Documentary
 https://raw.githubusercontent.com/xaaMee/ee/main/id.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/KBS.png" group-title="General",KBS World
