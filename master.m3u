@@ -60,7 +60,7 @@ https://raw.githubusercontent.com/xaaMee/ee/main/mce.m3u8
 #EXTINF:-1 tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png" group-title="General",Motorvision Amagi
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png" group-title="General",Motorvision Dens
-https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/motorvision.m3u8
+https://github.com/xaaMee/ee/raw/main/motorv.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Myx.jpg" group-title="General",MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4tKXZ9/image.png" group-title="General",New KMovies
@@ -78,7 +78,7 @@ https://livecdn-iptv001.rumsport.com/stream/14839/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/895e6e666175009e005d2c3b6759db0ad159320cb3f11118e6301deb04e72251.png" group-title="General",Racing America
 https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/652f763c1fcddfc32c6860de_logo_act_web.png" group-title="General",Rock Action
-https://raw.githubusercontent.com/AzeemHadzrie/pesn-somestuff/main/m3u8/dens/rockextreme.m3u8
+https://raw.githubusercontent.com/xaaMee/ee/main/rockact.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow-p-500.png" group-title="General",Rock Entertainment
 https://raw.githubusercontent.com/xaaMee/ee/main/rockent.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="General",RT
