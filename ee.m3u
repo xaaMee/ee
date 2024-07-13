@@ -42,12 +42,22 @@ https://api.new.livestream.com/accounts/19079954/events/7831871/live.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 https://untv.mmdlive.lldns.net/untv/0251dac212a94932ae3563150cbb3788/untvweb.m3u8
 
-MOVIES 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QrQ7PCT/image.png" group-title="eeTVee Philippines" ch-number="12",12 GMA
+https://xigncode.notflix.in/hls/gmanixigncode/index.m3u8
 
-#EXTINF:-1 tvg-ID="SonyPix" tvg-logo="https://raw.githubusercontent.com/kpsboy/LOGO-KPSBOY/main/ASTRO/sonypix.png" group-title="Movies" ch-number="400,400 Sony PIX HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/640px-GTV_Philippines_Logo_Vector.svg.png" group-title="eeTVee Philippines" ch-number="13",13 GTV
+https://xigncode.notflix.in/hls/gtvnixigncode/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZdG0l2vnlMM/maxresdefault.jpg" group-title="eeTVee Philippines" ch-number="14",14 Kapamilya
+https://notflix-s1.13l.link/stream/notflix/kapamilya/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TV5_%28Philippines%29_logo.svg/768px-TV5_%28Philippines%29_logo.svg.png" group-title="eeTVee Philippines" ch-number="15", 15 TV5
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/640px-NBA_TV_Philippines.png" group-title="eeTVee Philippines" ch-number="16",16 NBA TV Philippines
+https://notflix-s1.13l.link/stream/notflix/nbaph/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
+
+MOVIES 
 
 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
