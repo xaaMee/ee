@@ -42,7 +42,9 @@ https://gsn.z5cable.com/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/541px-Game_Show_Network_2018.svg.png" group-title="General",Game Show Network
 https://gsn.z5cable.com/803B48A/n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QrQ7PCT/image.png" group-title="General",GMA
-https://ythls-v2.onrender.com/channel/UCKL5hAuzgFQsyrsQKgU0Qng.m3u8
+https://xigncode.notflix.in/hls/gmanixigncode/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/640px-GTV_Philippines_Logo_Vector.svg.png" group-title="General",GTV
+https://xigncode.notflix.in/hls/gtvnixigncode/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="General",HGTV
 https://raw.githubusercontent.com/xaaMee/ee/main/hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Pcb1w8/image.png" group-title="General",House Channel
@@ -51,6 +53,8 @@ https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC17/index.m3u8
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/692px-Investigation_Discovery_Logo_2018.svg.png" group-title="General",Investigation Documentary
 https://raw.githubusercontent.com/xaaMee/ee/main/id.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZdG0l2vnlMM/maxresdefault.jpg" group-title="General",Kapamilya
+https://notflix-s1.13l.link/stream/notflix/kapamilya/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/KBS.png" group-title="General",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="General",Lotus Macau
@@ -63,6 +67,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-sam
 https://github.com/xaaMee/ee/raw/main/motorv.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Myx.jpg" group-title="General",MYX
 https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/640px-NBA_TV_Philippines.png" group-title="General",NBA TV Philippines
+https://notflix-s1.13l.link/stream/notflix/nbaph/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4tKXZ9/image.png" group-title="General",New KMovies
 https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/7ebdf8cd-d4b3-4f80-bd58-2fc073cee0e9/0.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/459px-NOW_70s.png" group-title="General",Now70s
