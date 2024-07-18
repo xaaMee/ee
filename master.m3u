@@ -45,6 +45,8 @@ https://gsn.z5cable.com/803B48A/n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 https://xigncode.notflix.in/hls/gmanixigncode/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/640px-GTV_Philippines_Logo_Vector.svg.png" group-title="General",GTV
 https://xigncode.notflix.in/hls/gtvnixigncode/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.xumo.com/_next/image?url=%2Flogo-hallmark.jpg&w=3840&q=75" group-title="General",Hallmark Movies & More
+https://d3l10ju7ii2sha.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-301fj9dsme11n/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/640px-HGTV_2010.svg.png" group-title="General",HGTV
 https://raw.githubusercontent.com/xaaMee/ee/main/hgtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4Pcb1w8/image.png" group-title="General",House Channel
