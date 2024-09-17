@@ -14,7 +14,11 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
 
 #EXTINF:-1 tvg-ID="PTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/PTV_4_Para_Sa_Bayan_Logo_June_2017.svg/320px-PTV_4_Para_Sa_Bayan_Logo_June_2017.svg.png" group-title="eeTVee Philippines" ch-number="5",5 PTV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/PTV.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
 #EXTINF:-1 tvg-ID="DZBB" tvg-logo="https://aphrodite.gmanetwork.com/assets/radio/images/og/super_radyo.jpg" group-title="eeTVee Philippines" ch-number="6",6 Super Radyo DZBB
 https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
@@ -74,7 +78,21 @@ https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
+#EXTINF:-1 tvg-logo="https://img.mytfc.com/cmsroot/abscms/media/mytfctv/channels/tfc/logos/tfc_logo_800px.png?ext=.png" group-title="eeTVee Philippines" ch-number="16",17 TFC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+
 MOVIES 
+
+#EXTINF:-1 tvg-id="PBO" ch-number="300" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",300 PBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
 #EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Movies" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",401 HITS Movies
 #KODIPROP:inputstreamaddon=inputstream.adaptive
