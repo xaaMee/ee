@@ -55,7 +55,11 @@ https://notflix-s1.13l.link/stream/notflix/kapamilya/master.m3u8?u=notflix&p=e53
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_qp.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/640px-NBA_TV_Philippines.png" group-title="eeTVee Philippines" ch-number="16",16 NBA TV Philippines
-https://notflix-s1.13l.link/stream/notflix/nbaph/master.m3u8?u=notflix&p=e536c47c941477c4cc6f36074a44fc226bfc5ffafd35b34e280da8df5a73701d
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
 MOVIES 
 
