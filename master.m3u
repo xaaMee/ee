@@ -25,6 +25,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=580
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ComedyDynamics_LOGO_2017.png/640px-ComedyDynamics_LOGO_2017.png" group-title="General",Comedy Dynamics TUBI
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Comedy-Dynamics.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5539c052982045.Y3JvcCwyNDU4LDE5MjQsNzA0LDg0.png" group-title="General",Discovery Asia
+https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/disasia720.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/D/discovery-logo-853C219A76-seeklogo.com.png" group-title="General",Discovery Channel
 https://raw.githubusercontent.com/xaaMee/ee/main/discov.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/320px-DMAX_Logo_16_05_2011.jpg" group-title="General",DMAX
