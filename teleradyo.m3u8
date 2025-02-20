@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2"
-#EXTINF:-1 tvg-ID="Teleradyo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/640px-TeleRadyo_Serbisyo_logo.svg.png" group-title="eeTVee Philippines" ch-number="7",7 Teleradyo
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
