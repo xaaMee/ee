@@ -1,0 +1,92 @@
+﻿#EXTM3U url-tvg="https://cdn.studentsdemo.com/Local.xml, https://cdn.studentsdemo.com/Blast.xml, https://cdn.studentsdemo.com/tvguide.xml, https://cdn.studentsdemo.com/IPTVEditor_epg.xml" refresh="3600"
+
+#EXTINF:-1  tvg-id="phcathenatv/a2z" tvg-logo="https://i.imgur.com/3myn4zH.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",A2Z
+https://ott.studentsdemo.com/stream/phcathenatv/a2z/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/aliwtv" tvg-logo="https://russel.fandom.com/wiki/ALIW_Channel_23_Logos_%282023-present%29" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",ALIW TV
+https://ott.studentsdemo.com/stream/phcathenatv/aliwtv/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/alltv" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",ALL TV
+https://ott.studentsdemo.com/stream/phcathenatv/alltv/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/ancph" tvg-logo="https://static.wikia.nocookie.net/russel/images/4/4c/ANC_Logo_2015.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",ANC PH
+https://ott.studentsdemo.com/stream/phcathenatv/ancph/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/billonaryonewschannel" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a8/Bilyonaryo_News_Channel_Logo_2024.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Billonaryo News Channel
+https://ott.studentsdemo.com/stream/phcathenatv/billonaryonewschannel/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/blastsports" tvg-logo="https://i.imgur.com/XxHlcBN.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Blast Sports
+https://ott.studentsdemo.com/stream/phcathenatv/blastsports/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/buko" tvg-logo="https://i.imgur.com/c740k3p.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Buko
+https://ott.studentsdemo.com/stream/phcathenatv/buko/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/celestialmoviespinoy" tvg-logo="https://i.imgur.com/EUlYIWv.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Celestial Movies Pinoy
+https://ott.studentsdemo.com/stream/phcathenatv/celestialmoviespinoy/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/cinemaone" tvg-logo="https://i.imgur.com/hJ6MBiA.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Cinema One
+https://ott.studentsdemo.com/stream/phcathenatv/cinemaone/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/cinemo" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Cinemo
+https://ott.studentsdemo.com/stream/phcathenatv/cinemo/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/cltv36" tvg-logo="https://cltv36.tv/about-us/brand-resources/" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",CLTV 36
+https://ott.studentsdemo.com/stream/phcathenatv/cltv36/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/dzrhtv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/DZRH_logo_2021.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",DZRH TV
+https://ott.studentsdemo.com/stream/phcathenatv/dzrhtv/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/gma" tvg-logo="https://i.imgur.com/Cu1tAY8.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",GMA
+https://ott.studentsdemo.com/stream/phcathenatv/gma/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/gtv" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",GTV
+https://ott.studentsdemo.com/stream/phcathenatv/gtv/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/ibc13" tvg-logo="https://static.wikia.nocookie.net/signons-and-signoffs/images/4/45/IBC_13_Logo.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",IBC13
+https://ott.studentsdemo.com/stream/phcathenatv/ibc13/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/inctv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/INCTV_Logo_With_Shadow.webp/300px-INCTV_Logo_With_Shadow.webp.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",INC TV
+https://ott.studentsdemo.com/stream/phcathenatv/inctv/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/jeepneytv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Jeepney_TV_Logo_2015.svg/300px-Jeepney_TV_Logo_2015.svg.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Jeepney TV
+https://ott.studentsdemo.com/stream/phcathenatv/jeepneytv/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/kapamilyachannel" tvg-logo="https://i.imgur.com/POt9KB8.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Kapamilya Channel
+https://ott.studentsdemo.com/stream/phcathenatv/kapamilyachannel/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/knowledgechannel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Knowledge-Channel.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Knowledge Channel
+https://ott.studentsdemo.com/stream/phcathenatv/knowledgechannel/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/mptv" tvg-logo="https://i.imgur.com/gomDxSz.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",MPTV
+https://ott.studentsdemo.com/stream/phcathenatv/mptv/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/metrochannel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Metro_Channel_logo.png/300px-Metro_Channel_logo.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Metro Channel
+https://ott.studentsdemo.com/stream/phcathenatv/metrochannel/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/myxph" tvg-logo="https://i.imgur.com/CIPTNnT.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",MYX PH
+https://ott.studentsdemo.com/stream/phcathenatv/myxph/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/nbatvphilippines" tvg-logo="https://i.imgur.com/g5Q35IH.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",NBA TV Philippines
+https://ott.studentsdemo.com/stream/phcathenatv/nbatvphilippines/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/net25" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/9d/Net_25_Logo_2021.png/revision/latest/scale-to-width-down/1200?cb=20220810102057" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",NET25
+https://ott.studentsdemo.com/stream/phcathenatv/net25/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/onenews" tvg-logo="https://i.imgur.com/flKo7E5.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",One News
+https://ott.studentsdemo.com/stream/phcathenatv/onenews/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/oneph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c6/OnePHCignal.svg/300px-OnePHCignal.svg.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",One PH
+https://ott.studentsdemo.com/stream/phcathenatv/oneph/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/onesports" tvg-logo="https://i.imgur.com/RrBWZ16.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",One Sports
+https://ott.studentsdemo.com/stream/phcathenatv/onesports/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/onesports-1" tvg-logo="https://i.imgur.com/nFLt8cN.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",One Sports +
+https://ott.studentsdemo.com/stream/phcathenatv/onesports-1/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/pbarush" tvg-logo="https://i.imgur.com/tvxCVRr.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",PBA Rush
+https://ott.studentsdemo.com/stream/phcathenatv/pbarush/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/pbo" tvg-logo="https://i.imgur.com/oOMAyoX.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",PBO
+https://ott.studentsdemo.com/stream/phcathenatv/pbo/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/ptv" tvg-logo="https://i.imgur.com/plyCuAw.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",PTV
+https://ott.studentsdemo.com/stream/phcathenatv/ptv/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/rptv" tvg-logo="https://i.imgur.com/IDCHfXm.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",RPTV
+https://ott.studentsdemo.com/stream/phcathenatv/rptv/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/setantasports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Setanta Sports
+https://ott.studentsdemo.com/stream/phcathenatv/setantasports/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/smni" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",SMNI
+https://ott.studentsdemo.com/stream/phcathenatv/smni/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/solarflix" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/99/Solar_Flix_Sagot_ka_namin%21_Vector_Logo_2022.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",SOLARFLIX
+https://ott.studentsdemo.com/stream/phcathenatv/solarflix/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/teleradyoserbisyohd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/500px-TeleRadyo_Serbisyo_logo.svg.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Teleradyo Serbisyo HD
+https://ott.studentsdemo.com/stream/phcathenatv/teleradyoserbisyohd/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/teleradyoserbisyosd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/500px-TeleRadyo_Serbisyo_logo.svg.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",Teleradyo Serbisyo SD
+https://ott.studentsdemo.com/stream/phcathenatv/teleradyoserbisyosd/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/tmc" tvg-logo="https://i.imgur.com/2k0yRUd.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",TMC
+https://ott.studentsdemo.com/stream/phcathenatv/tmc/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/truefmtv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/TRUETV_Logo_2024.png/revision/latest/smart/width/250/height/250" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",True FM TV
+https://ott.studentsdemo.com/stream/phcathenatv/truefmtv/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/tvmaria" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/TV_MARIA_PH.png/revision/latest?cb=20200421061144" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",TV Maria
+https://ott.studentsdemo.com/stream/phcathenatv/tvmaria/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/tv5" tvg-logo="https://i.imgur.com/jsCBRq0.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",TV5
+https://ott.studentsdemo.com/stream/phcathenatv/tv5/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/tvnmoviespinoy" tvg-logo="https://i.imgur.com/9fKNEHY.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",tvN Movies Pinoy
+https://ott.studentsdemo.com/stream/phcathenatv/tvnmoviespinoy/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/untv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/99/UNTV-Logo-2016.svg/300px-UNTV-Logo-2016.svg.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",UNTV
+https://ott.studentsdemo.com/stream/phcathenatv/untv/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/uaapvarsitychannel" tvg-logo="https://i.imgur.com/pSLEHMa.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",UAAP Varsity Channel
+https://ott.studentsdemo.com/stream/phcathenatv/uaapvarsitychannel/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
+#EXTINF:-1  tvg-id="phcathenatv/vivacinema" tvg-logo="https://i.imgur.com/5jn4U88.png" group-title="PHC Athena TV" provider="PHC Athena TV" provider-type="iptv" provider-logo="",VIVA Cinema
+https://ott.studentsdemo.com/stream/phcathenatv/vivacinema/master.m3u8?u=phc&p=12115f68a7ddf4cb892610d910d5cff13a3819430148947c5eb32f8bbc0f47f1
