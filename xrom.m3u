@@ -1,14 +1,3 @@
-                           ===========================================
-                                ### xROMTv Free Playlist :) ###
-                           ===========================================
-
-### PHCORNER THREAD: https://phcorner.net/threads/free-converge-vision-and-cignal-tv-mpd-source.2206854/ ###
-
-                           ===========================================
- 
-========================================= 🇵🇭 PH CABLE TV ===========================================
-
-
 #EXTM3U 
 #EXTINF:-1 tvg-id="converge.ph" tvg-name="CONVERGE VISION INFO" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="🇵🇭 TFC CHANNELS",CONVERGE VISION INFO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
