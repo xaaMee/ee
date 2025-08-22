@@ -1664,19 +1664,19 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF: -1 tvg-id="ts174" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/330px-Star_Action_2020.svg.png" group-title="General", Star Action
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=230af93fc61c0c170067c9d1b6538402:49a9bf0cfba1cb4e52de3d458f6fb3a2
 https://uselector.cdn.intigral-ott.net/FMA/FMA.isml/manifest.mpd
 
 #EXTINF: -1 tvg-id="ts174" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Star_Movies_2024.svg/330px-Star_Movies_2024.svg.png" group-title="General", Star Movies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b7a662d7132679630f3a3f1862a859c:0651bc37e705349a2848278ae3ad7bf4
 https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 
 #EXTINF: -1 tvg-id="ts174" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Star_World_2024.svg/330px-Star_World_2024.svg.png" group-title="General", Star World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
