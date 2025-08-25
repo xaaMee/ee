@@ -142,7 +142,7 @@ http://143.44.136.110:6610/001/2/ch00000090990000001158/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BArk5VS.png" group-title="ConvergeVision",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6610/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://143.44.136.113:6610/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J13vCSt.png" group-title="ConvergeVision",CineMo!
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -257,7 +257,7 @@ http://143.44.136.110:6610/001/2/ch00000090990000001152/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CrwtOv4.png" group-title="ConvergeVision",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6610/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://143.44.136.112:6610/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO-Family.jpg" group-title="ConvergeVision",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -287,7 +287,7 @@ http://143.44.136.110:6610/001/2/ch00000090990000001074/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/noXeylh.png" group-title="ConvergeVision",IBC 13
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6610/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com
+http://143.44.136.111:6610/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ODfkvml.png" group-title="ConvergeVision",INC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
