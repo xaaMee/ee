@@ -1685,10 +1685,16 @@ https://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560701/index.mpd
 
+#EXTINF:-1 tvg-logo="https://immaf.org/wp-content/uploads/2019/03/extreme_logo2-2.jpg" group-title="Cgates", Extreme Sports
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4293507d592df040f2186f1ce82a712:fcda490bfd8148179b0e93c5ef0d80e3
+https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561206/index.mpd
+
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fight-Sports.jpg" group-title="Cgates", Fight Sports
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de6bcb2bef4f1c7968296c1cde182494:a9e3bdb344af427b90e4681174e41c97
+#KODIPROP:inputstream.adaptive.license_key=a9e3bdb344af427b90e4681174e41c97:de6bcb2bef4f1c7968296c1cde182494
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
 
 #EXTINF:-1 tvg-id="MTV 90s" tvg-name="" tvg-logo="https://media.tvup.cloud/canales/color_lg_65d7771bef2ecb45bb7dca2b.png" group-title="Music", MTV 90S
