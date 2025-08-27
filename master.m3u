@@ -1,640 +1,640 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/olHIY2o.png" group-title="ConvergeVision",3ABN International
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/olHIY2o.png" group-title="CoVis",3ABN International
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001183/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KKpUT2U.png" group-title="ConvergeVision",A2Z
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KKpUT2U.png" group-title="CoVis",A2Z
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001087/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sliq4LE.png" group-title="ConvergeVision",ABC Australia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Sliq4LE.png" group-title="CoVis",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001111/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/epuxuRN.png" group-title="ConvergeVision",Al Jazeera
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/epuxuRN.png" group-title="CoVis",Al Jazeera
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001343/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMWDFCh.png" group-title="ConvergeVision",Al Saudiya
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GMWDFCh.png" group-title="CoVis",Al Saudiya
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001176/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Gkl7QQc.png" group-title="ConvergeVision",ALIW Channel 23
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Gkl7QQc.png" group-title="CoVis",ALIW Channel 23
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001109/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iJk0Mdd.png" group-title="ConvergeVision",ALLTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iJk0Mdd.png" group-title="CoVis",ALLTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001179/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GCwNkcs.png" group-title="ConvergeVision",ANC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GCwNkcs.png" group-title="CoVis",ANC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001274/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KpwDFeP.png" group-title="ConvergeVision",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KpwDFeP.png" group-title="CoVis",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001335/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ilguygN.png" group-title="ConvergeVision",Animax
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ilguygN.png" group-title="CoVis",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001315/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E8ojVRf.png" group-title="ConvergeVision",Arirang
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/E8ojVRf.png" group-title="CoVis",Arirang
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001107/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fGmeK36.png" group-title="ConvergeVision",Asian Food Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fGmeK36.png" group-title="CoVis",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001342/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uMaK0kw.png" group-title="ConvergeVision",AXN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uMaK0kw.png" group-title="CoVis",AXN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001182/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z5KpWqn.png" group-title="ConvergeVision",BBC News
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z5KpWqn.png" group-title="CoVis",BBC News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001095/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fBjV8Rl.png" group-title="ConvergeVision",Bilyonaryo News Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fBjV8Rl.png" group-title="CoVis",Bilyonaryo News Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6sytgbg.png" group-title="ConvergeVision",Bloomberg
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6sytgbg.png" group-title="CoVis",Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001153/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/omn9vq0.png" group-title="ConvergeVision",BS Nittele
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/omn9vq0.png" group-title="CoVis",BS Nittele
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001213/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RXe7PEX.png" group-title="ConvergeVision",BS Fuji
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RXe7PEX.png" group-title="CoVis",BS Fuji
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001165/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V3keHfa.png" group-title="ConvergeVision",BS10 Star Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V3keHfa.png" group-title="CoVis",BS10 Star Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001202/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H8ePRXC.png" group-title="ConvergeVision",Cartoon Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H8ePRXC.png" group-title="CoVis",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001178/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9Q6QpRd.png" group-title="ConvergeVision",Cartoonito
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9Q6QpRd.png" group-title="CoVis",Cartoonito
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001125/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k19k03P.png" group-title="ConvergeVision",CCTV4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/k19k03P.png" group-title="CoVis",CCTV4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001223/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0Z3D6yK.png" group-title="ConvergeVision",Celestial Classic Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0Z3D6yK.png" group-title="CoVis",Celestial Classic Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001244/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MfzQRI0.png" group-title="ConvergeVision",Celestial Movies Pinoy
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MfzQRI0.png" group-title="CoVis",Celestial Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001077/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DRMXLE4.png" group-title="ConvergeVision",CGTN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DRMXLE4.png" group-title="CoVis",CGTN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001146/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fgS8fB0.png" group-title="ConvergeVision",CGTN Documentary
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fgS8fB0.png" group-title="CoVis",CGTN Documentary
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001110/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u3lXSDl.png" group-title="ConvergeVision",CinemaOne
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u3lXSDl.png" group-title="CoVis",CinemaOne
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001283/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6Z0C7XX.png" group-title="ConvergeVision",Cinemaworld
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6Z0C7XX.png" group-title="CoVis",Cinemaworld
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BArk5VS.png" group-title="ConvergeVision",Cinemax
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BArk5VS.png" group-title="CoVis",Cinemax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6610/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J13vCSt.png" group-title="ConvergeVision",CineMo!
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/J13vCSt.png" group-title="CoVis",CineMo!
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001254/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T2LvUaI.png" group-title="ConvergeVision",CLTV 36
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T2LvUaI.png" group-title="CoVis",CLTV 36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001314/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVFSTm6.png" group-title="ConvergeVision",CNA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XVFSTm6.png" group-title="CoVis",CNA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001106/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TLXieHp.png" group-title="ConvergeVision",CNN International
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TLXieHp.png" group-title="CoVis",CNN International
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001073/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dMW83xZ.png" group-title="ConvergeVision",Crime & Investigation Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dMW83xZ.png" group-title="CoVis",Crime & Investigation Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001144/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Tk4vayG.png" group-title="ConvergeVision",CTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Tk4vayG.png" group-title="CoVis",CTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001164/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AdL8dYr.png" group-title="ConvergeVision",DAAI TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AdL8dYr.png" group-title="CoVis",DAAI TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001201/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V4WOwUV.png" group-title="ConvergeVision",Discovery Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/V4WOwUV.png" group-title="CoVis",Discovery Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001334/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DahP5EM.png" group-title="ConvergeVision",Discovery Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DahP5EM.png" group-title="CoVis",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001194/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dghQISu.png" group-title="ConvergeVision",DW
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dghQISu.png" group-title="CoVis",DW
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001166/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6Lu2Prf.png" group-title="ConvergeVision",DZRH TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6Lu2Prf.png" group-title="CoVis",DZRH TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001174/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qpba8Zi.png" group-title="ConvergeVision",EURO NEWS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Qpba8Zi.png" group-title="CoVis",EURO NEWS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001336/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dxaDlpf.png" group-title="ConvergeVision",EWTN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/dxaDlpf.png" group-title="CoVis",EWTN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001104/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/25SFaV1.png" group-title="ConvergeVision",Fashion TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/25SFaV1.png" group-title="CoVis",Fashion TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001102/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ZK1o8F.png" group-title="ConvergeVision",FilAm TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ZK1o8F.png" group-title="CoVis",FilAm TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001134/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YYxMVf4.png" group-title="ConvergeVision",FOX News Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YYxMVf4.png" group-title="CoVis",FOX News Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001105/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kCewdxn.png" group-title="ConvergeVision",France24
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kCewdxn.png" group-title="CoVis",France24
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001157/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HgNpGVR.png" group-title="ConvergeVision",Global Trekker
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HgNpGVR.png" group-title="CoVis",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001203/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rR9gMvk.png" group-title="ConvergeVision",GMA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/rR9gMvk.png" group-title="CoVis",GMA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ItfVopn.png" group-title="ConvergeVision",Golden Nation Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ItfVopn.png" group-title="CoVis",Golden Nation Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001234/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Tzwxqot.png" group-title="ConvergeVision",GTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Tzwxqot.png" group-title="CoVis",GTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PHNCIAl.png" group-title="ConvergeVision",Hallypop
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PHNCIAl.png" group-title="CoVis",Hallypop
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001152/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CrwtOv4.png" group-title="ConvergeVision",HBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CrwtOv4.png" group-title="CoVis",HBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.112:6610/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO-Family.jpg" group-title="ConvergeVision",HBO Family
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO-Family.jpg" group-title="CoVis",HBO Family
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001246/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg" group-title="ConvergeVision",HBO Hits
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/HBO%20Hits-1.jpg" group-title="CoVis",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001284/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/HB-O-SIG1.png" group-title="ConvergeVision",HBO Signature
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/HB-O-SIG1.png" group-title="CoVis",HBO Signature
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001285/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Mgid3QC.png" group-title="ConvergeVision",HGTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Mgid3QC.png" group-title="CoVis",HGTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001162/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DQZLPj7.png" group-title="ConvergeVision",History
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/DQZLPj7.png" group-title="CoVis",History
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001074/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/noXeylh.png" group-title="ConvergeVision",IBC 13
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/noXeylh.png" group-title="CoVis",IBC 13
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.111:6610/001/2/ch00000090990000001089/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ODfkvml.png" group-title="ConvergeVision",INC TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ODfkvml.png" group-title="CoVis",INC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001092/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jYTe0r2.png" group-title="ConvergeVision",Jeepney TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jYTe0r2.png" group-title="CoVis",Jeepney TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HORLfgn.png" group-title="ConvergeVision",Kapamilya Channel HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HORLfgn.png" group-title="CoVis",Kapamilya Channel HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mJUgJsw.png" group-title="ConvergeVision",Kapamilya Channel SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mJUgJsw.png" group-title="CoVis",Kapamilya Channel SD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001248/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2OgFRDg.png" group-title="ConvergeVision",KBS Korea
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2OgFRDg.png" group-title="CoVis",KBS Korea
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001246/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NizGTeR.png" group-title="ConvergeVision",KBS World
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NizGTeR.png" group-title="CoVis",KBS World
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001353/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VPPtAo5.png" group-title="ConvergeVision",KIX
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VPPtAo5.png" group-title="CoVis",KIX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001263/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ekqTqNJ.png" group-title="ConvergeVision",Knowledge Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ekqTqNJ.png" group-title="CoVis",Knowledge Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MXP9ru3.png" group-title="ConvergeVision",Lifetime
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/MXP9ru3.png" group-title="CoVis",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001075/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2QCWZbu.png" group-title="ConvergeVision",Light TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2QCWZbu.png" group-title="CoVis",Light TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001103/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gYhyVoS.png" group-title="ConvergeVision",Living Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gYhyVoS.png" group-title="CoVis",Living Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001154/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YslBljF.png" group-title="ConvergeVision",Lotus Macau
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YslBljF.png" group-title="CoVis",Lotus Macau
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001196/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6XF4AEg.png" group-title="ConvergeVision",Metro Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6XF4AEg.png" group-title="CoVis",Metro Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001267/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QNnhHRJ.png" group-title="ConvergeVision",Mindanow Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QNnhHRJ.png" group-title="CoVis",Mindanow Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001123/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5AJNGo8.png" group-title="ConvergeVision",Motorvision+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5AJNGo8.png" group-title="CoVis",Motorvision+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001245/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TzMbDDP.png" group-title="ConvergeVision",MYX
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TzMbDDP.png" group-title="CoVis",MYX
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FGdgkwz.png" group-title="ConvergeVision",NBA TV Philippines
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FGdgkwz.png" group-title="CoVis",NBA TV Philippines
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001064/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fqRwiqZ.png" group-title="ConvergeVision",NET25
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fqRwiqZ.png" group-title="CoVis",NET25
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001090/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6TJbIzp.png" group-title="ConvergeVision",NHK BS
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6TJbIzp.png" group-title="CoVis",NHK BS
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001214/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X3gkNA0.png" group-title="ConvergeVision",NHK World Japan
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X3gkNA0.png" group-title="CoVis",NHK World Japan
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001145/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/49vO7BX.png" group-title="ConvergeVision",Nick Jr.
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/49vO7BX.png" group-title="CoVis",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001215/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uHTUE98.png" group-title="ConvergeVision",Nickelodeon
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uHTUE98.png" group-title="CoVis",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001313/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EVZzk9Z.png" group-title="ConvergeVision",One News
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EVZzk9Z.png" group-title="CoVis",One News
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001084/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z4sc3E4.png" group-title="ConvergeVision",One PH
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/z4sc3E4.png" group-title="CoVis",One PH
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001198/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KHF5d67.png" group-title="ConvergeVision",One Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KHF5d67.png" group-title="CoVis",One Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001083/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Y3mSJ4y.png" group-title="ConvergeVision",Oras ng Himala
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Y3mSJ4y.png" group-title="CoVis",Oras ng Himala
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001175/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5lqlzwJ.png" group-title="ConvergeVision",PBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5lqlzwJ.png" group-title="CoVis",PBO
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001078/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HcO0y0E.png" group-title="ConvergeVision",Phoenix Television
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HcO0y0E.png" group-title="CoVis",Phoenix Television
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001113/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QvnwN2s.png" group-title="ConvergeVision",Pinoy Xtreme
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QvnwN2s.png" group-title="CoVis",Pinoy Xtreme
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001098/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVqo2Lx.png" group-title="ConvergeVision",Premiere Football
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/uVqo2Lx.png" group-title="CoVis",Premiere Football
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RPFp6p9.png" group-title="ConvergeVision",Premier Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RPFp6p9.png" group-title="CoVis",Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001135/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bZhHUuq.png" group-title="ConvergeVision",Premier Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bZhHUuq.png" group-title="CoVis",Premier Sports 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001204/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6V1tfQc.png" group-title="ConvergeVision",PTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6V1tfQc.png" group-title="CoVis",PTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001086/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1G9QVp6.png" group-title="ConvergeVision",Radio Maria
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1G9QVp6.png" group-title="CoVis",Radio Maria
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001327/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9gMu7GS.png" group-title="ConvergeVision",Radyo Bandido TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9gMu7GS.png" group-title="CoVis",Radyo Bandido TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001338/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qvK6LKm.png" group-title="ConvergeVision",RJ Digi-TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qvK6LKm.png" group-title="CoVis",RJ Digi-TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001159/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eLGrC2i.png" group-title="ConvergeVision",Rock Entertainment
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eLGrC2i.png" group-title="CoVis",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001326/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ycpVOiR.png" group-title="ConvergeVision",Rock MNL
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ycpVOiR.png" group-title="CoVis",Rock MNL
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001177/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pApUhl4.png" group-title="ConvergeVision",RPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pApUhl4.png" group-title="CoVis",RPTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001094/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWvCZoi.png" group-title="ConvergeVision",SMNI
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FWvCZoi.png" group-title="CoVis",SMNI
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001155/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u9y2VSY.png" group-title="ConvergeVision",Solar Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u9y2VSY.png" group-title="CoVis",Solar Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EcFzR0a.png" group-title="ConvergeVision",Solarflix
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EcFzR0a.png" group-title="CoVis",Solarflix
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001243/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIbHgTz.png" group-title="ConvergeVision",Sportdigital Edge
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/VIbHgTz.png" group-title="CoVis",Sportdigital Edge
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001406/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KApD2WV.png" group-title="ConvergeVision",SPOTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KApD2WV.png" group-title="CoVis",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001133/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tlvzfCk.png" group-title="ConvergeVision",SPOTV 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tlvzfCk.png" group-title="CoVis",SPOTV 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001200/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wUVMWaj.png" group-title="ConvergeVision",TAP Action Flix
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wUVMWaj.png" group-title="CoVis",TAP Action Flix
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001305/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2R1GyqO.png" group-title="ConvergeVision",TAP Edge
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2R1GyqO.png" group-title="CoVis",TAP Edge
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001150/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QnJlIqW.png" group-title="ConvergeVision",TAP Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QnJlIqW.png" group-title="CoVis",TAP Movies
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001304/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wYzokXU.png" group-title="ConvergeVision",TAP Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/wYzokXU.png" group-title="CoVis",TAP Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001151/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGq0zwT.png" group-title="ConvergeVision",TAP TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vGq0zwT.png" group-title="CoVis",TAP TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001149/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XKDgsvY.png" group-title="ConvergeVision",TBN Asia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XKDgsvY.png" group-title="CoVis",TBN Asia
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001147/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6DK3wir.png" group-title="ConvergeVision",TBN Inspire
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6DK3wir.png" group-title="CoVis",TBN Inspire
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001148/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x0u2Ruc.png" group-title="ConvergeVision",Teleradyo Serbisyo
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/x0u2Ruc.png" group-title="CoVis",Teleradyo Serbisyo
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001249/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0lwqtZ0.png" group-title="ConvergeVision",Thrill
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0lwqtZ0.png" group-title="CoVis",Thrill
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001253/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X5eDNeE.png" group-title="ConvergeVision",TLC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/X5eDNeE.png" group-title="CoVis",TLC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001181/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHkrJw7.png" group-title="ConvergeVision",TMC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bHkrJw7.png" group-title="CoVis",TMC
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001080/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ynwq7UT.png" group-title="ConvergeVision",TV Maria
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ynwq7UT.png" group-title="CoVis",TV Maria
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001160/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/08CQAFL.png" group-title="ConvergeVision",TV5
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/08CQAFL.png" group-title="CoVis",TV5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001088/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RUCGsko.png" group-title="ConvergeVision",TV5 Monde
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RUCGsko.png" group-title="CoVis",TV5 Monde
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001156/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jp3hmmd.png" group-title="ConvergeVision",UNTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jp3hmmd.png" group-title="CoVis",UNTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001091/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C6IgZm6.png" group-title="ConvergeVision",USA TODAY
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/C6IgZm6.png" group-title="CoVis",USA TODAY
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001199/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ze73B9X.png" group-title="ConvergeVision",Vegas Life
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ze73B9X.png" group-title="CoVis",Vegas Life
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001195/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YeBcBEZ.png" group-title="ConvergeVision",VivaCinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YeBcBEZ.png" group-title="CoVis",VivaCinema
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001079/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5WJFDJK.png" group-title="ConvergeVision",VOA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5WJFDJK.png" group-title="CoVis",VOA
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001099/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HkKPjx6.png" group-title="ConvergeVision",Warner TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HkKPjx6.png" group-title="CoVis",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001096/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/On4saAH.png" group-title="ConvergeVision",WION
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/On4saAH.png" group-title="CoVis",WION
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001265/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tj6uDmI.png" group-title="ConvergeVision",Xing Kong
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tj6uDmI.png" group-title="CoVis",Xing Kong
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001337/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/puso8Mi.png" group-title="ConvergeVision",KBS 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/puso8Mi.png" group-title="CoVis",KBS 2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001344/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pGZmXqU.png" group-title="ConvergeVision",SEA Today
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pGZmXqU.png" group-title="CoVis",SEA Today
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001287/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/techstorm.png" group-title="ConvergeVision",Techstorm
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/techstorm.png" group-title="CoVis",Techstorm
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6610/001/2/ch00000090990000001328/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -758,505 +758,505 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/smart_sdi8.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/smart_sdi9.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ftwsljN.png" group-title="CignalPlay",A2Z
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ftwsljN.png" group-title="CPlay",A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_a2z.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SHwfqzO.png" group-title="CignalPlay",ABC Australia
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SHwfqzO.png" group-title="CPlay",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=389497f9f8584a57b234e27e430e04b7:3b85594c7f88604adf004e45c03511c0
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-10-prod.akamaized.net/out/u/dr_abc_aus.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/52zEejy.png" group-title="CignalPlay",Al Jazeera
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/52zEejy.png" group-title="CPlay",Al Jazeera
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f3d900a04d84492b31fe9f79ac614e3:d33ff14f50beac42969385583294b8f2
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_aljazeera.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SkpFpW4.png" group-title="CignalPlay",Animal Planet
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SkpFpW4.png" group-title="CPlay",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_animal_planet_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5gJTEHT.png" group-title="CignalPlay",Animax
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5gJTEHT.png" group-title="CPlay",Animax
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92032b0e41a543fb9830751273b8debd:03f8b65e2af785b10d6634735dbe6c11
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_animax_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0n2Am4n.png" group-title="CignalPlay",Arirang
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0n2Am4n.png" group-title="CPlay",Arirang
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13815d0fa026441ea7662b0c9de00bcf:2d99a55743677c3879a068dd9c92f824
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/arirang_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PUe61Ov.png" group-title="CignalPlay",Asian Food Network
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/PUe61Ov.png" group-title="CPlay",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1619db30b9ed42019abb760a0a3b5e7f:5921e47fb290ae263291b851c0b4b6e4
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/asianfoodnetwork_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OuaLV7f.png" group-title="CignalPlay",AXN
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OuaLV7f.png" group-title="CPlay",AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vip1JIz.png" group-title="CignalPlay",BBC Earth HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vip1JIz.png" group-title="CPlay",BBC Earth HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Tu3EwY9.png" group-title="CignalPlay",BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Tu3EwY9.png" group-title="CPlay",BBC Lifestyle
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34880f56627c11ee8c990242ac120002:c23677c829bb244b79a3dc09ffd88ca0
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_bbclifestyle.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CTf7nGs.png" group-title="CignalPlay",BBC News
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CTf7nGs.png" group-title="CPlay",BBC News
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/bbcworld_news_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FxHmXYU.png" group-title="CignalPlay",Bilyonaryo News Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FxHmXYU.png" group-title="CPlay",Bilyonaryo News Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2WGEb3V.png" group-title="CignalPlay",Bloomberg
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2WGEb3V.png" group-title="CPlay",Bloomberg
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ef7d9dcfb99b406cb79fb9f675cba426:b24094f6ca136af25600e44df5987af4
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/bloomberg_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BxQvEil.png" group-title="CignalPlay",Buko
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BxQvEil.png" group-title="CPlay",Buko
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FMGTxWc.png" group-title="CignalPlay",Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FMGTxWc.png" group-title="CPlay",Cartoon Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TuwJPPz.png" group-title="CignalPlay",CCTV 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/TuwJPPz.png" group-title="CPlay",CCTV 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b83566836c0d4216b7107bd7b8399366:32d50635bfd05fbf8189a0e3f6c8db09
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cctv4.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UI9B475.png" group-title="CignalPlay",CGTN Documentary
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/UI9B475.png" group-title="CPlay",CGTN Documentary
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f854ee4412b11edb8780242ac120002:9f2c82a74e727deadbda389e18798d55
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_cgtn.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9LNJXe3.png" group-title="CignalPlay",Cinemax HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9LNJXe3.png" group-title="CPlay",Cinemax HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NTGGEKz.png" group-title="CignalPlay",CNA
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/NTGGEKz.png" group-title="CPlay",CNA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b259df9987364dd3b778aa5d42cb9acd:753e3dba96ab467e468269e7e33fb813
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_channelnewsasia.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fZ4MSUe.png" group-title="CignalPlay",CNN HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/fZ4MSUe.png" group-title="CPlay",CNN HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cnnhd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9QBOVGF.png" group-title="CignalPlay",Crime & Investigation
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/9QBOVGF.png" group-title="CPlay",Crime & Investigation
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_crime_invest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ii7tRrE.png" group-title="CignalPlay",DepEd TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ii7tRrE.png" group-title="CPlay",DepEd TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/depedch_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XsvAk5H.png" group-title="CignalPlay",Discovery Channel SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XsvAk5H.png" group-title="CPlay",Discovery Channel SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="CignalPlay",DreamWorks (Tagalized)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="CPlay",DreamWorks (Tagalized)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_dreamworktag.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="CignalPlay",DreamWorks HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/bzTr9Y2.png" group-title="CPlay",DreamWorks HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lb9cHrS.png" group-title="CignalPlay",Fashion TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lb9cHrS.png" group-title="CPlay",Fashion TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=971ebbe2d887476398e97c37e0c5c591:472aa631b1e671070a4bf198f43da0c7
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_fashiontvhd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FZBze3z.png" group-title="CignalPlay",Food Network HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/FZBze3z.png" group-title="CPlay",Food Network HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_foodnetwork_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d8doNpe.png" group-title="CignalPlay",France 24
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d8doNpe.png" group-title="CPlay",France 24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_france24.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EcY6bHc.png" group-title="CignalPlay",Global Trekker
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EcY6bHc.png" group-title="CPlay",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SefoKAw.png" group-title="CignalPlay",HBO Family HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SefoKAw.png" group-title="CPlay",HBO Family HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6uN52OW.png" group-title="CignalPlay",HBO HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/6uN52OW.png" group-title="CPlay",HBO HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d47ebabf7a21430b83a8c4b82d9ef6b1:54c213b2b5f885f1e0290ee4131d425b
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tGSLZWz.png" group-title="CignalPlay",HBO Hits HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tGSLZWz.png" group-title="CPlay",HBO Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3L9QRDw.png" group-title="CignalPlay",HBO Signature HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3L9QRDw.png" group-title="CPlay",HBO Signature HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a6gRxAV.png" group-title="CignalPlay",HGTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/a6gRxAV.png" group-title="CPlay",HGTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/hgtv_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJQJyhb.png" group-title="CignalPlay",History HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/oJQJyhb.png" group-title="CPlay",History HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="CignalPlay",Hits HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="CPlay",Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xjyDTMr.png" group-title="CignalPlay",HITS Movies
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xjyDTMr.png" group-title="CPlay",HITS Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ck0ad9b.png" group-title="CignalPlay",HITS Now
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ck0ad9b.png" group-title="CPlay",HITS Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="CignalPlay",IBC
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="CPlay",IBC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/ibc13_sd_new.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aFDRmtm.png" group-title="CignalPlay",KBS World SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aFDRmtm.png" group-title="CPlay",KBS World SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_kbsworld.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GT8Y36M.png" group-title="CignalPlay",Kix HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GT8Y36M.png" group-title="CPlay",Kix HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4O93eBO.png" group-title="CignalPlay",Knowledge Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4O93eBO.png" group-title="CPlay",Knowledge Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f856fa0412b11edb8780242ac120002:783374273ef97ad3bc992c1d63e091e7
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_knowledgechannel.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZyqbNXn.png" group-title="CignalPlay",Lifetime SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZyqbNXn.png" group-title="CPlay",Lifetime SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_lifetime.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5G72qjx.png" group-title="CignalPlay",Lotus Macau
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/5G72qjx.png" group-title="CPlay",Lotus Macau
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc692e64ea443a8fb5ac186c865a9b:01bdbe22d59b2a4504b53adc2f606cc1
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/lotusmacau_prd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ILaPSzA.png" group-title="CignalPlay",Moonbug Kids
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ILaPSzA.png" group-title="CPlay",Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ev9wen0.png" group-title="CignalPlay",MPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ev9wen0.png" group-title="CPlay",MPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6aab8f40536f4ea98e7c97b8f3aa7d4e:139aa5a55ade471faaddacc4f4de8807
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_mptv.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RcxNoIC.png" group-title="CignalPlay",NBA TV Philippines (Cignal)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RcxNoIC.png" group-title="CPlay",NBA TV Philippines (Cignal)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cgnl_nba.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OhFGSpi.png" group-title="CignalPlay",NBA TV Philippines (Pilipinas Live)
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OhFGSpi.png" group-title="CPlay",NBA TV Philippines (Pilipinas Live)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f36eed9e95f140fabbc88a08abbeafff:0125600d0eb13359c28bdab4a2ebe75a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/pl_nba.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SpJEnXg.png" group-title="CignalPlay",NHK World Japan
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/SpJEnXg.png" group-title="CPlay",NHK World Japan
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d6e9d4de7d7449aadd846b7a684e564:0800fff80980f47f7ac6bc60b361b0cf
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nhk_japan.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iIVYdZP.png" group-title="CignalPlay",Nick Jr
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iIVYdZP.png" group-title="CPlay",Nick Jr
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4o5dNZA.png" group-title="CignalPlay",Nickelodeon SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4o5dNZA.png" group-title="CPlay",Nickelodeon SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/25PG6TF.png" group-title="CignalPlay",One News HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/25PG6TF.png" group-title="CPlay",One News HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U9QwJSE.png" group-title="CignalPlay",One PH
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U9QwJSE.png" group-title="CPlay",One PH
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92834ab4a7e1499b90886c5d49220e46:a7108d9a6cfcc1b7939eb111daf09ab3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/imI97L2.png" group-title="CignalPlay",One Sports HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/imI97L2.png" group-title="CPlay",One Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_onesports_hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RnDeKOj.png" group-title="CignalPlay",One Sports+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/RnDeKOj.png" group-title="CPlay",One Sports+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=322d06e9326f4753a7ec0908030c13d8:1e3e0ca32d421fbfec86feced0efefda
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z7oMGiI.png" group-title="CignalPlay",PBA Rush HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Z7oMGiI.png" group-title="CPlay",PBA Rush HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r3PUF9p.png" group-title="CignalPlay",PBO
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/r3PUF9p.png" group-title="CPlay",PBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/pbo_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GTfUEnU.png" group-title="CignalPlay",Premier Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GTfUEnU.png" group-title="CPlay",Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OWVR172.png" group-title="CignalPlay",Premier Sports 2
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OWVR172.png" group-title="CPlay",Premier Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jRvEV4E.png" group-title="CignalPlay",PTV 4
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/jRvEV4E.png" group-title="CPlay",PTV 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BuKajCb.png" group-title="CignalPlay",Rock Entertainment
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/BuKajCb.png" group-title="CPlay",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4ee0cf8ca9746f99af402ca6eed8dc7:be2a096403346bc1d0bb0f812822bb62
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockentertainment.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T70dbrM.png" group-title="CignalPlay",Rock Action
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/T70dbrM.png" group-title="CPlay",Rock Action
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0f852fb8412b11edb8780242ac120002:4cbc004d8c444f9f996db42059ce8178
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_rockextreme.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EbHOHer.png" group-title="CignalPlay",RPTV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EbHOHer.png" group-title="CPlay",RPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/25CGN9g.png" group-title="CignalPlay",Sari-Sari
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/25CGN9g.png" group-title="CPlay",Sari-Sari
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_sari_sari_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QExPfsT.png" group-title="CignalPlay",SPOTV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QExPfsT.png" group-title="CPlay",SPOTV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7mY1Zxg.png" group-title="CignalPlay",SPOTV 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7mY1Zxg.png" group-title="CPlay",SPOTV 2 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/550RYpJ.png" group-title="CignalPlay",Tagalized Movie Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/550RYpJ.png" group-title="CPlay",Tagalized Movie Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tagalogmovie.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pjeTzag.png" group-title="CignalPlay",Tap Action Flix HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pjeTzag.png" group-title="CPlay",Tap Action Flix HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lVNcCFq.png" group-title="CignalPlay",Tap Movies HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lVNcCFq.png" group-title="CPlay",Tap Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HWbSPI9.png" group-title="CignalPlay",Tap Sports
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HWbSPI9.png" group-title="CPlay",Tap Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vDvLPda.png" group-title="CignalPlay",Tap TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vDvLPda.png" group-title="CPlay",Tap TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iqhz6mI.png" group-title="CignalPlay",TechStorm
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Iqhz6mI.png" group-title="CPlay",TechStorm
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5675d85ce6754ba6aa8f6acc4660f76f:140bfb365cf143c349f68699238a610c
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tech_storm.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kgqsalZ.png" group-title="CignalPlay",Thrill SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kgqsalZ.png" group-title="CPlay",Thrill SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ukGHjv.png" group-title="CignalPlay",Travel Channel SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ukGHjv.png" group-title="CPlay",Travel Channel SD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/travel_channel_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i0xetYa.png" group-title="CignalPlay",True FM TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i0xetYa.png" group-title="CPlay",True FM TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3GGCstQ.png" group-title="CignalPlay",TV Maria
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/3GGCstQ.png" group-title="CPlay",TV Maria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/tvmaria_prd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U5L67WD.png" group-title="CignalPlay",TV5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/U5L67WD.png" group-title="CPlay",TV5 HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aJkwXM4.png" group-title="CignalPlay",TV5 Monde
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/aJkwXM4.png" group-title="CPlay",TV5 Monde
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tv5_monde.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8YhI91e.png" group-title="CignalPlay",tvN Movies Pinoy
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8YhI91e.png" group-title="CPlay",tvN Movies Pinoy
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qEPJE1t.png" group-title="CignalPlay",tvN Premium HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qEPJE1t.png" group-title="CPlay",tvN Premium HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OHLO5Hz.png" group-title="CignalPlay",TVUP
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OHLO5Hz.png" group-title="CPlay",TVUP
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83e813ccd4ca4837afd611037af02f63:a97c515dbcb5dcbc432bbd09d15afd41
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/tvup_prd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/POFK8tM.png" group-title="CignalPlay",UAAP Varsity Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/POFK8tM.png" group-title="CPlay",UAAP Varsity Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/cg_uaap_cplay_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hBb2Fh9.png" group-title="CignalPlay",Viva Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/hBb2Fh9.png" group-title="CPlay",Viva Cinema
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JcTU3L6.png" group-title="CignalPlay",Warner TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JcTU3L6.png" group-title="CPlay",Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
