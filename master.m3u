@@ -1679,38 +1679,6 @@ https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/330px-Eurosport_1_Logo_2015.svg.png" group-title="Cgates", Eurosport 1
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a0b9df5f92e6b218ddb6aa40a2cd996d:01a665d487aa4c1c898c9eb0ff1a21df
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561802/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/330px-Eurosport_2_Logo_2015.svg.png" group-title="Cgates", Eurosport 2
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=364e00581c1432f4175e4a2e8e0cd57e:657707bbd1e240e08bd6969df27fef7c
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561705/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/330px-MTV_Hits_2021.svg.png" group-title="Cgates", MTV Hits
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c75b1640bc83ec0c653902a775e5bb1a:1041d72f861c4e60a87a4e828250ded6
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560612/index.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/330px-MTV_Live_2021_logo.svg.png" group-title="Cgates", MTV Live
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560701/index.mpd
-
-#EXTINF:-1 tvg-logo="https://immaf.org/wp-content/uploads/2019/03/extreme_logo2-2.jpg" group-title="Cgates", Extreme Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4293507d592df040f2186f1ce82a712:fcda490bfd8148179b0e93c5ef0d80e3
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561206/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fight-Sports.jpg" group-title="Cgates", Fight Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a9e3bdb344af427b90e4681174e41c97:de6bcb2bef4f1c7968296c1cde182494
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
-
 #EXTINF:-1 tvg-logo="https://v4-vno-j13-cdn-01.images.cdn.cgates.lt/static/channels/560908.png" group-title="Cgates", AMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34c1715a9fd24e7d8497da043669ad66":"e3ce21758f33b38413d7cfecfddcb289"}
@@ -1719,6 +1687,59 @@ https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560908/index.mpd
 #EXTINF:-1 tvg-logo="https://v4-vno-u120-cdn-02.images.cdn.cgates.lt/static/channels/561803.png" group-title="Cgates", Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"999c783c19f6412fbd874ed21e17c9c2":"494421f360d98a7fdda924130d662272"}
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561803/index.mpd?ck=eyI5OTljNzgzYzE5ZjY0MTJmYmQ4NzRlZDIxZTE3YzljMiI6IjQ5NDQyMWYzNjBkOThhN2ZkZGE5MjQxMzBkNjYyMjcyIn0%3D
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561803/index.mpd
+
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/562104.png" group-title="Cgates", Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0e5b4f0f0bf641029b2b2000665a8b49":"152408adb88d19b5bfac04ccb6c493bb"}
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/562104/index.mpd
+
+#EXTINF:-1 tvg-logo="https://v4-vno-j13-cdn-01.images.cdn.cgates.lt/static/channels/561206.png" group-title="Cgates", Extreme Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e4293507d592df040f2186f1ce82a712:fcda490bfd8148179b0e93c5ef0d80e3
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561206/index.mpd
+
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561802.png" group-title="Cgates", Eurosport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a0b9df5f92e6b218ddb6aa40a2cd996d:01a665d487aa4c1c898c9eb0ff1a21df
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561802/index.mpd
+
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561705.png" group-title="Cgates", Eurosport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=364e00581c1432f4175e4a2e8e0cd57e:657707bbd1e240e08bd6969df27fef7c
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561705/index.mpd
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fight-Sports.jpg" group-title="Cgates", Fight Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9e3bdb344af427b90e4681174e41c97:de6bcb2bef4f1c7968296c1cde182494
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
+
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/560410.png" group-title="Cgates", MTV 00s
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"ba29ad1cfb7c4a8b95cca44cf4641e78":"b5db7930ad42ca8e7eff680ffba8a713"}
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560410/index.mpd
+
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/560612.png" group-title="Cgates", MTV Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c75b1640bc83ec0c653902a775e5bb1a:1041d72f861c4e60a87a4e828250ded6
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560612/index.mpd
+
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/560701.png" group-title="Cgates", MTV Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560701/index.mpd
+
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561101.png" group-title="Cgates", Stingray Concerts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"fa806baddc384a168eff4f95f06ad289":"eb65e4b92473ed6e33ff05a56343dbab"}
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561101/index.mpd
+
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/560902.png" group-title="Cgates", Viasat Kino Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a3d36e39d7a348b8baefe91d766502fd":"c7dbd70b01503a82d081f373bfb872a3"}
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560902/index.mpd
+
+
+
 
 
