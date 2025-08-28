@@ -1692,32 +1692,33 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561802/index.mpd
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/330px-MTV_Hits_2021.svg.png" group-title="Cgates", MTV Hits
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c75b1640bc83ec0c653902a775e5bb1a:1041d72f861c4e60a87a4e828250ded6
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560612/index.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/330px-MTV_Live_2021_logo.svg.png" group-title="Cgates", MTV Live
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1041d72f861c4e60a87a4e828250ded6:c75b1640bc83ec0c653902a775e5bb1a
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560701/index.mpd
 
 #EXTINF:-1 tvg-logo="https://immaf.org/wp-content/uploads/2019/03/extreme_logo2-2.jpg" group-title="Cgates", Extreme Sports
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e4293507d592df040f2186f1ce82a712:fcda490bfd8148179b0e93c5ef0d80e3
 https://v4-kun-v13-cdn-02.live.cdn.cgates.lt/live/dash/561206/index.mpd
 
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fight-Sports.jpg" group-title="Cgates", Fight Sports
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/69.1 ExoPlayerLib/824.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9e3bdb344af427b90e4681174e41c97:de6bcb2bef4f1c7968296c1cde182494
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
 
-#EXTINF:-1 tvg-id="MTV 90s" tvg-name="" tvg-logo="https://media.tvup.cloud/canales/color_lg_65d7771bef2ecb45bb7dca2b.png" group-title="Music", MTV 90S
-#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#EXTINF:-1 tvg-logo="https://v4-vno-j13-cdn-01.images.cdn.cgates.lt/static/channels/560908.png" group-title="Cgates", AMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=92c7fc1e12ad4e969a44b8b3fe8669fb:ae9f0d8d0bbec47b694f45827059f831
-http://vfpc.gb.vodafone.es/sdash/LIVE$CUP080/2.mpd/Manifest.mpd?start=LIVE&end=END&device=DASH_XDSL_SSP_ENC_LIVE
+#KODIPROP:inputstream.adaptive.license_key={"34c1715a9fd24e7d8497da043669ad66":"e3ce21758f33b38413d7cfecfddcb289"}
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560908/index.mpd
+
+#EXTINF:-1 tvg-logo="https://v4-vno-u120-cdn-02.images.cdn.cgates.lt/static/channels/561803.png" group-title="Cgates", Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"999c783c19f6412fbd874ed21e17c9c2":"494421f360d98a7fdda924130d662272"}
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561803/index.mpd?ck=eyI5OTljNzgzYzE5ZjY0MTJmYmQ4NzRlZDIxZTE3YzljMiI6IjQ5NDQyMWYzNjBkOThhN2ZkZGE5MjQxMzBkNjYyMjcyIn0%3D
+
 
