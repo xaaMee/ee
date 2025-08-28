@@ -1689,6 +1689,11 @@ https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560908/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"999c783c19f6412fbd874ed21e17c9c2":"494421f360d98a7fdda924130d662272"}
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561803/index.mpd
 
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561306.png" group-title="Cgates", Baby TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a7707f7fb0c84c8ba54619f514eee4ec":"fd2ceae6cddde71895e4718f00f34275"}
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561306/index.mpd
+
 #EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/560401.png" group-title="Cgates", Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"5cebda34393a4b20b0748445ba89e8c4":"2c125f88407aff752517ffc485436043"}
@@ -1699,10 +1704,20 @@ https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560401/index.mpd
 #KODIPROP:inputstream.adaptive.license_key={"f3edd459ec694178ace7085a1590e1f7":"87a8578d064e701561e580929f425a53"}
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560608/index.mpd
 
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/560404.png" group-title="Cgates", CNN International
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"2f4052e0dcb740b28b8fd49ee4ecd35a":"e2e0d07b2767e46581c82cf87614e750"}
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560404/index.mpd
+
 #EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/562104.png" group-title="Cgates", Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"0e5b4f0f0bf641029b2b2000665a8b49":"152408adb88d19b5bfac04ccb6c493bb"}
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/562104/index.mpd
+
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561006.png" group-title="Cgates", Epic Drama
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1e141d9362a146908b68789ae5426622":"301c04cf7fc0efa2a25e3feb2cbedec0"}
+https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561006/index.mpd
 
 #EXTINF:-1 tvg-logo="https://v4-vno-j13-cdn-01.images.cdn.cgates.lt/static/channels/561206.png" group-title="Cgates", Extreme Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
