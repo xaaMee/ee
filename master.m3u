@@ -1730,12 +1730,12 @@ https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561206/index.mpd
 #EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561802.png" group-title="Cgates", Eurosport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a0b9df5f92e6b218ddb6aa40a2cd996d:01a665d487aa4c1c898c9eb0ff1a21df
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561802/index.mpd
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt//live/dash/561802/index.mpd
 
 #EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561705.png" group-title="Cgates", Eurosport 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=364e00581c1432f4175e4a2e8e0cd57e:657707bbd1e240e08bd6969df27fef7c
-https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/561705/index.mpd
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561705/index.mpd
 
 #EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561205.png" group-title="Cgates", Fight Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
