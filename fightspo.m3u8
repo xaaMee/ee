@@ -1,8 +1,5 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=1244100,RESOLUTION=960x540
-https://cdn09jtedge.indihometv.com/joss/133/fightsport/chunklist_w286115069_b1244100_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=1544100,RESOLUTION=1280x720
-https://cdn09jtedge.indihometv.com/joss/133/fightsport/chunklist_w286115069_b1544100_sleng.m3u8
-#EXT-X-STREAM-INF:BANDWIDTH=2544100,RESOLUTION=1920x1080
-https://cdn09jtedge.indihometv.com/joss/133/fightsport/chunklist_w286115069_b2544100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561205.png" group-title="Cgates", Fight Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9e3bdb344af427b90e4681174e41c97:de6bcb2bef4f1c7968296c1cde182494
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
