@@ -291,7 +291,7 @@ http://161.49.17.2:6610/001/2/ch00000090990000001074/manifest.mpd?JITPDRMType=Wi
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/noXeylh.png" group-title="CoVis",IBC 13
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.111:6610/001/2/ch00000090990000001089/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+http://161.49.17.2:6610/001/2/ch00000090990000001089/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ODfkvml.png" group-title="CoVis",INC TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
