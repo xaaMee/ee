@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://tr.images.cdn.cgates.lt/static/channels/561205.png" group-title="Cgates", Fight Sports
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a9e3bdb344af427b90e4681174e41c97:de6bcb2bef4f1c7968296c1cde182494
-https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561205/index.mpd
