@@ -1821,6 +1821,16 @@ https://uselector.cdn.intigral-ott.net/STM/STM.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=19cf49b59d662baf0359682aa503749f:af573556d33ef2f094b98c7d22e9ffce
 https://uselector.cdn.intigral-ott.net/STW/STW.isml/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://poc-cf-image.cjenm.com/public/share/metamng/channel/ocn%20movie_color_118x50.png" group-title="General", OCN Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=817839de27764deb879c65c571c19226:2b1443f33c919c89429a21259974a224
+http://ocnmovies-drm2-mcdn.tving.com/ocnmovies_drm/live5000.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://poc-cf-image.cjenm.com/public/share/metamng/channel/ocn%20movies2_color_118x50.png" group-title="General", OCN Movies 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a97de619e5834e6da10c9bab768fc626:1452d46b8ecd87b38310ce90d4f5209f
+http://ocnmovies2-drm2-mcdn.tving.com/ocnmovies2_drm/live5000.smil/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://v4-vno-j13-cdn-01.images.cdn.cgates.lt/static/channels/560908.png" group-title="Cgates", AMC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"34c1715a9fd24e7d8497da043669ad66":"e3ce21758f33b38413d7cfecfddcb289"}
