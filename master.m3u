@@ -2538,5 +2538,4 @@ https://fm2.z5cable.com/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 #EXTVLCOPT:inputstream.adaptive.stream_headers=origin=https://tunex.space
 #EXTVLCOPT:inputstream.adaptive.stream_headers=referer=https://tunex.space/
 #EXTVLCOPT:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_key=f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415
 https://hide.skygoplus.workers.dev/discovery-science.m3u8
