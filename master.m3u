@@ -2534,9 +2534,10 @@ https://fm2.z5cable.com/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 https://fm2.z5cable.com/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/330px-Discovery_Science_2017_Logo.svg.png" group-title="SkyGo",Discovery Science hide
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/330px-Discovery_Science_2017_Logo.svg.png" group-title="SkyGo",Discovery Science hide111
 #EXTVLCOPT:http-referrer=https://tunex.space/
 #EXTVLCOPT:http-origin=https://tunex.space
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://hide.skygoplus.workers.dev/segments/live/disk1/discovery-science/HLSv3-FTA/discovery-science-avc1_3000000=133-mp4a_256000_eng=131.m3u8
