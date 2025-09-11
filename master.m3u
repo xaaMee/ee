@@ -1693,8 +1693,6 @@ https://fl5.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 https://fl3.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kx7GwKQP/image.png" group-title="General",Dream
 https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/768px-Food_Network_logo.svg.png" group-title="General",Food Network
-https://raw.githubusercontent.com/mimipipi22/lalajo/main/foodnetwork.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox-News-Channel.jpg" group-title="General",Fox News
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/768px-FRANCE_24_logo.svg.png" group-title="General",France24
@@ -2537,7 +2535,4 @@ https://fm2.z5cable.com/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/330px-Discovery_Science_2017_Logo.svg.png" group-title="SkyGo",Discovery Science hide111
 #EXTVLCOPT:http-referrer=https://tunex.space/
 #EXTVLCOPT:http-origin=https://tunex.space
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://hide.skygoplus.workers.dev/segments/live/disk1/discovery-science/HLSv3-FTA/discovery-science-avc1_3000000=133-mp4a_256000_eng=131.m3u8
