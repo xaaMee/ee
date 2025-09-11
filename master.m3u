@@ -2537,4 +2537,6 @@ https://fm2.z5cable.com/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/330px-Discovery_Science_2017_Logo.svg.png" group-title="SkyGo",Discovery Science hide
 #EXTVLCOPT:http-referrer=https://tunex.space/
 #EXTVLCOPT:http-origin=https://tunex.space
-https://hide.skygoplus.workers.dev/discovery-science.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://hide.skygoplus.workers.dev/segments/live/disk1/discovery-science/HLSv3-FTA/discovery-science-avc1_3000000=133-mp4a_256000_eng=131.m3u8
