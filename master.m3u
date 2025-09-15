@@ -2538,6 +2538,12 @@ https://fm2.z5cable.com/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 https://fm2.z5cable.com/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
+#EXTINF:-1 tvg-logo="https://cdn-1.webcatalog.io/catalog/abc-australia/abc-australia-social-preview.png?v=1714773105035" group-title="FirMed",ABC Australia
+#EXTHTTP:{"origin":"https://visionplus.id","referer":"https://visionplus.id/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
+https://fta1-cdn-flr.visionplus.id/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
+
 #EXTINF:-1 tvg-logo="https://cdn.theorg.com/78660ec3-1157-4f38-9256-81a539d3d3ca_medium.jpg" group-title="SkyGo",Arirang
 #EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://hide.skygoplus.workers.dev/arirang-korea.m3u8
