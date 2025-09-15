@@ -1747,8 +1747,10 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
 https://bztv.z5cable.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="General",SMNI
 http://161.49.17.2:6610/001/2/ch00000090990000001155/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" group-title="General",Sony Movie Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ch60yRwW/image.png" group-title="General",Sony Cine
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" group-title="General",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 #EXTINF: tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=facebook" group-title="General",Sports Grid
 https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="General",Tap Sports
