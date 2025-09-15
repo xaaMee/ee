@@ -2545,7 +2545,14 @@ https://fm2.z5cable.com/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://hide.skygoplus.workers.dev/discovery-science.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="SkyGo",CNN International
+#EXTHTTP:{"origin":"https://skygo.mn,"referer":"https://skygo.mn/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://hide.skygoplus.workers.dev/cnn-international.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/330px-Discovery_Science_2017_Logo.svg.png" group-title="SkyGo",Discovery Science EXT
+#EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1572915905_discovery-channel.jpg" group-title="SkyGo",Discovery Channel
+#EXTHTTP:{"origin":"https://skygo.mn,"referer":"https://skygo.mn/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+https://hide.skygoplus.workers.dev/discovery-channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/330px-Discovery_Science_2017_Logo.svg.png" group-title="SkyGo",Discovery Science
 #EXTHTTP:{"origin":"https://skygo.mn,"referer":"https://skygo.mn/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://hide.skygoplus.workers.dev/discovery-science.m3u8
