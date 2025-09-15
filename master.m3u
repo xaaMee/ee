@@ -1693,6 +1693,8 @@ https://fl5.moveonjoy.com/DISNEY/tracks-v1a1/mono.ts.m3u8
 https://fl3.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kx7GwKQP/image.png" group-title="General",Dream
 https://cdn4.skygo.mn/live/disk1/Dreambox/HLSv3-FTA/Dreambox.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/1200px-Euronews_Logo_2025.svg.png" group-title="General",EuroNews
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Fox-News-Channel.jpg" group-title="General",Fox News
 https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/768px-FRANCE_24_logo.svg.png" group-title="General",France24
@@ -1717,8 +1719,8 @@ https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/330px-MTV_Live_2021_logo.svg.png" group-title="General",MTV Live
 https://fl3.moveonjoy.com/MTV_LIVE/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Myx.jpg" group-title="General",MYX
-https://myxnola-abscbn-ono.amagi.tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Nautical_Channel_%282020-.n.v.%29.png/revision/latest?cb=20200731113134" group-title="General",Nautical Channel
+https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/640px-NBA_TV_Philippines.png" group-title="General",NBA TV Philippines
 http://143.44.136.113:6610/001/2/ch00000090990000001064/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/459px-NOW_70s.png" group-title="General",Now70s
@@ -1747,6 +1749,8 @@ https://bztv.z5cable.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
 http://161.49.17.2:6610/001/2/ch00000090990000001155/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/239px-Sony_Movies_Logo.svg.png" group-title="General",Sony Movie Channel
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF: tvg-logo="https://mma.prnewswire.com/media/1201691/SportsGrid_Logo.jpg?p=facebook" group-title="General",Sports Grid
+https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF: tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/TAP_Sports_channel_logo.png" group-title="General",Tap Sports
 https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/TeleRadyo_Serbisyo_logo.svg/640px-TeleRadyo_Serbisyo_logo.svg.png" group-title="General",Teleradyo
