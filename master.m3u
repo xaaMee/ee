@@ -1188,13 +1188,13 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 #EXTHTTP:{"origin":"https://www.cignalplay.com","referer":"https://www.cignalplay.com/","User-Agent":"Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36"}
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapactionflix_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/lVNcCFq.png" group-title="CPlay",Tap Movies HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 #EXTHTTP:{"origin":"https://www.cignalplay.com","referer":"https://www.cignalplay.com/","User-Agent":"Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36"}
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/HWbSPI9.png" group-title="CPlay",Tap Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
