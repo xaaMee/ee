@@ -1278,7 +1278,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/i
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 #EXTHTTP:{"origin":"https://www.cignalplay.com","referer":"https://www.cignalplay.com/","User-Agent":"Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36"}
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/JcTU3L6.png" group-title="CPlay",Warner TV HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
