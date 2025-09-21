@@ -493,6 +493,11 @@ http://161.49.17.2:6610/001/2/ch00000090990000001338/manifest.mpd?JITPDRMType=Wi
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://161.49.17.2:6610/001/2/ch00000090990000001159/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/652f763c1fcddfc32c6860de_logo_act_web.png" group-title="CoVis",Rock Action
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://161.49.17.2:6610/001/2/ch00000090990000001325/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/eLGrC2i.png" group-title="CoVis",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
