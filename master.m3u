@@ -1674,6 +1674,8 @@ https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF: tvg-logo="https://i.ibb.co/RdzJRTF/image.png" group-title="General",Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+#EXTINF: tvg-logo="https://i.ibb.co/8DvBqyvv/image.png" group-title="General",Blast Sports
+https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png" group-title="General",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/CARTOONITO_BT_LOGO_RGB.png" group-title="General",Cartoonito
@@ -1706,10 +1708,6 @@ https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 https://gsn.z5cable.com/803B48A/n1.klowdtv.net/live2/france24_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/541px-Game_Show_Network_2018.svg.png" group-title="General",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QrQ7PCT/image.png" group-title="General",GMA
-https://xigncode.notflix.in/hls/gmanixigncode/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/GTV_Philippines_Logo_Vector.svg/640px-GTV_Philippines_Logo_Vector.svg.png" group-title="General",GTV
-https://xigncode.notflix.in/hls/gtvnixigncode/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZdG0l2vnlMM/maxresdefault.jpg" group-title="General",Kapamilya
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/KBS.png" group-title="General",KBS World
@@ -2630,7 +2628,7 @@ https://hide.skygoplus.workers.dev/cnn-international.m3u8
 https://hide.skygoplus.workers.dev/discovery-asia.m3u8
 
 #EXTINF:-1 tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1572915905_discovery-channel.jpg" group-title="SkyGo",Discovery Channel
-#EXTHTTP:{"origin":"https://tunex.space","referer":"https://skygo.mn/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
+#EXTHTTP:{"origin":"https://tunex.space","referer":"https://tunex.space/","User-Agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"}
 https://hide.skygoplus.workers.dev/discovery-channel.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/330px-Discovery_Science_2017_Logo.svg.png" group-title="SkyGo",Discovery Science
