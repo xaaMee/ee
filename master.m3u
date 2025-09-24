@@ -2545,6 +2545,12 @@ https://fm2.z5cable.com/live/eds/DreamWorksHD/mpd/DreamWorksHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
 https://fm2.z5cable.com/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
 
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/950/49950-SNAPSHOT-l.png" group-title="FirMed",MTV 90's Test
+#EXTHTTP:{"User-Agent":"ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1"}
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://fm2.z5cable.com/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/948/49948-SNAPSHOT-l.png" group-title="FirMed",MTV Live HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
