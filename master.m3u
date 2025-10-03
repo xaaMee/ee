@@ -2068,6 +2068,12 @@ https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww
 #KODIPROP:inputstream.adaptive.license_key=1da2977f5fed3acb602cc2c8b57c41c1:09aaed2aeee31130fa8f869faff25ee5
 https://live-atv-cdn.izzigo.tv/4/out/u/dash/CLUBMTVSD/default.mpd
 
+#EXTINF:-1 tvg-logo="https://data.phcorner.org/2025/09/12111439_golden-mx.png" group-title="izziGo",Golden
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f23601997bc024ea96b6b9d1e2b8b3fc:521a2cfdd3f649a9543422dc41fa4ca0
+http://live-atv-cdn.izzigo.tv/4/out/u/dash/GOLDEN-MULTIPLEX/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/319/CH_LOGO/160/160/0/0/4622508807296.png" group-title="izziGo",MTV
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
