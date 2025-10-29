@@ -3034,7 +3034,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
 
-#EXTINF:-1 tvg-id="tv-maria" tvg-logo="https://i.imgur.com/8rLJW8s.png" group-title="Religious",TV Maria
+#EXTINF:-1 tvg-id="tv-maria" tvg-logo="https://i.imgur.com/8rLJW8s.png" group-title="C1gnalBPK",TV Maria
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa3998b9a4de40659725ebc5151250d6:998f1294b122bbf1a96c1ddc0cbb229f
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/tvmaria_prd/default/index.mpd
