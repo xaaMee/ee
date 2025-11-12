@@ -337,6 +337,12 @@ https://get.perfecttv.net/dashVision.mpd?username=vip_3klp0es8&password=wg3piwEs
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://get.perfecttv.net/logo/sonypix.png" group-title="PerfectTV",Sony Pix
 https://get.perfecttv.net/stream.ts?username=vip_3klp0es8&password=wg3piwEs&channel=pix
 
+#EXTINF:-1 tvg-id="" tvg-name="152 Star Movies" tvg-logo="https://get.perfecttv.net/logo/starmovies.png" group-title="PerfectTV",Star Movies
+https://get.perfecttv.net/stream.ts?username=vip_3klp0es8&password=wg3piwEs&channel=starmovies
+
+#EXTINF:-1 tvg-id="" tvg-name="153 Star Movies Select" tvg-logo="https://get.perfecttv.net/logo/starmoviesselect.png" group-title="PerfectTV",Star Movies Select
+http://83.142.30.171:8080/live/vip_3klp0es8/wg3piwEs/4602.ts?channel=starmovieselect
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/beinsports.png" group-title="AstroGo",Bein Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
