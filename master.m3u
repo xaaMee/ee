@@ -171,14 +171,14 @@ https://mc-h74zm2yvk9.bunny.run/11/dopamine/manifest.mpd
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1733707474289.png" group-title="COMVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", HALLYPOP
 https://mc-h74zm2yvk9.bunny.run/33/dopamine/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126386617.png" group-title="COMVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031323938:715a36614f62445635304852794b3676
 https://mc-h74zm2yvk9.bunny.run/32/dopamine/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="COMVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", IBC 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383439333634323034333738:364a3849664b37386955623437364579
 https://mc-h74zm2yvk9.bunny.run/13/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
