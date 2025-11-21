@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
-#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", A2Z
-#KODIPROP:inputstream.adaptive.license_type=widevine
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", A2Z TEST
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383437383231323033353237:583130656f6d3267777a6d7235487858
 https://mc-h74zm2yvk9.bunny.run/27/dopamine/manifest.mpd
 
@@ -11,9 +11,9 @@ https://mc-h74zm2yvk9.bunny.run/27/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 https://mc-h74zm2yvk9.bunny.run/78/dopamine/manifest.mpd
 
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125103446.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", AL JAZEERA
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
-#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125103446.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", AL JAZEERA
 https://mc-h74zm2yvk9.bunny.run/79/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
@@ -92,7 +92,7 @@ https://mc-h74zm2yvk9.bunny.run/24/dopamine/manifest.mpd
 https://mc-h74zm2yvk9.bunny.run/19/dopamine/manifest.mpd
 
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125660668.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CINEMAX
-#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232303137333630323534393638:63547a3159507a7036314e3357436c7a
 https://mc-h74zm2yvk9.bunny.run/16/dopamine/manifest.mpd
 
