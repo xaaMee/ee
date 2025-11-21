@@ -2,434 +2,434 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", A2Z
-https://mc-uzug41ou65.bunny.run/27/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/27/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125072025.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ABC AUSTRALIA
-https://mc-uzug41ou65.bunny.run/78/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/78/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125103446.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", AL JAZEERA
-https://mc-uzug41ou65.bunny.run/79/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/79/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125129835.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ALIW TV
-https://mc-uzug41ou65.bunny.run/29/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/29/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723136602348.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ALL TV
-https://mc-uzug41ou65.bunny.run/55/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/55/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219396137.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ANC HD
-https://mc-uzug41ou65.bunny.run/43/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/43/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125337224.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ARIRANG
-https://mc-uzug41ou65.bunny.run/76/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/76/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723605539308.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", BILYONARYO NEWS HD
-https://mc-uzug41ou65.bunny.run/74/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/74/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219327674.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", BS FUJI
-https://mc-uzug41ou65.bunny.run/80/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/80/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723130002404.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", BS PREMIUM
-https://mc-uzug41ou65.bunny.run/66/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/66/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125431025.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CARTOON NETWORK
-https://mc-uzug41ou65.bunny.run/37/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/37/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219376954.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CARTOONITO
-https://mc-uzug41ou65.bunny.run/104/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/104/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125521068.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CCTV4
-https://mc-uzug41ou65.bunny.run/35/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/35/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032303231:6b5058557254355845335a6e63737030
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219252241.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CELESTIAL MOVIES PINOY
-https://mc-uzug41ou65.bunny.run/30/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/30/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219296797.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CELESTIALCLASSIC MOVIES
-https://mc-uzug41ou65.bunny.run/87/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/87/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125560281.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CGTN
-https://mc-uzug41ou65.bunny.run/75/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/75/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125590334.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CHANNEL NEWS ASIA
-https://mc-uzug41ou65.bunny.run/24/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/24/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125628005.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CINEMA ONE
-https://mc-uzug41ou65.bunny.run/19/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/19/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=31363232303137333630323534393638:63547a3159507a7036314e3357436c7a
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125660668.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CINEMAX
-https://mc-uzug41ou65.bunny.run/16/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/16/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CINEMO
-https://mc-uzug41ou65.bunny.run/94/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/94/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125735177.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CLTV36
-https://mc-uzug41ou65.bunny.run/71/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/71/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125798255.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", CNN
-https://mc-uzug41ou65.bunny.run/28/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/28/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723606286242.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", DEUTSCHE WELLE
-https://mc-uzug41ou65.bunny.run/59/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/59/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1749519196399.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", DZMM TELERADYO
-https://mc-uzug41ou65.bunny.run/18/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/18/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126004028.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", DZRH
-https://mc-uzug41ou65.bunny.run/40/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/40/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126027555.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", EDGESPORT
-https://mc-uzug41ou65.bunny.run/89/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/89/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126078814.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", EWTN
-https://mc-uzug41ou65.bunny.run/20/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/20/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126284675.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", FASHION TV
-https://mc-uzug41ou65.bunny.run/45/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/45/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126098951.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", FILAM TV
-https://mc-uzug41ou65.bunny.run/108/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/108/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126239977.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", FRANCE 24
-https://mc-uzug41ou65.bunny.run/136/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/136/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", GMA 7
-https://mc-uzug41ou65.bunny.run/7/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/7/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1735903243498.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", GNN tv44
-https://mc-uzug41ou65.bunny.run/44/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/44/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", GTV
-https://mc-uzug41ou65.bunny.run/11/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/11/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1733707474289.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", HALLYPOP
-https://mc-uzug41ou65.bunny.run/33/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/33/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031323938:715a36614f62445635304852794b3676
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126386617.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", HBO
-https://mc-uzug41ou65.bunny.run/32/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/32/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=31363231383439333634323034333738:364a3849664b37386955623437364579
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", IBC 13
-https://mc-uzug41ou65.bunny.run/13/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/13/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723605495653.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", INC TV
-https://mc-uzug41ou65.bunny.run/23/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/23/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723128953472.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", JEEPNEY TV
-https://mc-uzug41ou65.bunny.run/14/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/14/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129013828.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", KAPAMILYA HD
-https://mc-uzug41ou65.bunny.run/15/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/15/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129053549.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", KIX
-https://mc-uzug41ou65.bunny.run/47/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/47/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723604992973.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", KNOWLEDGE CHANNEL
-https://mc-uzug41ou65.bunny.run/12/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/12/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129682729.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", Light TV
-https://mc-uzug41ou65.bunny.run/88/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/88/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723605044807.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", LIVING ASIA
-https://mc-uzug41ou65.bunny.run/92/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/92/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129704683.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", LOTUS
-https://mc-uzug41ou65.bunny.run/120/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/120/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129722508.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", METRO
-https://mc-uzug41ou65.bunny.run/49/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/49/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=31363232313037353439323837363235:3546456775546d32585738574f477a33
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1730362635883.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", MINDANOW
-https://mc-uzug41ou65.bunny.run/77/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/77/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129763447.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", MYX
-https://mc-uzug41ou65.bunny.run/26/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/26/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129823252.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", NET 25
-https://mc-uzug41ou65.bunny.run/17/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/17/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129897469.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", NHK BS1
-https://mc-uzug41ou65.bunny.run/67/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/67/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131229501.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", NHK WORLD
-https://mc-uzug41ou65.bunny.run/73/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/73/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723130097999.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", NICK Jr.
-https://mc-uzug41ou65.bunny.run/118/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/118/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131202156.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ONE SPORTS
-https://mc-uzug41ou65.bunny.run/25/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/25/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131279043.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ORAS NG HIMALA
-https://mc-uzug41ou65.bunny.run/129/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/129/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723612823404.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PBO
-https://mc-uzug41ou65.bunny.run/8/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/8/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723131346405.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PHOENIX CHINESE
-https://mc-uzug41ou65.bunny.run/60/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/60/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723132198713.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PREMIER FOOTBALL
-https://mc-uzug41ou65.bunny.run/105/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/105/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133770267.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PREMIER SPORTS
-https://mc-uzug41ou65.bunny.run/122/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/122/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133748606.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PREMIER SPORTS 2
-https://mc-uzug41ou65.bunny.run/113/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/113/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", PTV
-https://mc-uzug41ou65.bunny.run/4/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/4/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133809689.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", RADIO MARIA
-https://mc-uzug41ou65.bunny.run/81/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/81/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133830822.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", RJTV 29
-https://mc-uzug41ou65.bunny.run/36/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/36/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133849713.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", ROCK TV OF MANILA
-https://mc-uzug41ou65.bunny.run/130/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/130/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133873954.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", RPTV
-https://mc-uzug41ou65.bunny.run/9/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/9/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723612444093.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", SAUDI TV
-https://mc-uzug41ou65.bunny.run/128/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/128/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723133929628.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", SMNI
-https://mc-uzug41ou65.bunny.run/84/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/84/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134009531.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", SOLAR FLIX
-https://mc-uzug41ou65.bunny.run/127/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/127/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134030645.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", SOLAR SPORTS
-https://mc-uzug41ou65.bunny.run/56/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/56/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219661968.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", STAR CHANNEL 1
-https://mc-uzug41ou65.bunny.run/51/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/51/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134076089.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TAP ACTION FLIX
-https://mc-uzug41ou65.bunny.run/99/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/99/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134099364.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TAP EDGE
-https://mc-uzug41ou65.bunny.run/58/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/58/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134117906.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TAP MOVIES
-https://mc-uzug41ou65.bunny.run/98/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/98/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134161793.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TAP SPORTS
-https://mc-uzug41ou65.bunny.run/54/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/54/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134180637.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TAP TV
-https://mc-uzug41ou65.bunny.run/48/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/48/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134224456.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TBN
-https://mc-uzug41ou65.bunny.run/139/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/139/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134284048.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", THRILL
-https://mc-uzug41ou65.bunny.run/90/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/90/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219688328.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TMC
-https://mc-uzug41ou65.bunny.run/97/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/97/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134353936.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TV MARIA
-https://mc-uzug41ou65.bunny.run/131/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/131/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134335547.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TV5
-https://mc-uzug41ou65.bunny.run/5/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/5/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134373931.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TV5MONDE
-https://mc-uzug41ou65.bunny.run/69/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/69/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134391817.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", TVE
-https://mc-uzug41ou65.bunny.run/70/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/70/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134409636.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", UNTV
-https://mc-uzug41ou65.bunny.run/10/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/10/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134428182.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", USA TODAY NEWS
-https://mc-uzug41ou65.bunny.run/115/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/115/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723219709476.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", VEGAS LIFE
-https://mc-uzug41ou65.bunny.run/109/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/109/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134481136.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", VIVA CINEMA
-https://mc-uzug41ou65.bunny.run/39/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/39/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723134500990.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", WARNER TV
-https://mc-uzug41ou65.bunny.run/83/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/83/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=widevine
-#KODIPROP:inputstream.adaptive.license_key=https://mc-uzug41ou65.bunny.run/license
+#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="CONVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", XINGKONG
-https://mc-uzug41ou65.bunny.run/65/dopamine/manifest.mpd
+https://mc-h74zm2yvk9.bunny.run/65/dopamine/manifest.mpd
 
 #EXTINF:-1 group-logo="" group-title="PerfectTV-Movies" tvg-id="404.astro" tvg-logo="https://get.perfecttv.net/logo/kita2025.png",140 Kita
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
