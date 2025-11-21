@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
-#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="COMVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", A2Z TEST
+#EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="COMVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", A2Z
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383437383231323033353237:583130656f6d3267777a6d7235487858
 https://mc-h74zm2yvk9.bunny.run/27/dopamine/manifest.mpd
@@ -151,9 +151,9 @@ https://mc-h74zm2yvk9.bunny.run/108/dopamine/manifest.mpd
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126239977.png" group-title="COMVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", FRANCE 24
 https://mc-h74zm2yvk9.bunny.run/136/dopamine/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="COMVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", GMA 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 https://mc-h74zm2yvk9.bunny.run/7/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -161,9 +161,9 @@ https://mc-h74zm2yvk9.bunny.run/7/dopamine/manifest.mpd
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1735903243498.png" group-title="COMVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", GNN tv44
 https://mc-h74zm2yvk9.bunny.run/44/dopamine/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="COMVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", GTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
 https://mc-h74zm2yvk9.bunny.run/11/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -211,9 +211,9 @@ https://mc-h74zm2yvk9.bunny.run/12/dopamine/manifest.mpd
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723129682729.png" group-title="COMVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", Light TV
 https://mc-h74zm2yvk9.bunny.run/88/dopamine/manifest.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://mc-h74zm2yvk9.bunny.run/license
 #EXTINF:0 tvg-id="" tvg-logo="https://ottepg4.comclark.com:8443/iptvepg/images/markurl/mark_1723605044807.png" group-title="COMVERGE" group-logo="https://i.imgur.com/2jNJEwN.png", LIVING ASIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363232363231343638363035363236:544962686d3165306836346e73673346
 https://mc-h74zm2yvk9.bunny.run/92/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
