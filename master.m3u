@@ -88,7 +88,7 @@ https://converse.nathcreqtives.com/1244/manifest.mpd
 #EXTINF:-1 tvg-id="1077" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219252241.png" group-title="C0NVER6E",CELESTIAL MOVIES PINOY
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032303231:6b5058557254355845335a6e63737030
 https://converse.nathcreqtives.com/1077/manifest.mpd
 
 #EXTINF:-1 tvg-id="1106" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125590334.png" group-title="C0NVER6E",CHANNEL NEWS ASIA
@@ -106,7 +106,7 @@ https://converse.nathcreqtives.com/1283/manifest.mpd
 #EXTINF:-1 tvg-id="1073" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125798255.png" group-title="C0NVER6E",CNN
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032313231:6b5058557254355845335a6e63737030
 https://converse.nathcreqtives.com/1073/manifest.mpd
 
 #EXTINF:-1 tvg-id="1146" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125560281.png" group-title="C0NVER6E",CGTN
@@ -184,7 +184,7 @@ https://converse.nathcreqtives.com/1157/manifest.mpd
 #EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="C0NVER6E",GMA 7
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
 https://converse.nathcreqtives.com/1093/manifest.mpd
 
 #EXTINF:-1 tvg-id="1234" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1735903243498.png" group-title="C0NVER6E",GNN tv44
@@ -196,7 +196,7 @@ https://converse.nathcreqtives.com/1234/manifest.mpd
 #EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="C0NVER6E",GTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
 https://converse.nathcreqtives.com/1143/manifest.mpd
 
 #EXTINF:-1 tvg-id="1152" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1733707474289.png" group-title="C0NVER6E",HALLYPOP
