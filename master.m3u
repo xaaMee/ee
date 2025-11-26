@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="C0NVER6E",A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=31363231383437383231323033353237:583130656f6d3267777a6d7235487858
 https://converse.nathcreqtives.com/1087/manifest.mpd
 
 #EXTINF:-1 tvg-id="1111" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125072025.png" group-title="C0NVER6E",ABC AUSTRALIA
@@ -46,7 +46,7 @@ https://converse.nathcreqtives.com/1107/manifest.mpd
 #EXTINF:-1 tvg-id="1124" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605539308.png" group-title="C0NVER6E",BILYONARYO NEWS HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=31363232313037373837323837383130:5146434c3239617645344e7772343668
 https://converse.nathcreqtives.com/1124/manifest.mpd
 
 #EXTINF:-1 tvg-id="1165" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219327674.png" group-title="C0NVER6E",BS FUJI
