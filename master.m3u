@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="C0NVER6E",A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363231383437383231323033353237:583130656f6d3267777a6d7235487858
 https://converse.nathcreqtives.com/1087/manifest.mpd
 
@@ -45,7 +45,7 @@ https://converse.nathcreqtives.com/1107/manifest.mpd
 
 #EXTINF:-1 tvg-id="1124" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605539308.png" group-title="C0NVER6E",BILYONARYO NEWS HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232313037373837323837383130:5146434c3239617645344e7772343668
 https://converse.nathcreqtives.com/1124/manifest.mpd
 
@@ -69,7 +69,7 @@ https://converse.nathcreqtives.com/1125/manifest.mpd
 
 #EXTINF:-1 tvg-id="1178" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125431025.png" group-title="C0NVER6E",CARTOON NETWORK
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363233323238323938303333343430:536a4774797143315773693133654b73
 https://converse.nathcreqtives.com/1178/manifest.mpd
 
@@ -117,7 +117,7 @@ https://converse.nathcreqtives.com/1146/manifest.mpd
 
 #EXTINF:-1 tvg-id="1108" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125660668.png" group-title="C0NVER6E",CINEMAX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363232303137333630323534393638:63547a3159507a7036314e3357436c7a
 https://converse.nathcreqtives.com/1108/manifest.mpd
 
@@ -207,7 +207,7 @@ https://converse.nathcreqtives.com/1152/manifest.mpd
 
 #EXTINF:-1 tvg-id="1065" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126386617.png" group-title="C0NVER6E",HBO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031323938:715a36614f62445635304852794b3676
 https://converse.nathcreqtives.com/1065/manifest.mpd
 
