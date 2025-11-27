@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
-#EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="C0NVER6E",A2Z TEST3hex
+#EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="C0NVER6E",A2Z DEV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MTYyMTg0NzgyMTIwMzUyNw","k":"WDEwZW9tMmd3em1yNUh4WA"},{"kty":"oct","kid":"MTYyMDk4MDIzNjAwOTI4NA","k":"dnZ0a1hENlFDMVAyVnhGVA"},{"kty":"oct","kid":"MTYyMDk4MDU1NDAwOTU4MQ","k":"UG41Q3Q5SThEZDk0S283QQ"},{"kty":"oct","kid":"MTYyMDk4MDc1MjAwOTgxOA","k":"NjNUSUM2Q2tJSndvSnlmNA"},{"kty":"oct","kid":"MTYyMDg4MDI2OTAwMTI5OA","k":"cVo2YU9iRFY1MEhSeUs2dg"},{"kty":"oct","kid":"MTYyMzQxMzQ1NDIzNTc0OA","k":"dUZ3NXBBcFJIR3dKY1lDYQ"},{"kty":"oct","kid":"MTYyMTkzODkwNDIzMTc1Ng","k":"a3UwSjBhMm94WTVFOE8xZQ"},{"kty":"oct","kid":"MTYyMjAyMTMxOTI1NzM4MA","k":"MTlhSmM1MW1kT1ZtN0RMdQ"},{"kty":"oct","kid":"MTYyMDg5MzAxMjAwMjEyMQ","k":"a1BYVXJUNVhFM1puY3NwMA"},{"kty":"oct","kid":"MTYyMjAxNzM2MDI1NDk2OA","k":"Y1R6MVlQenA2MU4zV0Nseg"},{"kty":"oct","kid":"H-kmhadYRNxUydrBJIAlEA","k":"NssgY79TONGNMWVzcbFYFw"},{"kty":"oct","kid":"_x_r1wGNDdcRYB55Xg1iEA","k":"OPv7OlbkD_ksnfisvLqe9g"},{"kty":"oct","kid":"MTYzMTE5ODUyNDgxNDA2Mw","k":"Nml1SXcwNmg5TkkzZzRHcw"},{"kty":"oct","kid":"MTYzMTE5ODM0NDgxMzgzNw","k":"MndnNDZSZ2hpdzhwSTVtSA"}],"type":"temporary"}
@@ -217,6 +217,12 @@ https://converse.nathcreqtives.com/1152/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031323938:715a36614f62445635304852794b3676
 https://converse.nathcreqtives.com/1065/manifest.mpd
+
+#EXTINF:-1 tvg-id="1089" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="C0NVER6E",IBC 13 (DEV) 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MTYyMTg0NzgyMTIwMzUyNw","k":"WDEwZW9tMmd3em1yNUh4WA"},{"kty":"oct","kid":"MTYyMDk4MDIzNjAwOTI4NA","k":"dnZ0a1hENlFDMVAyVnhGVA"},{"kty":"oct","kid":"MTYyMDk4MDU1NDAwOTU4MQ","k":"UG41Q3Q5SThEZDk0S283QQ"},{"kty":"oct","kid":"MTYyMDk4MDc1MjAwOTgxOA","k":"NjNUSUM2Q2tJSndvSnlmNA"},{"kty":"oct","kid":"MTYyMDg4MDI2OTAwMTI5OA","k":"cVo2YU9iRFY1MEhSeUs2dg"},{"kty":"oct","kid":"MTYyMzQxMzQ1NDIzNTc0OA","k":"dUZ3NXBBcFJIR3dKY1lDYQ"},{"kty":"oct","kid":"MTYyMTkzODkwNDIzMTc1Ng","k":"a3UwSjBhMm94WTVFOE8xZQ"},{"kty":"oct","kid":"MTYyMjAyMTMxOTI1NzM4MA","k":"MTlhSmM1MW1kT1ZtN0RMdQ"},{"kty":"oct","kid":"MTYyMDg5MzAxMjAwMjEyMQ","k":"a1BYVXJUNVhFM1puY3NwMA"},{"kty":"oct","kid":"MTYyMjAxNzM2MDI1NDk2OA","k":"Y1R6MVlQenA2MU4zV0Nseg"},{"kty":"oct","kid":"H-kmhadYRNxUydrBJIAlEA","k":"NssgY79TONGNMWVzcbFYFw"},{"kty":"oct","kid":"_x_r1wGNDdcRYB55Xg1iEA","k":"OPv7OlbkD_ksnfisvLqe9g"},{"kty":"oct","kid":"MTYzMTE5ODUyNDgxNDA2Mw","k":"Nml1SXcwNmg5TkkzZzRHcw"},{"kty":"oct","kid":"MTYzMTE5ODM0NDgxMzgzNw","k":"MndnNDZSZ2hpdzhwSTVtSA"},{"kty":"oct","kid":"MTYyMTg0OTM2NDIwNDM3OA","k":"Nko4SWZLNzhpVWI0NzZFeQ"}],"type":"temporary"}
+https://ni.bobay.workers.dev/1089/manifest.mpd
 
 #EXTINF:-1 tvg-id="1089" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="C0NVER6E",IBC 13
 #KODIPROP:inputstream.adaptive.manifest_type=dash
