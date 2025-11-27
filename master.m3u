@@ -283,12 +283,6 @@ https://converse.nathcreqtives.com/1252/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1090/manifest.mpd
 
-#EXTINF:-1 tvg-id="1078" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723612823404.png" group-title="C0NVER6E",PBO
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1078/manifest.mpd
-
 #EXTINF:-1 tvg-id="1123" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1730362635883.png" group-title="C0NVER6E",MINDANOW
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -324,6 +318,12 @@ https://converse.nathcreqtives.com/1083/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1175/manifest.mpd
+
+#EXTINF:-1 tvg-id="1078" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723612823404.png" group-title="C0NVER6E",PBO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363230393830323336303039323834:7676746b584436514331503256784654
+https://converse.nathcreqtives.com/1078/manifest.mpd
 
 #EXTINF:-1 tvg-id="1113" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131346405.png" group-title="C0NVER6E",PHOENIX CHINESE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -496,25 +496,25 @@ https://converse.nathcreqtives.com/1199/manifest.mpd
 #EXTINF:-1 tvg-id="1134" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219709476.png" group-title="C0NVER6E",VEGAS LIFE
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=31363232313039393438323931323033:3438455a3450367a4b593050667a3441
 https://converse.nathcreqtives.com/1134/manifest.mpd
 
 #EXTINF:-1 tvg-id="1079" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134481136.png" group-title="C0NVER6E",VIVA CINEMA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=3136323039383035353430303935383:506e354374394938446439344b6f3741
 https://converse.nathcreqtives.com/1079/manifest.mpd
 
 #EXTINF:-1 tvg-id="1096" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134500990.png" group-title="C0NVER6E",WARNER TV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=31363231393338393034323331373536:6b75304a3061326f78593545384f3165
 https://converse.nathcreqtives.com/1096/manifest.mpd
 
 #EXTINF:-1 tvg-id="1337" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="C0NVER6E",XINGKONG
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+#KODIPROP:inputstream.adaptive.license_key=31363735313530323932343234353834:4e78417967303934675469456d395157
 https://converse.nathcreqtives.com/1337/manifest.mpd
 
 #EXTINF:-1 group-logo="" group-title="PerfectTV-Movies" tvg-id="404.astro" tvg-logo="https://get.perfecttv.net/logo/kita2025.png",140 Kita
