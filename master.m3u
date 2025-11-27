@@ -1,12 +1,614 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
-#EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="C0NVER6E",A2Z (BOBAY)
+#EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="C0NVER6E-BOBAY",A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"31363231383437383231323033353237":"583130656f6d3267777a6d7235487858","31363230393830323336303039323834":"7676746b584436514331503256784654","31363230393830353534303039353831":"506e354374394938446439344b6f3741","31363230393830373532303039383138":"363354494336436b494a776f4a796634","31363230383830323639303031323938":"715a36614f62445635304852794b3676","31363233343133343534323335373438":"75467735704170524847774a63594361","31363231393338393034323331373536":"6b75304a3061326f78593545384f3165","31363232303231333139323537333830":"3139614a6335316d644f566d37444c75","31363230383933303132303032313231":"6b5058557254355845335a6e63737030","31363232303137333630323534393638":"63547a3159507a7036314e3357436c7a","1fe92685a75844dc54c9dac124802510":"36cb2063bf5338d18d31657371b15817","ff1febd7018d0dd711601e795e0d6210":"38fbfb3a56e40ff92c9df8acbcba9ef6","31363331313938353234383134303633":"3669754977303668394e493367344773","31363331313938333434383133383337":"32776734365267686977387049356d48","31363231383439333634323034333738":"364a3849664b37386955623437364579"}
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://ni.bobay.workers.dev/1087/manifest.mpd
+
+#EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="C0NVER6E-BOBAY",A2Z
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1087/manifest.mpd
+
+#EXTINF:-1 tvg-id="1111" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125072025.png" group-title="C0NVER6E-BOBAY",ABC AUSTRALIA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1111/manifest.mpd
+
+#EXTINF:-1 tvg-id="1343" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125103446.png" group-title="C0NVER6E-BOBAY",AL JAZEERA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1343/manifest.mpd
+
+#EXTINF:-1 tvg-id="1109" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125129835.png" group-title="C0NVER6E-BOBAY",ALIW TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1109/manifest.mpd
+
+#EXTINF:-1 tvg-id="1216" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219396137.png" group-title="C0NVER6E-BOBAY",ANC HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1216/manifest.mpd
+
+#EXTINF:-1 tvg-id="1179" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723136602348.png" group-title="C0NVER6E-BOBAY",ALL TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1179/manifest.mpd
+
+#EXTINF:-1 tvg-id="1107" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125337224.png" group-title="C0NVER6E-BOBAY",ARIRANG
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1107/manifest.mpd
+
+#EXTINF:-1 tvg-id="1124" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605539308.png" group-title="C0NVER6E-BOBAY",BILYONARYO NEWS HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1124/manifest.mpd
+
+#EXTINF:-1 tvg-id="1165" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219327674.png" group-title="C0NVER6E-BOBAY",BS FUJI
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1165/manifest.mpd
+
+#EXTINF:-1 tvg-id="1213" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723130002404.png" group-title="C0NVER6E-BOBAY",BS PREMIUM
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1213/manifest.mpd
+
+#EXTINF:-1 tvg-id="1125" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219376954.png" group-title="C0NVER6E-BOBAY",CARTOONITO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1125/manifest.mpd
+
+#EXTINF:-1 tvg-id="1178" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125431025.png" group-title="C0NVER6E-BOBAY",CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1178/manifest.mpd
+
+#EXTINF:-1 tvg-id="1223" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125521068.png" group-title="C0NVER6E-BOBAY",CCTV4
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1223/manifest.mpd
+
+#EXTINF:-1 tvg-id="1244" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219296797.png" group-title="C0NVER6E-BOBAY",CELESTIAL CLASSIC MOVIES
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1244/manifest.mpd
+
+#EXTINF:-1 tvg-id="1077" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219252241.png" group-title="C0NVER6E-BOBAY",CELESTIAL MOVIES PINOY
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1077/manifest.mpd
+
+#EXTINF:-1 tvg-id="1106" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125590334.png" group-title="C0NVER6E-BOBAY",CHANNEL NEWS ASIA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1106/manifest.mpd
+
+#EXTINF:-1 tvg-id="1283" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125628005.png" group-title="C0NVER6E-BOBAY",CINEMA ONE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1283/manifest.mpd
+
+#EXTINF:-1 tvg-id="1073" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125798255.png" group-title="C0NVER6E-BOBAY",CNN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1073/manifest.mpd
+
+#EXTINF:-1 tvg-id="1146" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125560281.png" group-title="C0NVER6E-BOBAY",CGTN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1146/manifest.mpd
+
+#EXTINF:-1 tvg-id="1108" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125660668.png" group-title="C0NVER6E-BOBAY",CINEMAX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1108/manifest.mpd
+
+#EXTINF:-1 tvg-id="1254" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png" group-title="C0NVER6E-BOBAY",CINEMO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1254/manifest.mpd
+
+#EXTINF:-1 tvg-id="1314" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125735177.png" group-title="C0NVER6E-BOBAY",CLTV36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1314/manifest.mpd
+
+#EXTINF:-1 tvg-id="1166" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723606286242.png" group-title="C0NVER6E-BOBAY",DEUTSCHE WELLE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1166/manifest.mpd
+
+#EXTINF:-1 tvg-id="1249" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1749519196399.png" group-title="C0NVER6E-BOBAY",DZMM TELERADYO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1249/manifest.mpd
+
+#EXTINF:-1 tvg-id="1174" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126004028.png" group-title="C0NVER6E-BOBAY",DZRH
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1174/manifest.mpd
+
+#EXTINF:-1 tvg-id="1406" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126027555.png" group-title="C0NVER6E-BOBAY",EDGESPORT
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1406/manifest.mpd
+
+#EXTINF:-1 tvg-id="1104" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126078814.png" group-title="C0NVER6E-BOBAY",EWTN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1104/manifest.mpd
+
+#EXTINF:-1 tvg-id="1102" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126284675.png" group-title="C0NVER6E-BOBAY",FASHION TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1102/manifest.mpd
+
+#EXTINF:-1 tvg-id="1195" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126098951.png" group-title="C0NVER6E-BOBAY",FILAM TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1195/manifest.mpd
+
+#EXTINF:-1 tvg-id="1157" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126239977.png" group-title="C0NVER6E-BOBAY",FRANCE 24
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1157/manifest.mpd
+
+#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="C0NVER6E-BOBAY",GMA 7
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1093/manifest.mpd
+
+#EXTINF:-1 tvg-id="1234" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1735903243498.png" group-title="C0NVER6E-BOBAY",GNN tv44
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1234/manifest.mpd
+
+#EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="C0NVER6E-BOBAY",GTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1143/manifest.mpd
+
+#EXTINF:-1 tvg-id="1152" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1733707474289.png" group-title="C0NVER6E-BOBAY",HALLYPOP
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1152/manifest.mpd
+
+#EXTINF:-1 tvg-id="1065" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126386617.png" group-title="C0NVER6E-BOBAY",HBO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1065/manifest.mpd
+
+#EXTINF:-1 tvg-id="1089" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="C0NVER6E-BOBAY",IBC 13
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1089/manifest.mpd
+
+#EXTINF:-1 tvg-id="1092" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605495653.png" group-title="C0NVER6E-BOBAY",INC TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1092/manifest.mpd
+
+#EXTINF:-1 tvg-id="1250" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128953472.png" group-title="C0NVER6E-BOBAY",JEEPNEY TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1250/manifest.mpd
+
+#EXTINF:-1 tvg-id="1286" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129013828.png" group-title="C0NVER6E-BOBAY",KAPAMILYA HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1286/manifest.mpd
+
+#EXTINF:-1 tvg-id="1263" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129053549.png" group-title="C0NVER6E-BOBAY",KIX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1263/manifest.mpd
+
+#EXTINF:-1 tvg-id="1340" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723604992973.png" group-title="C0NVER6E-BOBAY",KNOWLEDGE CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1340/manifest.mpd
+
+#EXTINF:-1 tvg-id="1103" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129682729.png" group-title="C0NVER6E-BOBAY",Light TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1103/manifest.mpd
+
+#EXTINF:-1 tvg-id="1154" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605044807.png" group-title="C0NVER6E-BOBAY",LIVING ASIA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1154/manifest.mpd
+
+#EXTINF:-1 tvg-id="1196" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129704683.png" group-title="C0NVER6E-BOBAY",LOTUS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1196/manifest.mpd
+
+#EXTINF:-1 tvg-id="1267" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129722508.png" group-title="C0NVER6E-BOBAY",METRO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1267/manifest.mpd
+
+#EXTINF:-1 tvg-id="1252" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129763447.png" group-title="C0NVER6E-BOBAY",MYX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1252/manifest.mpd
+
+#EXTINF:-1 tvg-id="1090" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129823252.png" group-title="C0NVER6E-BOBAY",NET 25
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1090/manifest.mpd
+
+#EXTINF:-1 tvg-id="1123" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1730362635883.png" group-title="C0NVER6E-BOBAY",MINDANOW
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1123/manifest.mpd
+
+#EXTINF:-1 tvg-id="1214" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129897469.png" group-title="C0NVER6E-BOBAY",NHK BS1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1214/manifest.mpd
+
+#EXTINF:-1 tvg-id="1145" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131229501.png" group-title="C0NVER6E-BOBAY",NHK WORLD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1145/manifest.mpd
+
+#EXTINF:-1 tvg-id="1215" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723130097999.png" group-title="C0NVER6E-BOBAY",NICK Jr.
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1215/manifest.mpd
+
+#EXTINF:-1 tvg-id="1083" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131202156.png" group-title="C0NVER6E-BOBAY",ONE SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1083/manifest.mpd
+
+#EXTINF:-1 tvg-id="1175" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131279043.png" group-title="C0NVER6E-BOBAY",ORAS NG HIMALA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1175/manifest.mpd
+
+#EXTINF:-1 tvg-id="1078" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723612823404.png" group-title="C0NVER6E-BOBAY",PBO
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1078/manifest.mpd
+
+#EXTINF:-1 tvg-id="1113" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131346405.png" group-title="C0NVER6E-BOBAY",PHOENIX CHINESE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1113/manifest.mpd
+
+#EXTINF:-1 tvg-id="1127" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723132198713.png" group-title="C0NVER6E-BOBAY",PREMIER FOOTBALL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1127/manifest.mpd
+
+#EXTINF:-1 tvg-id="1135" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133770267.png" group-title="C0NVER6E-BOBAY",PREMIER SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1135/manifest.mpd
+
+#EXTINF:-1 tvg-id="1204" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133748606.png" group-title="C0NVER6E-BOBAY",PREMIER SPORTS 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1204/manifest.mpd
+
+#EXTINF:-1 tvg-id="1086" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="C0NVER6E-BOBAY",PTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1086/manifest.mpd
+
+#EXTINF:-1 tvg-id="1327" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133809689.png" group-title="C0NVER6E-BOBAY",RADIO MARIA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1327/manifest.mpd
+
+#EXTINF:-1 tvg-id="1159" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133830822.png" group-title="C0NVER6E-BOBAY",RJTV 29
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1159/manifest.mpd
+
+#EXTINF:-1 tvg-id="1177" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133849713.png" group-title="C0NVER6E-BOBAY",ROCK TV OF MANILA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1177/manifest.mpd
+
+#EXTINF:-1 tvg-id="1094" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133873954.png" group-title="C0NVER6E-BOBAY",RPTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1094/manifest.mpd
+
+#EXTINF:-1 tvg-id="1176" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723612444093.png" group-title="C0NVER6E-BOBAY",SAUDI TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1176/manifest.mpd
+
+#EXTINF:-1 tvg-id="1155" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133929628.png" group-title="C0NVER6E-BOBAY",SMNI
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1155/manifest.mpd
+
+#EXTINF:-1 tvg-id="1243" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134009531.png" group-title="C0NVER6E-BOBAY",SOLAR FLIX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1243/manifest.mpd
+
+#EXTINF:-1 tvg-id="1081" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134030645.png" group-title="C0NVER6E-BOBAY",SOLAR SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1081/manifest.mpd
+
+#EXTINF:-1 tvg-id="1202" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219661968.png" group-title="C0NVER6E-BOBAY",STAR CHANNEL 1
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1202/manifest.mpd
+
+#EXTINF:-1 tvg-id="1305" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134076089.png" group-title="C0NVER6E-BOBAY",TAP ACTION FLIX
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1305/manifest.mpd
+
+#EXTINF:-1 tvg-id="1150" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134099364.png" group-title="C0NVER6E-BOBAY",TAP EDGE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1150/manifest.mpd
+
+#EXTINF:-1 tvg-id="1304" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134117906.png" group-title="C0NVER6E-BOBAY",TAP MOVIES
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1304/manifest.mpd
+
+#EXTINF:-1 tvg-id="1151" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134161793.png" group-title="C0NVER6E-BOBAY",TAP SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1151/manifest.mpd
+
+#EXTINF:-1 tvg-id="1149" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134180637.png" group-title="C0NVER6E-BOBAY",TAP TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1149/manifest.mpd
+
+#EXTINF:-1 tvg-id="1147" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134224456.png" group-title="C0NVER6E-BOBAY",TBN
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1147/manifest.mpd
+
+#EXTINF:-1 tvg-id="1253" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134284048.png" group-title="C0NVER6E-BOBAY",THRILL
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1253/manifest.mpd
+
+#EXTINF:-1 tvg-id="1080" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219688328.png" group-title="C0NVER6E-BOBAY",TMC
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1080/manifest.mpd
+
+#EXTINF:-1 tvg-id="1088" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134335547.png" group-title="C0NVER6E-BOBAY",TV5
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1088/manifest.mpd
+
+#EXTINF:-1 tvg-id="1156" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134373931.png" group-title="C0NVER6E-BOBAY",TV5 MONDE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1156/manifest.mpd
+
+#EXTINF:-1 tvg-id="1160" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134353936.png" group-title="C0NVER6E-BOBAY",TV MARIA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1160/manifest.mpd
+
+#EXTINF:-1 tvg-id="1112" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134391817.png" group-title="C0NVER6E-BOBAY",TVE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1112/manifest.mpd
+
+#EXTINF:-1 tvg-id="1091" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134409636.png" group-title="C0NVER6E-BOBAY",UNTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1091/manifest.mpd
+
+#EXTINF:-1 tvg-id="1199" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134428182.png" group-title="C0NVER6E-BOBAY",USA TODAY NEWS
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1199/manifest.mpd
+
+#EXTINF:-1 tvg-id="1134" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219709476.png" group-title="C0NVER6E-BOBAY",VEGAS LIFE
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1134/manifest.mpd
+
+#EXTINF:-1 tvg-id="1079" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134481136.png" group-title="C0NVER6E-BOBAY",VIVA CINEMA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1079/manifest.mpd
+
+#EXTINF:-1 tvg-id="1096" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134500990.png" group-title="C0NVER6E-BOBAY",WARNER TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1096/manifest.mpd
+
+#EXTINF:-1 tvg-id="1337" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="C0NVER6E-BOBAY",XINGKONG
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://raw.githubusercontent.com/xaaMee/ee/refs/heads/main/key
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1337/manifest.mpd
 
 #EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="C0NVER6E",A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -110,13 +712,6 @@ https://converse.nathcreqtives.com/1106/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1283/manifest.mpd
 
-#EXTINF:-1 tvg-id="1073" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125798255.png" group-title="C0NVER6E",CNN (BOBAY)
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"31363231383437383231323033353237":"583130656f6d3267777a6d7235487858","31363230393830323336303039323834":"7676746b584436514331503256784654","31363230393830353534303039353831":"506e354374394938446439344b6f3741","31363230393830373532303039383138":"363354494336436b494a776f4a796634","31363230383830323639303031323938":"715a36614f62445635304852794b3676","31363233343133343534323335373438":"75467735704170524847774a63594361","31363231393338393034323331373536":"6b75304a3061326f78593545384f3165","31363232303231333139323537333830":"3139614a6335316d644f566d37444c75","31363230383933303132303032313231":"6b5058557254355845335a6e63737030","31363232303137333630323534393638":"63547a3159507a7036314e3357436c7a","1fe92685a75844dc54c9dac124802510":"36cb2063bf5338d18d31657371b15817","ff1febd7018d0dd711601e795e0d6210":"38fbfb3a56e40ff92c9df8acbcba9ef6","31363331313938353234383134303633":"3669754977303668394e493367344773","31363331313938333434383133383337":"32776734365267686977387049356d48","31363231383439333634323034333738":"364a3849664b37386955623437364579"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://ni.bobay.workers.dev/1073/manifest.mpd
-
 #EXTINF:-1 tvg-id="1073" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125798255.png" group-title="C0NVER6E",CNN
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -219,25 +814,11 @@ https://converse.nathcreqtives.com/1143/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
 https://converse.nathcreqtives.com/1152/manifest.mpd
 
-#EXTINF:-1 tvg-id="1089" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126386617.png" group-title="C0NVER6E",HBO (BOBAY) 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"31363231383437383231323033353237":"583130656f6d3267777a6d7235487858","31363230393830323336303039323834":"7676746b584436514331503256784654","31363230393830353534303039353831":"506e354374394938446439344b6f3741","31363230393830373532303039383138":"363354494336436b494a776f4a796634","31363230383830323639303031323938":"715a36614f62445635304852794b3676","31363233343133343534323335373438":"75467735704170524847774a63594361","31363231393338393034323331373536":"6b75304a3061326f78593545384f3165","31363232303231333139323537333830":"3139614a6335316d644f566d37444c75","31363230383933303132303032313231":"6b5058557254355845335a6e63737030","31363232303137333630323534393638":"63547a3159507a7036314e3357436c7a","1fe92685a75844dc54c9dac124802510":"36cb2063bf5338d18d31657371b15817","ff1febd7018d0dd711601e795e0d6210":"38fbfb3a56e40ff92c9df8acbcba9ef6","31363331313938353234383134303633":"3669754977303668394e493367344773","31363331313938333434383133383337":"32776734365267686977387049356d48","31363231383439333634323034333738":"364a3849664b37386955623437364579"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://ni.bobay.workers.dev/1065/manifest.mpd
-
 #EXTINF:-1 tvg-id="1065" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126386617.png" group-title="C0NVER6E",HBO
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031323938:715a36614f62445635304852794b3676
 https://converse.nathcreqtives.com/1065/manifest.mpd
-
-#EXTINF:-1 tvg-id="1089" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="C0NVER6E",IBC 13 (BOBAY) 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"31363231383437383231323033353237":"583130656f6d3267777a6d7235487858","31363230393830323336303039323834":"7676746b584436514331503256784654","31363230393830353534303039353831":"506e354374394938446439344b6f3741","31363230393830373532303039383138":"363354494336436b494a776f4a796634","31363230383830323639303031323938":"715a36614f62445635304852794b3676","31363233343133343534323335373438":"75467735704170524847774a63594361","31363231393338393034323331373536":"6b75304a3061326f78593545384f3165","31363232303231333139323537333830":"3139614a6335316d644f566d37444c75","31363230383933303132303032313231":"6b5058557254355845335a6e63737030","31363232303137333630323534393638":"63547a3159507a7036314e3357436c7a","1fe92685a75844dc54c9dac124802510":"36cb2063bf5338d18d31657371b15817","ff1febd7018d0dd711601e795e0d6210":"38fbfb3a56e40ff92c9df8acbcba9ef6","31363331313938353234383134303633":"3669754977303668394e493367344773","31363331313938333434383133383337":"32776734365267686977387049356d48","31363231383439333634323034333738":"364a3849664b37386955623437364579"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-https://ni.bobay.workers.dev/1089/manifest.mpd
 
 #EXTINF:-1 tvg-id="1089" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="C0NVER6E",IBC 13
 #KODIPROP:inputstream.adaptive.manifest_type=dash
