@@ -1,6 +1,13 @@
 #EXTM3U
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
+#EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="C0NVER6E",A2Z TEST
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363231383437383231323033353237:583130656f6d3267777a6d7235487858,31363230393830323336303039323834:7676746b584436514331503256784654,31363230393830353534303039353831:506e354374394938446439344b6f3741,31363230393830373532303039383138:363354494336436b494a776f4a796634,31363230393830353534303039353831:506e354374394938446439344b6f3741,31363230393830323336303039323834:7676746b584436514331503256784654,31363230383830323639303031323938:715a36614f62445635304852794b3676,31363233343133343534323335373438:75467735704170524847774a63594361,31363231393338393034323331373536:6b75304a3061326f78593545384f3165,31363232303231333139323537333830:3139614a6335316d644f566d37444c75,31363230383933303132303032313231:6b5058557254355845335a6e63737030,31363232303137333630323534393638:63547a3159507a7036314e3357436c7a,1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817,ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6,31363331313938353234383134303633:3669754977303668394e493367344773,31363331313938333434383133383337:32776734365267686977387049356d48
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space//&origin=https://tunex.space/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://ni.bobay.workers.dev/1087/manifest.mpd
+
 #EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="C0NVER6E",A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
