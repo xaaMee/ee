@@ -1839,7 +1839,8 @@ https://bztv.z5cable.com/giatv/giatv-ATBSGLOBAL/ATBSGLOBAL/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://randomrepublika.com/wp-content/uploads/2024/08/Bilyonaryo-News-Channel-8.jpg" group-title="General",Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/640px-BBC_World_News_red.svg.png" group-title="General",BBC News
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://hide.skygoplus.workers.dev/bbc-news.m3u8
 #EXTINF: tvg-logo="https://i.ibb.co/RdzJRTF/image.png" group-title="General",Blast Movies
 https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
 #EXTINF: tvg-logo="https://i.ibb.co/8DvBqyvv/image.png" group-title="General",Blast Sports
@@ -1847,9 +1848,13 @@ https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-a
 #EXTINF:-1 tvg-logo="https://data.bloomberglp.com/company/sites/51/2019/08/og-image-generic-lp.png" group-title="General",Bloomberg
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/CARTOONITO_BT_LOGO_RGB.png" group-title="General",Cartoonito
-https://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Cartoon-Network-2022-Logo.jpg" group-title="General",Cartoon Network
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://hide.skygoplus.workers.dev/cartoonito.m3u8
+#EXTINF:-1 tvg-id="1111" tvg-logo="https://cms.cignal.tv/Upload/Images/Cartoon-Network-2022-Logo.jpg" group-title="General",Cartoon Network
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://hide.skygoplus.workers.dev/cartoon-network.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f6/CCTN_Cebu_logo.png" group-title="General",CCTN 47
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1883,7 +1888,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono
 #EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/KBS.png" group-title="General",KBS World
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="General",Lotus Macau
-https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://hide.skygoplus.workers.dev/lotus-macau.m3u8
 #EXTINF:-1 tvg-logo="https://motorvision.tv/wp-content/uploads/2023/09/MV_Logo_positive_light_background-2.png" group-title="General",Motorvision Amagi
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9kbM7FFL/moviesaction.png" group-title="General",Movies Action
@@ -1894,8 +1901,6 @@ https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index
 https://fl3.moveonjoy.com/MTV_LIVE/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Nautical_Channel_%282020-.n.v.%29.png/revision/latest?cb=20200731113134" group-title="General",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/NBA_TV_Philippines.png/640px-NBA_TV_Philippines.png" group-title="General",NBA TV Philippines
-http://143.44.136.113:6610/001/2/ch00000090990000001064/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/459px-NOW_70s.png" group-title="General",Now70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="General",Now80s
@@ -1910,10 +1915,6 @@ https://livecdn-iptv001.rumsport.com/stream/14839/tracks-v1a1/mono.m3u8
 https://racingamerica-plex.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VpwBF4bf/image.png" group-title="General",Rage TV
 https://bztv.z5cable.com/giatv/giatv-ragetv/ragetv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/652f763c1fcddfc32c6860de_logo_act_web.png" group-title="General",Rock Action
-http://143.44.136.113:6610/001/2/ch00000090990000001325/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://assets-global.website-files.com/64e81e52acfdaa1696fd623f/64f01f9708db7bbce637b37e_ENT_LOGO_GOLD_NoShadow-p-500.png" group-title="General",Rock Entertainment
-http://161.49.17.2:6610/001/2/ch00000090990000001326/manifest.mpd?JITPDRMType=Widevine&virtualDomain=001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/768px-Russia-today-logo.svg.png" group-title="General",RT
 https://rt-glb.rttv.com/dvr/rtnews/playlist_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nq3DjxDJ/image.png" group-title="General",Sine Manila
