@@ -2739,6 +2739,8 @@ https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
 https://87755b6e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctY2FfR2FtZVNob3dDZW50cmFsLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Game_Show_Network_2018.svg/541px-Game_Show_Network_2018.svg.png" group-title="General",Game Show Network
 https://a-cdn.klowdtv.com/live2/gsn_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TB2gHngG/Hope-Channel-Philippines-Logo-2010.png" group-title="General",Hope Channel
+https://jstre.am/live/jsl:7A1swL7Fhlh.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZdG0l2vnlMM/maxresdefault.jpg" group-title="General",Jungo Blackbelt
 https://jungotvstream.chanall.tv/jungotv/combatgo/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/3f6f0d_6b141fb2470c4d0d9210f6cac32075ac~mv2.png/v1/fill/w_600,h_139,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Hallypop_Logo_FullColor.png" group-title="General",Hallypop
