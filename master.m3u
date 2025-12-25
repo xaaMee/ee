@@ -2747,6 +2747,8 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscb
 https://bztv.z5cable.com/giatv/giatv-ATBSGLOBAL/ATBSGLOBAL/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://randomrepublika.com/wp-content/uploads/2024/08/Bilyonaryo-News-Channel-8.jpg" group-title="General",Bilyonaryo News Channel
 https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://randomrepublika.com/wp-content/uploads/2024/08/Bilyonaryo-News-Channel-8.jpg" group-title="General",Bilyonaryo News Channel 1080
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg19223-amg19223c11-amgplt0352/ab5cfc33-e1d4-11f0-bd45-baeda0bcb3c3/135/1920x1080_5129264/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/640px-BBC_World_News_red.svg.png" group-title="General",BBC News
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://tunex.space/&origin=https://tunex.space&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://hide.skygoplus.workers.dev/bbc-news.m3u8
