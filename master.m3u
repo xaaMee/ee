@@ -1,119 +1,208 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/cignal_epg.xml, https://raw.githubusercontent.com/atone77721/CIGNAL_EPG/refs/heads/main/sky_epg.xml"
 
+#EXTINF:-1 tvg-id="ABCAustralia" ch-number="518" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ABC_v1.png",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
-#EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
-https://converse.nathcreqtives.com/astro/2406/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
+https://converse.nathcreqtives.com/astro/5075/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="AlJazeeraEnglish" ch-number="513" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png",Al Jazeera English
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
-#EXTINF:-1 tvg-id="ONE" ch-number="393" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png" group-title="Astro-NATQ",One
-https://converse.nathcreqtives.com/astro/2702/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
-#EXTINF:-1 tvg-id="tvN" ch-number="395" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="Astro-NATQ",tvN
-https://converse.nathcreqtives.com/astro/1001/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
-#EXTINF:-1 tvg-id="K-Plus" ch-number="396" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K-Plus
-https://converse.nathcreqtives.com/astro/9983/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
-#EXTINF:-1 tvg-id="KBSWorld" ch-number="392" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="Astro-NATQ",KBS World
-https://converse.nathcreqtives.com/astro/2306/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
-#EXTINF:-1 tvg-id="HITS" ch-number="706" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png",HITS
-https://converse.nathcreqtives.com/astro/606/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
-#EXTINF:-1 tvg-id="AXN" ch-number="701" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png",AXN
-https://converse.nathcreqtives.com/astro/2303/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
-#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png",HITS Movies
-https://converse.nathcreqtives.com/astro/2305/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-#EXTINF:-1 tvg-ID="HBOHits1" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",HBO Hits
-https://converse.nathcreqtives.com/astro/5055/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
-#EXTINF:-1 tvg-id="HBOFamily1" ch-number="414" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family
-https://converse.nathcreqtives.com/astro/5053/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
-#EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="Astro-NATQ",Celestial Movies
-https://converse.nathcreqtives.com/astro/506/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
-#EXTINF:-1 tvg-id="DiscoveryChannel" ch-number="552" group-title="Astro-NATQ" .com.my/prod/logo/Discovery_NEW_v1.png",Discovery Channel
-https://converse.nathcreqtives.com/astro/2510/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
-#EXTINF:-1 tvg-id="DiscoveryAsia" ch-number="553" group-title="Astro-NATQ" .com.my/prod/logo/Discovery_Asia_v1.png",Discovery Asia
-https://converse.nathcreqtives.com/astro/501/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
-#EXTINF:-1 tvg-id="History" ch-number="555" group-title="Astro-NATQ" .com.my/prod/logo/History_v1.png",History
-https://converse.nathcreqtives.com/astro/604/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
-#EXTINF:-1 tvg-id="CrimeInvestigation" ch-number="714" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CI_v1.png",Crime & Investigation TV
-https://converse.nathcreqtives.com/astro/2111/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
-#EXTINF:-1 tvg-id="BBCEarth" ch-number="554" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-title="Astro-NATQ" ,BBC Earth
-https://converse.nathcreqtives.com/astro/5051/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
-#EXTINF:-1 tvg-id="BBCLifestyle" ch-number="717" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" group-title="Astro-NATQ",BBC Lifestyle
-https://converse.nathcreqtives.com/astro/5050/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
-#EXTINF:-1 tvg-ID="LoveNature" group-title="Astro-NATQ" .com.my/prod/logo/Love-Nature_190x80_TV-Guide.png",Love Nature
-https://converse.nathcreqtives.com/astro/5096/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
-#EXTINF:-1 tvg-id="HGTV" ch-number="715" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HGTV_v1.png",HGTV
-https://converse.nathcreqtives.com/astro/2502/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-id="TLC" ch-number="707" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png",TLC
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
-https://converse.nathcreqtives.com/astro/2709/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
-#EXTINF:-1 tvg-id="Lifetime" ch-number="703" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Lifetime.png",Lifetime
-https://converse.nathcreqtives.com/astro/5052/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=b1fbd0874e7923f5b05929a042aa0610:6c3c498113abffdf454dc935319a794d
+https://converse.nathcreqtives.com/astro/2110/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
 #EXTINF:-1 tvg-id="AFN" ch-number="709" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png",Asian Food Network
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=346b9f41e2933748c8861f82932e0110:cf0cffb637b81598a27bd6b0d90d65a8
 https://converse.nathcreqtives.com/astro/500/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png",Astro Showcase
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-#EXTINF:-1 tvg-id="MTVAsia" ch-number="718" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MTV_Live.png",MTV Live
-https://converse.nathcreqtives.com/astro/5014/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+https://converse.nathcreqtives.com/astro/5054/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="AXN" ch-number="701" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AXN_v1.png",AXN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+https://converse.nathcreqtives.com/astro/2303/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="BBCEarth" ch-number="554" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC-EARTH_2023.png" group-title="Astro-NATQ" ,BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dbf62ff0804bc5b8d523ef009d786310:bb1bdb27cc5fe1ec637d257999344cc3
+https://converse.nathcreqtives.com/astro/5051/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="BBCLifestyle" ch-number="717" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_Lifestyle.png" group-title="Astro-NATQ",BBC Lifestyle
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f429292dc744f284355308561577ac10:b12e1f894129c517dc8845baaeebec8a
+https://converse.nathcreqtives.com/astro/5050/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-ID="BBCNews" ch-number="512" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png",BBC News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
+https://converse.nathcreqtives.com/astro/1008/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="beINSports" ch-number="818" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",beIN Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+https://converse.nathcreqtives.com/astro/408/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",beIN Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+https://converse.nathcreqtives.com/astro/5066/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="beINSports3" ch-number="819" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",beIN Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+https://converse.nathcreqtives.com/astro/2705/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CHN" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png" ,beIN Sports 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
+https://converse.nathcreqtives.com/astro/5085/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CHN" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png" ,beIN Sports 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7de4031a7e1079b2ff388da11db9a710:463d877c3b6a9c5948b9045ab56d6dd1
+https://converse.nathcreqtives.com/astro/5086/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="BlippiandFriends" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Blippi&Friends.png",Blippi & Friends
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
+https://converse.nathcreqtives.com/astro/5175/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="BloombergTV" ch-number="517" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_979_v3.png",Bloomberg TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
+https://converse.nathcreqtives.com/astro/5020/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CartoonNetwork" ch-number="615" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
+https://converse.nathcreqtives.com/astro/509/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CBeebies" ch-number="620" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png",CBeebies
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
+https://converse.nathcreqtives.com/astro/5093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CCTV4" ch-number="335" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" group-title="Astro-NATQ",CCTV4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
+https://converse.nathcreqtives.com/astro/403/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CCM" ch-number="321" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="Astro-NATQ",Celestial Classic Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
+https://converse.nathcreqtives.com/astro/100/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CelestialMovies" ch-number="309" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-title="Astro-NATQ",Celestial Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
+https://converse.nathcreqtives.com/astro/506/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CGTN" ch-number="503" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_v1.png",CGTN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc66ef0ee35b5ba639dc0e13c5f8a910:9e706161f02fb99cb692d2965470494e
+https://converse.nathcreqtives.com/astro/5019/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CNA" ch-number="515" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png",Channel News Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415
+https://converse.nathcreqtives.com/astro/605/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
+https://converse.nathcreqtives.com/astro/603/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CNN" ch-number="511" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNN_v1.png",CNN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
+https://converse.nathcreqtives.com/astro/2503/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CNBCAsia" ch-number="516" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNBC_v1.png",CNBC Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
+https://converse.nathcreqtives.com/astro/900/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="AstroCricket" tvg-chno="824" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png" group-title="Astro-NATQ",Cricket
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+https://converse.nathcreqtives.com/astro/2504/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="CrimeInvestigation" ch-number="714" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CI_v1.png",Crime & Investigation TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=22fc5baf47ae3b6322bc244206bbb210:db1ee2b8994b91aac65049ef3e493787
+https://converse.nathcreqtives.com/astro/2111/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="DiscoveryAsia" ch-number="553" group-title="Astro-NATQ" .com.my/prod/logo/Discovery_Asia_v1.png",Discovery Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3ff02fcd80c2e3230c52ae70fe903410:c3a58ec867cc25829e1fbe8938442553
+https://converse.nathcreqtives.com/astro/501/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="DiscoveryChannel" ch-number="552" group-title="Astro-NATQ" .com.my/prod/logo/Discovery_NEW_v1.png",Discovery Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=276767a578aae2eacb284247ccd9eb10:03ef88df1a47669e5459e105e3b535b1
+https://converse.nathcreqtives.com/astro/2510/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="DW" ch-number="521" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DW_v1.png",DW English
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7edf3bd590cf337f721a2e5bec361510:13bb829ce4836ccf74071c45993978c5
+https://converse.nathcreqtives.com/astro/9984/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="France24" ch-number="522" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/France24_v1.png",France 24
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
+https://converse.nathcreqtives.com/astro/9985/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="GolfChannel" tvg-chno="822" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="Astro-NATQ",Golf Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
+https://converse.nathcreqtives.com/astro/1003/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="HBO" ch-number=411" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
+https://converse.nathcreqtives.com/astro/2304/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-ID="HBOHits1" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Hits.png",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
+https://converse.nathcreqtives.com/astro/5055/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="HBOFamily1" ch-number="414" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_Family.png",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b9ff7cc1a3dc9fef47cc5773472d510:7e37588e893ab9252e505bd6dda35beb
+https://converse.nathcreqtives.com/astro/5053/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="HGTV" ch-number="715" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HGTV_v1.png",HGTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8c1bb309955eee32882390abebe19810:2a695b046e7cf5811a634d1348441195
+https://converse.nathcreqtives.com/astro/2502/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="History" ch-number="555" group-title="Astro-NATQ" .com.my/prod/logo/History_v1.png",History
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3feecc36930732cbb69306dc687c6f10:3458265f7530bf1fef204ca8cb4689db
+https://converse.nathcreqtives.com/astro/604/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="HITS" ch-number="706" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Hits_v1.png",HITS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1fe92685a75844dc54c9dac124802510:36cb2063bf5338d18d31657371b15817
+https://converse.nathcreqtives.com/astro/606/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="HITSMovies" ch-number="401" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Logo_10000499.png",HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff1febd7018d0dd711601e795e0d6210:38fbfb3a56e40ff92c9df8acbcba9ef6
+https://converse.nathcreqtives.com/astro/2305/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
 #EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png" group-title="Astro-NATQ",HITS Now
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -123,279 +212,40 @@ https://converse.nathcreqtives.com/astro/5014/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://converse.nathcreqtives.com/astro/5110/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-ID="LoveNature" group-title="Astro-NATQ" .com.my/prod/logo/Love-Nature_190x80_TV-Guide.png",Love Nature
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-#EXTINF:-1 tvg-id="Nickelodeon" ch-number="616" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png",Nickelodeon
-https://converse.nathcreqtives.com/astro/2511/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=168bd815468639fe4528b4bf0141f310:775a654c0610811ad022329a68884de1
+https://converse.nathcreqtives.com/astro/5096/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="ONE" ch-number="393" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ONE_HD_v2.png" group-title="Astro-NATQ",One
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=01767d1c2315c0e9556f477fb1f0c710:77ec0eeb21c07812fd7c58628366ccb3
-#EXTINF:-1 tvg-ID="BBCNews" ch-number="512" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/BBC_World_News_v2.png",BBC News
-https://converse.nathcreqtives.com/astro/1008/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
+https://converse.nathcreqtives.com/astro/2702/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="KBSWorld" ch-number="392" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KBSW_v1.png" group-title="Astro-NATQ",KBS World
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f812aeae6be5b924a8181b512d5d7910:44275884ee394d05081fde395ff6e415
-#EXTINF:-1 tvg-id="CNA" ch-number="515" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Channel_News_Asia_v1.png",CNA
-https://converse.nathcreqtives.com/astro/605/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
+https://converse.nathcreqtives.com/astro/2306/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="K-Plus" ch-number="396" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/K-Plus_v1.png",K-Plus
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1b618a291cece44c9845dddfc4fd9b10:bf7e1b97555c4acb7455f711b2a9ff16
-#EXTINF:-1 tvg-id="CNN" ch-number="511" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNN_v1.png",CNN
-https://converse.nathcreqtives.com/astro/2503/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
+https://converse.nathcreqtives.com/astro/9983/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="Lifetime" ch-number="703" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Lifetime.png",Lifetime
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3a38f1340531759a1ca97bc5d80c810:602827a870d49862d1a23f2912957b4c
-#EXTINF:-1 tvg-id="CNBCAsia" ch-number="516" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CNBC_v1.png",CNBC Asia
-https://converse.nathcreqtives.com/astro/900/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=8de11e005db5bd0db8228814863cd310:183b3eafa4c82e68f74c4244d54906b0
+https://converse.nathcreqtives.com/astro/5052/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="MoonbugKids" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png" ch-number="618",Moonbug Kids
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=db1343545ae25ddecf8dfa4422f35410:79a044b30d64f5c37e6d45d503cbb280
-#EXTINF:-1 tvg-id="BloombergTV" ch-number="517" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_979_v3.png",Bloomberg TV
-https://converse.nathcreqtives.com/astro/5020/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
+https://converse.nathcreqtives.com/astro/5067/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="MTVAsia" ch-number="718" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/MTV_Live.png",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc66ef0ee35b5ba639dc0e13c5f8a910:9e706161f02fb99cb692d2965470494e
-#EXTINF:-1 tvg-id="CGTN" ch-number="503" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CGTN_v1.png",CGTN
-https://converse.nathcreqtives.com/astro/5019/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1fbd0874e7923f5b05929a042aa0610:6c3c498113abffdf454dc935319a794d
-#EXTINF:-1 tvg-id="AlJazeeraEnglish" ch-number="513" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AlJazeera_v1.png",Al Jazeera English
-https://converse.nathcreqtives.com/astro/2110/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-id="W-Sport" group-title="Astro-NATQ" ch-number="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png",W-Sport
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
-https://converse.nathcreqtives.com/astro/5060/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-id="CBeebies" ch-number="620" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CBeebies_V1.png",CBeebies
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=50c699c444e5f80dacafc4c99667d810:de6c5feaae5f6963b4b392ddc8b6a778
-https://converse.nathcreqtives.com/astro/5093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-id="beINSports3" ch-number="819" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png",beIN Sports 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
-https://converse.nathcreqtives.com/astro/2705/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6a9fcc2f94258cee0f2108687c42e710:99bd7c1ff2391244b4e40e08bef1109d
-#EXTINF:-1 tvg-id="ABCAustralia" ch-number="518" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ABC_v1.png",ABC Australia
-https://converse.nathcreqtives.com/astro/5075/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=db1a338f71d40186f5997cb085bb3f10:8425690c4844fbb01b5eae706bc2f7c6
-#EXTINF:-1 tvg-id="CCTV4" ch-number="335" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCTV4_v1.png" group-title="Astro-NATQ",CCTV4
-https://converse.nathcreqtives.com/astro/403/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3b0c1cebd0c4518d600f52c354ed1910:76d409ffc4eaa012c61d8c31bd13df5d
-#EXTINF:-1 tvg-id="France24" ch-number="522" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/France24_v1.png",France 24
-https://converse.nathcreqtives.com/astro/9985/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a642dd4bf3ea782e19202adefb604b10:3f59355e15eed1bb219ea1687d55cfbb
-#EXTINF:-1 tvg-id="CCM" ch-number="321" tvg-logo="https://linear-poster.astro.com.my/prod/logo/CCM_v1.png" group-title="Astro-NATQ",CCM
-https://converse.nathcreqtives.com/astro/100/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=705bab5e645b6d7c95588b29520f8110:28639bcfb5cbee8ff9ca398fcf5bfcd0
-#EXTINF:-1 tvg-id="GolfChannel" tvg-chno="822" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Golf_v1.png" group-title="Astro-NATQ",Golf Channel
-https://converse.nathcreqtives.com/astro/1003/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-ID="ZeeCinema" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
-https://converse.nathcreqtives.com/astro/5106/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
-#EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" group-title="Astro-NATQ",Astro Oasis
-https://converse.nathcreqtives.com/astro/2505/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
-#EXTINF:-1 tvg-id="AstroRania" ch-number="112" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png" group-title="Astro-NATQ",Astro Rania
-https://converse.nathcreqtives.com/astro/608/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
-#EXTINF:-1 tvg-id="AstroAura" ch-number="113" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png" group-title="Astro-NATQ",Astro Aura
-https://converse.nathcreqtives.com/astro/609/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
-#EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="Astro-NATQ",TV Al-Hijrah
-https://converse.nathcreqtives.com/astro/1113/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
-#EXTINF:-1 group-title="Astro-NATQ" tvg-id="TVS" tvg-chno="122" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVSarawak.png",TVS
-https://converse.nathcreqtives.com/astro/5021/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
-#EXTINF:-1 tvg-id="ColorsHD" ch-number="116" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="Astro-NATQ",Colors Hindi
-https://converse.nathcreqtives.com/astro/2611/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
-#EXTINF:-1 group-title="Astro-NATQ" tvg-id="AstroVaanavil" tvg-chno="201" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroVaanavil_2024.png",Astro Vaanavil
-https://converse.nathcreqtives.com/astro/2309/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-ID="AstroVellithirai" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vellithirai_v1.png",Astro Vellithirai
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
-https://converse.nathcreqtives.com/astro/5073/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=83076ff2f68d1764b559c432ab49ca10:ebdf56ba4a3562cc82053a2952975432
-#EXTINF:-1 tvg-id="SunTV" ch-number="211" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_TV_v1.png" group-title="Astro-NATQ",SunTV
-https://converse.nathcreqtives.com/astro/2310/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
-#EXTINF:-1 tvg-id="SunMusic" ch-number="212" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_Music_v1.png" group-title="Astro-NATQ",Sun Music
-https://converse.nathcreqtives.com/astro/5011/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
-#EXTINF:-1 tvg-id="Adithya" tvg-chno="214" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png",Adithya
-https://converse.nathcreqtives.com/astro/915/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-id="SunNews" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-News.png",Sun News
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a171cc1bb90f78820cf25cc55f0ee10:ac08792047218ca2a01f2bbd12d90501
-https://converse.nathcreqtives.com/astro/5087/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-id="KTV" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KTV.png",KTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e7863a8e770b0d72ebe4a68437b6410:73648ceba3751645926d45421c85d927
-https://converse.nathcreqtives.com/astro/5088/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-id="SunLife" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-Life.png",Sun Life
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3e1be94e6c193fa21787ce8435db610:726304708c429f613ec2dc53619d6f76
-https://converse.nathcreqtives.com/astro/5089/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
-#EXTINF:-1 tvg-id="StarVijay" tvg-chno="221" group-title="Astro-NATQ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png",Star Vijay
-https://converse.nathcreqtives.com/astro/2707/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
-#EXTINF:-1 tvg-id="ColorsTamilHD" tvg-chno="222" group-title="Astro-NATQ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png",Colors Tamil
-https://converse.nathcreqtives.com/astro/2101/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
-#EXTINF:-1 tvg-id="ZeeTamilHD" tvg-chno="223" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png",Zee Tamil
-https://converse.nathcreqtives.com/astro/2311/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
-#EXTINF:-1 tvg-id="iQIYI" ch-number="300" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-title="Astro-NATQ",iQIYI
-https://converse.nathcreqtives.com/astro/1006/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
-#EXTINF:-1 tvg-id="TVBClassic" ch-number="305" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Classic_2022.png" group-title="Astro-NATQ",TVB Classic
-https://converse.nathcreqtives.com/astro/5016/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAEC_2024.png" group-title="Astro-NATQ",Astro AEC
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
-##KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
-https://converse.nathcreqtives.com/astro/2400/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-id="AstroQJ" ch-number="308" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png",Astro Qj
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://superbox1717.com/clearkey/results.php?keyid=89de71cf39be0946dec828edff84d010&key=9d5e036094bb77cbaf8867d3272c66d0
-https://converse.nathcreqtives.com/astro/2507/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
-#EXTINF:-1 tvg-id="TVBJade" ch-number="310" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Jade_v3.png" group-title="Astro-NATQ",TVB Jade
-https://converse.nathcreqtives.com/astro/2600/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
-#EXTINF:-1 tvg-id="CTIAsia" ch-number="316" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cti_v1.png" group-title="Astro-NATQ",CTI Asia
-https://converse.nathcreqtives.com/astro/5017/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
-#EXTINF:-1 tvg-id="TVBEntertainmentNews" ch-number="317" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png" group-title="Astro-NATQ",TVB Entertainment News
-https://converse.nathcreqtives.com/astro/5015/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
-#EXTINF:-1 tvg-id="TVBXingHe" ch-number="319" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_XingHe_v1.png" group-title="Astro-NATQ",TVB Xing He
-https://converse.nathcreqtives.com/astro/401/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
-#EXTINF:-1 tvg-id="TVBSAsia" ch-number="320" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title="Astro-NATQ",TVBS Asia
-https://converse.nathcreqtives.com/astro/402/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
-#EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png" group-title="Astro-NATQ",Phoenix Chinese Channel
-https://converse.nathcreqtives.com/astro/400/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9729558a9bff8d94774bfa2f019a1310:8b9eb7ab7196a425d9ab618a5c9f99d9
-#EXTINF:-1 tvg-id="PhoenixInfoNews" ch-number="326s" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_News_Info_v1.png" group-title="Astro-NATQ",Phoenix Info News
-https://converse.nathcreqtives.com/astro/5009/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
-#EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png" group-title="Astro-NATQ",Astro Hua Hee Dai
-https://converse.nathcreqtives.com/astro/2308/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
-#EXTINF:-1 tvg-id="BOO" ch-number="404" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="Astro-NATQ",BOO
-https://converse.nathcreqtives.com/astro/2407/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-id="HBO" ch-number=411" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
-https://converse.nathcreqtives.com/astro/2304/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
-#EXTINF:-1 tvg-id="Cinemax" ch-number="412" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cinemax_v1.png",Cinemax
-https://converse.nathcreqtives.com/astro/603/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
-#EXTINF:-1 tvg-id="ShowcaseMovies" ch-number="413" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroShowcase_2024.png",Showcase
-https://converse.nathcreqtives.com/astro/5054/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
-#EXTINF:-1 tvg-id="AstroAwani" ch-number="501" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",Awani
-https://converse.nathcreqtives.com/astro/5025/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
-#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="Astro-NATQ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png",Bernama News
-https://converse.nathcreqtives.com/astro/1114/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
+https://converse.nathcreqtives.com/astro/5014/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
 #EXTINF:-1 tvg-ID="NHKWorldPremium" group-title="Astro-NATQ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/428_144.png",NHK World Premium
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -403,40 +253,67 @@ https://converse.nathcreqtives.com/astro/1114/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_key=98817b144bcf19fd0ddca7fe54cee110:44b423a77dd34ace162db35cbb0fb6a3
 https://converse.nathcreqtives.com/astro/5018/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="Nickelodeon" ch-number="616" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Nicklelodeon_v1.png",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4bef7fc1bcb6bd7f287def940e38cb10:b0dadd74b713e4b29fd27e147cae7133
-#EXTINF:-1 tvg-id="SkyNews" ch-number="514" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png",Sky News
-https://converse.nathcreqtives.com/astro/2102/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+https://converse.nathcreqtives.com/astro/2511/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7edf3bd590cf337f721a2e5bec361510:13bb829ce4836ccf74071c45993978c5
-#EXTINF:-1 tvg-id="DW" ch-number="521" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/DW_v1.png",DW English
-https://converse.nathcreqtives.com/astro/9984/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
-#EXTINF:-1 tvg-id="AstroCeria" ch-number="611" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",Astro Ceria
-https://converse.nathcreqtives.com/astro/2606/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#EXTINF:-1 tvg-id="BlippiandFriends" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Blippi&Friends.png",Blippi & Friends
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b1119e01b67a19a3eb37c41140c3fa10:5124996ebcfee077b4aacec307f38d0f
-https://converse.nathcreqtives.com/astro/5175/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a05bebf706408431a390c3f9f40f410:89c5ff9f8e65c7fe966afbd2f9128e5f
-#EXTINF:-1 tvg-id="CartoonNetwork" ch-number="615" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cartoon_Network_v1.png",Cartoon Network
-https://converse.nathcreqtives.com/astro/509/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
-
+#EXTINF:-1 tvg-id="NickJr" ch-number="617" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_10000498_v1.png",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
-#EXTINF:-1 tvg-id="NickJr" ch-number="617" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_10000498_v1.png",Nick Jr.
 https://converse.nathcreqtives.com/astro/9982/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="PremierSports" tvg-chno="823" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Astro-NATQ",Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e3cb7499710786eb105fab7b52459910:8ab093adabdc343b8734b7ecf0aea11a
-#EXTINF:-1 tvg-id="MoonbugKids" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Moonbug_V1.png" ch-number="618",Moonbug Kids
-https://converse.nathcreqtives.com/astro/5067/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
+https://converse.nathcreqtives.com/astro/2601/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="SkyNews" ch-number="514" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sky_News_HD_v1.png",Sky News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bef7fc1bcb6bd7f287def940e38cb10:b0dadd74b713e4b29fd27e147cae7133
+https://converse.nathcreqtives.com/astro/2102/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="SPOTV" group-title="Astro-NATQ" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
+https://converse.nathcreqtives.com/astro/5058/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="SPOTV2" group-title="Astro-NATQ" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+https://converse.nathcreqtives.com/astro/5079/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="TLC" ch-number="707" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png",TLC
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=942ec156203b2aca1ddf3498f663c110:7f5e6c69698ddefcb74553431b2b1c98
+https://converse.nathcreqtives.com/astro/2709/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="tvN" ch-number="395" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvN_2021.png" group-title="Astro-NATQ",tvN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
+https://converse.nathcreqtives.com/astro/1001/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="tvNMovies" ch-number="416" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/tvNMovies_2021.png",tvN Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+https://converse.nathcreqtives.com/astro/2406/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="W-Sport" group-title="Astro-NATQ" ch-number="815" tvg-logo="https://linear-poster.astro.com.my/prod/logo/W-Sport.png",W-Sport
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=010cbb9cf1a01ead38070730d38bc710:9cd5c0d1e54c22e035d88dd3c1dfc84c
+https://converse.nathcreqtives.com/astro/5060/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-ID="ZeeCinema" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png",Zee Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+https://converse.nathcreqtives.com/astro/5106/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="Adithya" tvg-chno="214" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Adithiya_v1.png",Adithya
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
+https://converse.nathcreqtives.com/astro/915/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
 #EXTINF:-1 tvg-id="AstroArena" ch-number="801" group-title="Astro-NATQ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png",Astro Arena
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -448,6 +325,11 @@ https://converse.nathcreqtives.com/astro/2604/manifest.mpd?token=eyJhbGciOiJIUzI
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ead0335d60401225727a6d531e9c2710:1ee3b252227c5c2ec9378c833d2e14ff
 https://converse.nathcreqtives.com/astro/5057/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="AstroCeria" ch-number="611" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCeria_2024.png",Astro Ceria
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6e60ca0d28e8f97395f07b4e2e53a10:0f0ea6c3543c29d7f513eb886eb74f88
+https://converse.nathcreqtives.com/astro/2606/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
 #EXTINF:-1 tvg-id="AstroGrandstand" ch-number="813" group-title="Astro-NATQ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png",Astro Grandstand
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -530,50 +412,168 @@ https://converse.nathcreqtives.com/astro/9989/manifest.mpd?token=eyJhbGciOiJIUzI
 #EXTINF:-1 tvg-id="CHN" ch-number="807" group-title="Astro-NATQ" tvg-logo="https://i.postimg.cc/PxNmqCTh/Live-Event-0.png",Astro GO Live Event 7
 https://converse.nathcreqtives.com/astro/5076/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
-#EXTINF:-1 tvg-id="CHN" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT4.png" ,beIN Sports 4
+#EXTINF:-1 tvg-id="AstroAEC" ch-number="306" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAEC_2024.png" group-title="Astro-NATQ",Astro AEC
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=34b831a974501d106f6545e9f93de010:c31ef8e8ac1139b985ac3673002b7014
-https://converse.nathcreqtives.com/astro/5085/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=06282157da4e8f97623a70ed017fad10:8da72ca8501a4deb4bfc381fe1737ef4
+##KODIPROP:inputstream.adaptive.license_key={"655b6df8085d4fe6b3f71c0f4288f98a":"5f0d4251e05e0a3a661218169ee84181","d66e2fe5f045426195d432802f9ba807":"6fe283a6f1f3a3fb69f82c4340e0dde2"}
+https://converse.nathcreqtives.com/astro/2400/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
-#EXTINF:-1 tvg-id="CHN" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT5.png" ,beIN Sports 5
+#EXTINF:-1 tvg-id="AstroHuaHeeDai" ch-number="333" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png" group-title="Astro-NATQ",Astro Hua Hee Dai
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=60507ef0dc9c813d5f8c7b2229412f10:c8a0f7e69bb31dfd475da26fc6c6003b
+https://converse.nathcreqtives.com/astro/2308/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="AstroOasis" ch-number="106" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroOasis_2024.png" group-title="Astro-NATQ",Astro Oasis
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=17d5d62dc61954b82ee016da264abd10:5f35f815699140e2649d825f0d24028e
+#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
+https://converse.nathcreqtives.com/astro/2505/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="AstroQJ" ch-number="308" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2024.png",Astro Qj
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://superbox1717.com/clearkey/results.php?keyid=89de71cf39be0946dec828edff84d010&key=9d5e036094bb77cbaf8867d3272c66d0
+https://converse.nathcreqtives.com/astro/2507/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="AstroRania" ch-number="112" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRania_2024.png" group-title="Astro-NATQ",Astro Rania
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=784c6037e5888e84106e41059fe2b110:8e4200bf5c4d523ff00bfd173d021602
+https://converse.nathcreqtives.com/astro/608/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="AstroAura" ch-number="113" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAura_2024.png" group-title="Astro-NATQ",Astro Aura
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=869c3237d2fae78301a91dbb5a924d10:f5c2312185f9f0c4894b73ce17419d8c
+https://converse.nathcreqtives.com/astro/609/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 group-title="Astro-NATQ" tvg-id="AstroVaanavil" tvg-chno="201" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroVaanavil_2024.png",Astro Vaanavil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=72499c6ad44cc37d95a9075420911110:b5416326114a13e90662a4fbaf3c532b
+https://converse.nathcreqtives.com/astro/2309/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-ID="AstroVellithirai" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Vellithirai_v1.png",Astro Vellithirai
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7de4031a7e1079b2ff388da11db9a710:463d877c3b6a9c5948b9045ab56d6dd1
-https://converse.nathcreqtives.com/astro/5086/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+https://converse.nathcreqtives.com/astro/5073/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
-#EXTINF:-1 tvg-id="beINSports" ch-number="818" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORT1.png",beIN Sports 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="AstroAwani" ch-number="501" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",Awani
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
-https://converse.nathcreqtives.com/astro/408/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=6f06f3b3cf7cbad0cc8b21e2c94dfb10:525510cfa634bd630af8c95fa93576ca
+https://converse.nathcreqtives.com/astro/5025/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
-#EXTINF:-1 tvg-id="beINSports2" ch-number="817" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png",beIN Sports 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="BernamaTV" ch-number="502" group-title="Astro-NATQ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/BNC_v3.png",Bernama News
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
-https://converse.nathcreqtives.com/astro/5066/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
+https://converse.nathcreqtives.com/astro/1114/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="BOO" ch-number="404" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroBoo_2024.png" group-title="Astro-NATQ",BOO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-#EXTINF:-1 tvg-id="AstroCricket" tvg-chno="824" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroCricket_2024.png" group-title="Astro-NATQ",Cricket
-https://converse.nathcreqtives.com/astro/2504/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=ea4d51ade01bbf3946e0de973051ba10:f3266bec607f25879f48640f30f1c888
+https://converse.nathcreqtives.com/astro/2407/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
+#EXTINF:-1 tvg-id="ColorsHD" ch-number="116" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Colors_v1.png" group-title="Astro-NATQ",Colors Hindi
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
-#EXTINF:-1 tvg-id="PremierSports" tvg-chno="823" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-title="Astro-NATQ",Premier Sports
-https://converse.nathcreqtives.com/astro/2601/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=ad3cb242cde3b687e2398cd21eb9bd10:6ed9b4976a854a289ce62cac957a55d5
+https://converse.nathcreqtives.com/astro/2611/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
-#EXTINF:-1 tvg-id="SPOTV" group-title="Astro-NATQ" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png",SPOTV
+#EXTINF:-1 tvg-id="ColorsTamilHD" tvg-chno="222" group-title="Astro-NATQ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Colors-Tamil_v1.png",Colors Tamil
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c0e1804aa1d9fd9c41c41bf0f61a5f10:758823e4eabb6e4c8c036d073db46b8c
-https://converse.nathcreqtives.com/astro/5058/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=e46354fb39c28e5956bc946ac2a05010:511905bf191474b412b4ec117515a79c
+https://converse.nathcreqtives.com/astro/2101/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
-#EXTINF:-1 tvg-id="SPOTV2" group-title="Astro-NATQ" ch-number="816" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV2.png",SPOTV 2
+#EXTINF:-1 tvg-id="CTIAsia" ch-number="316" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Cti_v1.png" group-title="Astro-NATQ",CTI Asia
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
-https://converse.nathcreqtives.com/astro/5079/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+#KODIPROP:inputstream.adaptive.license_key=d626598c2ab452537509dcb8a86db910:f5a9cadea2372a52c2b91f9c261fe0a4
+https://converse.nathcreqtives.com/astro/5017/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="iQIYI" ch-number="300" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-title="Astro-NATQ",iQIYI
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef7e913ce85a1131b27036069169a10:77d98ed71db7524c27875a09a975f9e6
+https://converse.nathcreqtives.com/astro/1006/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="KTV" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/KTV.png",KTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e7863a8e770b0d72ebe4a68437b6410:73648ceba3751645926d45421c85d927
+https://converse.nathcreqtives.com/astro/5088/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="PhoenixChineseChannel" ch-number="325" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_v1.png" group-title="Astro-NATQ",Phoenix Chinese Channel
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=517c308ef6419b1767e9ae710c897710:fd6be1cea9fa23c98f20f1b2abcae276
+https://converse.nathcreqtives.com/astro/400/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="PhoenixInfoNews" ch-number="326s" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Phoenix_News_Info_v1.png" group-title="Astro-NATQ",Phoenix Info News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9729558a9bff8d94774bfa2f019a1310:8b9eb7ab7196a425d9ab618a5c9f99d9
+https://converse.nathcreqtives.com/astro/5009/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="StarVijay" tvg-chno="221" group-title="Astro-NATQ" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Star_Vijay_v1.png",Star Vijay
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=af35608a7d4b13d1158c2ef6d6c1a010:d01c81050dfab309c6be7e60d03c2d82
+https://converse.nathcreqtives.com/astro/2707/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="SunLife" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-Life.png",Sun Life
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3e1be94e6c193fa21787ce8435db610:726304708c429f613ec2dc53619d6f76
+https://converse.nathcreqtives.com/astro/5089/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="SunMusic" ch-number="212" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_Music_v1.png" group-title="Astro-NATQ",Sun Music
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=beaca9461f7ca0d58ba529fed2e7b610:da0a70148e126eb40cce02665753896d
+https://converse.nathcreqtives.com/astro/5011/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="SunNews" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun-News.png",Sun News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a171cc1bb90f78820cf25cc55f0ee10:ac08792047218ca2a01f2bbd12d90501
+https://converse.nathcreqtives.com/astro/5087/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="SunTV" ch-number="211" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Sun_TV_v1.png" group-title="Astro-NATQ",SunTV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83076ff2f68d1764b559c432ab49ca10:ebdf56ba4a3562cc82053a2952975432
+https://converse.nathcreqtives.com/astro/2310/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="TVAlhijrah" ch-number="114" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png" group-title="Astro-NATQ",TV Al-Hijrah
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736
+https://converse.nathcreqtives.com/astro/1113/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="TVBClassic" ch-number="305" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Classic_2022.png" group-title="Astro-NATQ",TVB Classic
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=071448690a0ec9b27eb2c1a7d5e03010:933ae273b166baa8fb203eef1a7adbdf
+https://converse.nathcreqtives.com/astro/5016/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="TVBJade" ch-number="310" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_Jade_v3.png" group-title="Astro-NATQ",TVB Jade
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe1219019a9f36cdef347088e592ca10:cb9e1a122ed1c6445f7d3fd2162358f1
+https://converse.nathcreqtives.com/astro/2600/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="TVBEntertainmentNews" ch-number="317" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBE_v1.png" group-title="Astro-NATQ",TVB Entertainment News
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fa629c3640ce533c755509f67f75e610:af710a06fd67975b99db4a47a757b84b
+https://converse.nathcreqtives.com/astro/5015/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="TVBXingHe" ch-number="319" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVB_XingHe_v1.png" group-title="Astro-NATQ",TVB Xing He
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e36e0cbdef0677b48dba5c63e8caaf10:ecfb454b2f3e238c5b5dc196e4f91fb8
+https://converse.nathcreqtives.com/astro/401/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="TVBSAsia" ch-number="320" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVBS_v1.png" group-title="Astro-NATQ",TVBS Asia
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e76a89a1e23f8f7b828f4dbdc2d09a10:346f0f60cbd7591e1ae72ca589157bb1
+https://converse.nathcreqtives.com/astro/402/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 group-title="Astro-NATQ" tvg-id="TVS" tvg-chno="122" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TVSarawak.png",TVS
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+https://converse.nathcreqtives.com/astro/5021/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
+
+#EXTINF:-1 tvg-id="ZeeTamilHD" tvg-chno="223" group-title="Astro-NATQ" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeTamil_v1.png",Zee Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d4e3e7dac2d58b93bf819a72fe8d510:667a33f4d5bb3587f2d5209886839eac
+https://converse.nathcreqtives.com/astro/2311/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJleHAiOjE3NjY3MDQ2MTYsImFjY291bnRFeHBpcmVkIjpmYWxzZSwiYWNjb3VudEV4cGlyZXNBdCI6MTc2NjcwNDYxNn0.no7gBjf2oX29xuOQOG9szdPtePj-Rm4wBodmNCD9fBk
 
 #EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="Converse-NATQ",A2Z
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
