@@ -2810,6 +2810,8 @@ https://d1e4bqprcq64lt.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://www.cablelink.com.ph/assets/img/advisory/scream_bg1.jpg" group-title="General",Jungo Screamflix
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png" group-title="General",Just For Laughs
+https://4ba34d83c35d4422aa017937f6891aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_JustForLaughsGags/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZdG0l2vnlMM/maxresdefault.jpg" group-title="General",Kapamilya
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="General",Lotus Macau
