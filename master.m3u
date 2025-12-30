@@ -2777,6 +2777,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-cinemaone-dash-abscbn
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/CLTV-36_Logo.jpeg" group-title="General",CLTV 36
 https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png" group-title="General",CNN
+#KODIPROP:inputstream.adaptive.manifest_type=hls
 https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/5539c052982045.Y3JvcCwyNDU4LDE5MjQsNzA0LDg0.png" group-title="General",Discovery Asia
 https://cdn4.skygo.mn/live/disk1/Discovery_Asia/HLSv3-FTA/Discovery_Asia.m3u8
@@ -2812,6 +2813,8 @@ https://jungotvstream.chanall.tv/jungotv/jungopinoytv/playlist_720p.m3u8
 https://jungotvstream.chanall.tv/jungotv/screamflix/playlist_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png" group-title="General",Just For Laughs
 https://4ba34d83c35d4422aa017937f6891aef.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LocalNow_JustForLaughsGags/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Just_For_Laughs_Gags.png/500px-Just_For_Laughs_Gags.png" group-title="General",Just For Laughs Show
+https://streams2.sofast.tv/sofast4/v1/019a2ab65e59150752202a19e93695/019a2ae196fd1e2b6eeb3af6efe13f/justforlaughs_3500k.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/ZdG0l2vnlMM/maxresdefault.jpg" group-title="General",Kapamilya
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/99/Lotus_TV_Macau_logo.jpg" group-title="General",Lotus Macau
