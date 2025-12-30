@@ -3531,6 +3531,3 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
 #EXTINF:-1 tvg-id="francais.rt.com" group-title="netplus",RT en français 
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
 
-#EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",National Geographic Wild
-http://supersonictv.live:8080/611366/682256/22125
-
