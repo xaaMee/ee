@@ -1890,12 +1890,18 @@ https://fl3.moveonjoy.com/MTV_LIVE/tracks-v1a1/mono.ts.m3u8
 https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/459px-NOW_70s.png" group-title="General",Now70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/459px-NOW_70s.png" group-title="General",Now70s Origin
+http://118.142.17.190:8278/now70hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="General",Now80s
 https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" group-title="General",Now80s
+http://118.142.17.190:8278/now80hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://americadance90.com.br/wp-content/uploads/2025/10/NOW-90s-00s.png" group-title="General",Now 90s00s
 https://amg01076-amg01076c19-lg-it-10329.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightning-now90s00s-lgit/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://americadance90.com.br/wp-content/uploads/2025/10/NOW-90s-00s.png" group-title="General",Now 90s00s rakuten
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://americadance90.com.br/wp-content/uploads/2025/10/NOW-90s-00s.png" group-title="General",Now 90s00s Origin
+http://118.142.17.190:8278/now00hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="General",Now90s Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" group-title="General",Now90s Rock Origin
