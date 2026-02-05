@@ -2541,7 +2541,7 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_hitsmovies/default/inde
 #EXTINF:-1 tvg-id="hits-now" tvg-logo="https://i.imgur.com/Ck0ad9b.png" group-title="C1gnalBPK",Hits Now
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.mpd
 
 #EXTINF:-1 tvg-id="hgtv-hd" tvg-logo="https://i.imgur.com/a6gRxAV.png" group-title="C1gnalBPK",HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
