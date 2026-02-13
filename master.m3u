@@ -2552,6 +2552,11 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
 
+#EXTINF:-1 tvg-id="history-hd" tvg-logo="https://i.imgur.com/oJQJyhb.png" group-title="C1gnalBPK",History HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a8c7d15b9f4d6a9c101f7e3b2d8a44:397ca914a73b1e00bc94ed9eccf9c258
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
+
 #EXTINF:-1 tvg-id="hits-hd" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="C1gnalBPK",Hits HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d2f8a1c9b5e4c7da1f03e7b9d6c2a55:37c9835795779f8d848a6119d3270c69
@@ -2571,11 +2576,6 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hitsnow/default/index.m
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f0e3ab943318471abc8b47027f384f5a:13802a79b19cc3485d2257165a7ef62a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
-
-#EXTINF:-1 tvg-id="history-hd" tvg-logo="https://i.imgur.com/oJQJyhb.png" group-title="C1gnalBPK",History HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a7724b7ca2604c33bb2e963a0319968a:6f97e3e2eb2bade626e0281ec01d3675
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
 
 #EXTINF:-1 tvg-id="ibc" tvg-logo="https://i.imgur.com/CTHhr3Q.png" group-title="C1gnalBPK",IBC 13
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2614,7 +2614,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default
 
 #EXTINF:-1 tvg-id="nba-tv-philippines-cignal" tvg-logo="https://i.imgur.com/RcxNoIC.png" group-title="C1gnalBPK",NBA TV Philippines
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5e51f41ceac48709d0bdcd9c13a4d88:20b91609967e472c27040716ef6a8b9a
+#KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="nba-tv-philippines-cignal" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA896-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=269" group-title="C1gnalBPK",NHK World
