@@ -1888,10 +1888,10 @@ https://hide.skygoplus.workers.dev/lotus-macau.m3u8
 https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hfcxm48g/image.png" group-title="General",Movies Thriller
 https://shls-live-ak.akamaized.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/330px-MTV_2021_%28brand_version%29.svg.png" group-title="General",MTV
-https://streamer1.nexgen.bz/MTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/330px-MTV_Live_2021_logo.svg.png" group-title="General",MTV Live
-https://fl3.moveonjoy.com/MTV_LIVE/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/MCM_Top_2017.svg/330px-MCM_Top_2017.svg.png" group-title="General",MCM Top
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=73be9dd0138241bcaced7d4fb3f5a4b1:eebcb531a9deb6ab2de1a342c058afb8
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560612/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/b/ba/Nautical_Channel_%282020-.n.v.%29.png/revision/latest?cb=20200731113134" group-title="General",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/459px-NOW_70s.png" group-title="General",Now70s
