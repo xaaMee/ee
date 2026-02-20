@@ -270,436 +270,6 @@ http://136.239.158.18:6610/001/2/ch00000090990000001406/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjrxyZu1bPiJ3SdGvhVf3d3Muj5AqQ7ZkGpw&s" group-title="Contra", KBS World
 http://136.239.158.30:6610/001/2/ch00000090990000001353/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArJao%2B3Joh62iO894OkSinn2%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001876&contentid=ch00000000000000001876&videoid=ch00000090990000001353&recommendtype=0&userid=1681064024103&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=M43OJUQLPCQXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="Converse-NATQ",A2Z
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231383437383231323033353237:583130656f6d3267777a6d7235487858
-https://converse.nathcreqtives.com/1087/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1111" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125072025.png" group-title="Converse-NATQ",ABC AUSTRALIA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232303231333139323537333830:3139614a6335316d644f566d37444c75
-https://converse.nathcreqtives.com/1111/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1343" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125103446.png" group-title="Converse-NATQ",AL JAZEERA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363735313439373730343234313334:6f486349336753304d6b696733463235
-https://converse.nathcreqtives.com/1343/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1109" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125129835.png" group-title="Converse-NATQ",ALIW TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232303137373937323535313836:3551344768323677674c32704a713249
-https://converse.nathcreqtives.com/1109/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1179" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723136602348.png" group-title="Converse-NATQ",ALL TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323238353336303333363036:367662564c69425947353948374f4553
-https://converse.nathcreqtives.com/1179/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1216" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219396137.png" group-title="Converse-NATQ",ANC HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363234353837393638333931313738:335a493259306157495a557356494b44
-https://converse.nathcreqtives.com/1216/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1107" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125337224.png" group-title="Converse-NATQ",ARIRANG
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232303137313138323534373134:6f52306f47445a634838615a31643449
-https://converse.nathcreqtives.com/1107/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1124" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605539308.png" group-title="Converse-NATQ",BILYONARYO NEWS HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232313037373837323837383130:5146434c3239617645344e7772343668
-https://converse.nathcreqtives.com/1124/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1165" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219327674.png" group-title="Converse-NATQ",BS FUJI
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233343132303338323235353437:78347a4839653239344566736f326963
-https://converse.nathcreqtives.com/1165/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1213" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723130002404.png" group-title="Converse-NATQ",BS PREMIUM
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233343132383131323238373934:376432486d544338326f3230336b4e7a
-https://converse.nathcreqtives.com/1213/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1178" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125431025.png" group-title="Converse-NATQ",CARTOON NETWORK
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323238323938303333343430:536a4774797143315773693133654b73
-https://converse.nathcreqtives.com/1178/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1125" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219376954.png" group-title="Converse-NATQ",CARTOONITO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232313038303239323838303638:7768354e65797950397a6c566d356256
-https://converse.nathcreqtives.com/1125/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1223" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125521068.png" group-title="Converse-NATQ",CCTV4
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363234393439353931383032393636:3570773244533748733935644c787a56
-https://converse.nathcreqtives.com/1223/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1244" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219296797.png" group-title="Converse-NATQ",CELESTIAL CLASSIC MOVIES
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331313938313138383033383733:395334474d7735663579353235453534
-https://converse.nathcreqtives.com/1244/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1254" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219276891.png" group-title="Converse-NATQ",CINEMO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363735393833333531383134:4a4f75336e6e30764575624855326937
-https://converse.nathcreqtives.com/1254/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1314" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125735177.png" group-title="Converse-NATQ",CLTV36
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363735303934383833333131363533:4b44557035556777346e4b3745613651
-https://converse.nathcreqtives.com/1314/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1073" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125798255.png" group-title="Converse-NATQ",CNN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032313231:6b5058557254355845335a6e63737030
-https://converse.nathcreqtives.com/1073/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1077" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219252241.png" group-title="Converse-NATQ",CELESTIAL MOVIES PINOY
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363230383933303132303032303231:6b5058557254355845335a6e63737030
-https://converse.nathcreqtives.com/1077/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1146" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125560281.png" group-title="Converse-NATQ",CGTN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353336333639353433303837:4474796d43686c745050494735475443
-https://converse.nathcreqtives.com/1146/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1106" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125590334.png" group-title="Converse-NATQ",CHANNEL NEWS ASIA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231393339333834323333353038:756a7351733939554668654a79633372
-https://converse.nathcreqtives.com/1106/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1283" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125628005.png" group-title="Converse-NATQ",CINEMA ONE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363736373234333532363730:684b6853695333444a6b345579376a61
-https://converse.nathcreqtives.com/1283/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1108" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125660668.png" group-title="Converse-NATQ",CINEMAX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232303137333630323534393638:63547a3159507a7036314e3357436c7a
-https://converse.nathcreqtives.com/1108/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1166" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723606286242.png" group-title="Converse-NATQ",DEUTSCHE WELLE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363234383633343838373039333431:3838505141446f42397a723234697541
-https://converse.nathcreqtives.com/1166/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1249" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1749519196399.png" group-title="Converse-NATQ",DZMM TELERADYO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363832363034333637353833:524349317875574c34386a32416c4633
-https://converse.nathcreqtives.com/1249/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1174" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126004028.png" group-title="Converse-NATQ",DZRH
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323236373936303238393632:74576436426946764a6b4e5734456e37
-https://converse.nathcreqtives.com/1174/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1406" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126027555.png" group-title="Converse-NATQ",EDGESPORT
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31373031363636343834333733333033:39346c527a596c59304a313449343338
-https://converse.nathcreqtives.com/1406/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1104" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126078814.png" group-title="Converse-NATQ",EWTN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231393133313335323234373039:4372743534626238333533784d336159
-https://converse.nathcreqtives.com/1104/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1102" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126284675.png" group-title="Converse-NATQ",FASHION TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232313037313238323837343137:4a696164307578497138383747433934
-https://converse.nathcreqtives.com/1102/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1195" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126098951.png" group-title="Converse-NATQ",FILAM TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323330343539303433333135:4e4273686b35786b47334b3330435778
-https://converse.nathcreqtives.com/1195/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1157" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126239977.png" group-title="Converse-NATQ",FRANCE 24
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233303437383734383939333136:4d38626137306a303078363065573861
-https://converse.nathcreqtives.com/1157/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="Converse-NATQ",GMA 7
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
-https://converse.nathcreqtives.com/1093/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1234" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1735903243498.png" group-title="Converse-NATQ",GNN tv44
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363235373230343031373839383832:6f3367454f743663393778454d327338
-https://converse.nathcreqtives.com/1234/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="Converse-NATQ",GTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
-https://converse.nathcreqtives.com/1143/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1152" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1733707474289.png" group-title="Converse-NATQ",HALLYPOP
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233303437353134383939313936:686e36454a54544d3930343749713333
-https://converse.nathcreqtives.com/1152/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1065" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126386617.png" group-title="Converse-NATQ",HBO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363230383830323639303031323938:715a36614f62445635304852794b3676
-https://converse.nathcreqtives.com/1065/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1089" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="Converse-NATQ",IBC 13
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231383439333634323034333738:364a3849664b37386955623437364579
-https://converse.nathcreqtives.com/1089/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1092" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605495653.png" group-title="Converse-NATQ",INC TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231393132323937323234333139:74516e7a4f3472713651316233425841
-https://converse.nathcreqtives.com/1092/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1250" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128953472.png" group-title="Converse-NATQ",JEEPNEY TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363735363832333531363036:723548436f6e34333961586150756649
-https://converse.nathcreqtives.com/1250/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1286" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129013828.png" group-title="Converse-NATQ",KAPAMILYA HD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363737343637333533323837:71347339457958556439543650426e74
-https://converse.nathcreqtives.com/1286/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1263" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129053549.png" group-title="Converse-NATQ",KIX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331313938353234383134303633:3669754977303668394e493367344773
-https://converse.nathcreqtives.com/1263/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1340" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723604992973.png" group-title="Converse-NATQ",KNOWLEDGE CHANNEL
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363735313534353138343339333732:3970705738596631374f54324c384f57
-https://converse.nathcreqtives.com/1340/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1103" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129682729.png" group-title="Converse-NATQ",Light TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231393132373735323234353438:33564d7a447073443333773974633739
-https://converse.nathcreqtives.com/1103/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1154" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605044807.png" group-title="Converse-NATQ",LIVING ASIA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232363231343638363035363236:544962686d3165306836346e73673346
-https://converse.nathcreqtives.com/1154/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1196" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129704683.png" group-title="Converse-NATQ",LOTUS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323330383739303433373435:74754b633331334537757a3533545a35
-https://converse.nathcreqtives.com/1196/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1267" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129722508.png" group-title="Converse-NATQ",METRO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363334313133373731323334343436:673478506852336979544a4f38475479
-https://converse.nathcreqtives.com/1267/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1123" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1730362635883.png" group-title="Converse-NATQ",MINDANOW
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232313037353439323837363235:3546456775546d32585738574f477a33
-https://converse.nathcreqtives.com/1123/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1252" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129763447.png" group-title="Converse-NATQ",MYX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363736333231333532323639:396c467233356c357355497565533536
-https://converse.nathcreqtives.com/1252/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1090" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129823252.png" group-title="Converse-NATQ",NET 25
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231393131363337323232353030:56783536726130576e5a4171564c3741
-https://converse.nathcreqtives.com/1090/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1214" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129897469.png" group-title="Converse-NATQ",NHK BS1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233343133303337323335353239:327939373658545a37317536686b3146
-https://converse.nathcreqtives.com/1214/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1145" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131229501.png" group-title="Converse-NATQ",NHK WORLD
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353336313933353432383534:51313339385a5a446a454c3132646b63
-https://converse.nathcreqtives.com/1145/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1215" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723130097999.png" group-title="Converse-NATQ",NICK Jr.
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233343133343534323335373438:75467735704170524847774a63594361
-https://converse.nathcreqtives.com/1215/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1083" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131202156.png" group-title="Converse-NATQ",ONE SPORTS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231353030333331313038333030:6c3543424b356d575851357961596873
-https://converse.nathcreqtives.com/1083/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1175" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131279043.png" group-title="Converse-NATQ",ORAS NG HIMALA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323237303338303332343538:373648504f5155373054657665783851
-https://converse.nathcreqtives.com/1175/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1078" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723612823404.png" group-title="Converse-NATQ",PBO
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363230393830323336303039323834:7676746b584436514331503256784654
-https://converse.nathcreqtives.com/1078/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1113" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131346405.png" group-title="Converse-NATQ",PHOENIX CHINESE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232303231353137323537353939:33764c30506679394d3147434276364a
-https://converse.nathcreqtives.com/1113/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1127" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723132198713.png" group-title="Converse-NATQ",PREMIER FOOTBALL
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232313130313238323933363838:3243794139594e6435434b517a497070
-https://converse.nathcreqtives.com/1127/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1135" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133770267.png" group-title="Converse-NATQ",PREMIER SPORTS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232313130333638323933383631:7031306148395845396e32374369485a
-https://converse.nathcreqtives.com/1135/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1204" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133748606.png" group-title="Converse-NATQ",PREMIER SPORTS 2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233383335303430363337303331:4444313067453278686a4b6b7030494b
-https://converse.nathcreqtives.com/1204/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1086" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="Converse-NATQ",PTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231383437343631323030313134:614762653768324e676a6b3577434733
-https://converse.nathcreqtives.com/1086/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1327" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133809689.png" group-title="Converse-NATQ",RADIO MARIA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363735373535323639323831353936:4e31335931336d35324d4c3249383036
-https://converse.nathcreqtives.com/1327/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1159" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133830822.png" group-title="Converse-NATQ",RJTV 29
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323237323935303332363334:38346b5732353165303954347677476e
-https://converse.nathcreqtives.com/1159/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1177" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133849713.png" group-title="Converse-NATQ",ROCK TV OF MANILA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323237383336303333303033:386f3337674c36666e3861713930726f
-https://converse.nathcreqtives.com/1177/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1094" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133873954.png" group-title="Converse-NATQ",RPTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231383439313133323034313530:78645370476a496d5756385231474332
-https://converse.nathcreqtives.com/1094/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1176" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723612444093.png" group-title="Converse-NATQ",SAUDI TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323237343736303332383737:564b645766473531554563584d364651
-https://converse.nathcreqtives.com/1176/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1155" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133929628.png" group-title="Converse-NATQ",SMNI
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232373835303932373135373431:3250464a49584c376b53337579504f56
-https://converse.nathcreqtives.com/1155/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1243" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134009531.png" group-title="Converse-NATQ",SOLAR FLIX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331313738363633373739363234:5436395534576f7638744a43356d336e
-https://converse.nathcreqtives.com/1243/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1081" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134030645.png" group-title="Converse-NATQ",SOLAR SPORTS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231323336323430303533343333:6a53385957735a304f6a307056793475
-https://converse.nathcreqtives.com/1081/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1202" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219661968.png" group-title="Converse-NATQ",STAR CHANNEL 1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233343131373737323235333232:57787a75513536333132744c34763439
-https://converse.nathcreqtives.com/1202/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1305" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134076089.png" group-title="Converse-NATQ",TAP ACTION FLIX
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363539343235333939333035383832:5446354a4a514956636567484b47317a
-https://converse.nathcreqtives.com/1305/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1150" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134099364.png" group-title="Converse-NATQ",TAP EDGE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353337323935353433383639:696d305237483130677335756d643933
-https://converse.nathcreqtives.com/1150/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1304" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134117906.png" group-title="Converse-NATQ",TAP MOVIES
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363539343235323739323938313334:6134384c356c5050327331636b544734
-https://converse.nathcreqtives.com/1304/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1151" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134161793.png" group-title="Converse-NATQ",TAP SPORTS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233303437333337383938393931:4344324b7661386b4579323633343645
-https://converse.nathcreqtives.com/1151/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1149" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134180637.png" group-title="Converse-NATQ",TAP TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353337313135353433363839:7573536e79344f796e746c324b695133
-https://converse.nathcreqtives.com/1149/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1147" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134224456.png" group-title="Converse-NATQ",TBN
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232353336373333353433323038:41783735743962647251314a4a383947
-https://converse.nathcreqtives.com/1147/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1253" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134284048.png" group-title="Converse-NATQ",THRILL
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331313938333434383133383337:32776734365267686977387049356d48
-https://converse.nathcreqtives.com/1253/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1080" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219688328.png" group-title="Converse-NATQ",TMC
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363230393830373532303039383138:363354494336436b494a776f4a796634
-https://converse.nathcreqtives.com/1080/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1088" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134335547.png" group-title="Converse-NATQ",TV5
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231383438303333323033373730:375a684a31357647653565574b363076
-https://converse.nathcreqtives.com/1088/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1156" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134373931.png" group-title="Converse-NATQ",TV5MONDE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232373836323139373230313339:4c6641384b484e334734496479725669
-https://converse.nathcreqtives.com/1156/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1112" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134391817.png" group-title="Converse-NATQ",TVE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232303232313031323537373830:3567746e30367a714e3346344f415947
-https://converse.nathcreqtives.com/1112/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1160" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134353936.png" group-title="Converse-NATQ",TV MARIA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233323238303538303333323032:486c53576e387559676c774b53375037
-https://converse.nathcreqtives.com/1160/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1091" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134409636.png" group-title="Converse-NATQ",UNTV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231393131383734323234313831:7a333137597652656743393372427153
-https://converse.nathcreqtives.com/1091/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1199" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134428182.png" group-title="Converse-NATQ",USA TODAY NEWS
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363233333132393535313230333633:4e62694d463832326130536673695246
-https://converse.nathcreqtives.com/1199/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1134" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219709476.png" group-title="Converse-NATQ",VEGAS LIFE
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363232313039393438323931323033:3438455a3450367a4b593050667a3441
-https://converse.nathcreqtives.com/1134/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1079" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134481136.png" group-title="Converse-NATQ",VIVA CINEMA
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363230393830353534303039353831:506e354374394938446439344b6f3741
-https://converse.nathcreqtives.com/1079/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1096" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134500990.png" group-title="Converse-NATQ",WARNER TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231393338393034323331373536:6b75304a3061326f78593545384f3165
-https://converse.nathcreqtives.com/1096/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
-#EXTINF:-1 tvg-id="1337" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723124083530.png" group-title="Converse-NATQ",XINGKONG
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363735313530323932343234353834:4e78417967303934675469456d395157
-https://converse.nathcreqtives.com/1337/manifest.mpd?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJHYW1heXBvdG90b3kiLCJpYXQiOjE3Njg0NDQ0NTgsImV4cCI6MTc2OTMwODQ1OCwiYWNjb3VudEV4cGlyZWQiOmZhbHNlLCJhY2NvdW50RXhwaXJlc0F0IjoxNzY5MzA4NDU4fQ.9dl-698RxGuhJMNNmVTuCUtU5aN-b8TpLL9aXXfaK_I
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.iptveditor.com/beinsports.png" group-title="AstroGo",Bein Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2789,11 +2359,90 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/i
 #KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
 
-#EXTINF:-1 tvg-id="viva-cinema" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/F7AA8685-359E-4189-8D69-A04E0B8B9E0B/0-16x9.jpg?width=269" group-title="C1gnalBPK",WilTV
+#EXTINF:-1 tvg-id="wiltv" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/F7AA8685-359E-4189-8D69-A04E0B8B9E0B/0-16x9.jpg?width=269" group-title="C1gnalBPK",WilTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1773d6f982242cdb0f694546a3db26f:ae9a90dbea78f564eb98fe817909ec9a
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
 
+#EXTINF:-1 tvg-id="abcaustralia" tvg-logo="https://i.ibb.co/dLyjGrD/abc.png" group-title="1ND1H0ME",ABC Australia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
+
+#EXTINF:-1 tvg-id="alquran" tvg-logo="https://i.ibb.co/k60bwCR9/image.png" group-title="1ND1H0ME",Al Quran
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1901eb05318f47868ff49ce7bf4e38db:a1f14f7db2a2ff4c2e1251c5548b2c06
+https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd
+
+#EXTINF:-1 tvg-id="aljazeera" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Aljazeera_eng.svg/330px-Aljazeera_eng.svg.png" group-title="1ND1H0ME",Aljazeera
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
+
+#EXTINF:-1 tvg-id="animalplanet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/330px-2018_Animal_Planet_logo.svg.png" group-title="1ND1H0ME",Animal Planet
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+https://cdn08jtedge.indihometv.com/dassdvr/133/animalplanet/manifest.mpd
+
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://images.indihometv.com/images/channels/imageCir_Cinemax-180x180_2025_11_05_13_11_15.jpg" group-title="1ND1H0ME",Cinemax
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8287a4d25e9c4ebcae4ba1da118514a0:ec9bc03228ad5e4d96482d90d6095a85
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-id="CNN" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnninter.png" group-title="1ND1H0ME",CNN International
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01e70f80d29145d080dcff784ef3a9a4:20cfe4c4759643ad5361daa25249458e
+https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mpd
+
+#EXTINF:-1 tvg-id="galaxy" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxy.png" group-title="1ND1H0ME",Galaxy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2d022857f0c245b6bd5f389694c9b572:9223fdc6d57225203188f046908f4d7f
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
+
+#EXTINF:-1 tvg-id="galaxypremium" tvg-logo="https://images.indihometv.com/images/channels/image_ch_galaxypremium.png" group-title="1ND1H0ME",Galaxy Premium
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe06f447be9443729e092d83523437a7:3d741d81e8a8ae09619676512c274fbd
+https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-180x180_2025_11_05_11_21_29.jpg" group-title="1ND1H0ME",HBO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1fa578fb90848a6b40ae09d052e8f96:bf0d2334a6e1ac5c0ed41849ed4d3698
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbo/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBOFamily" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Familly-180x180_2025_11_05_11_14_46.jpg" group-title="1ND1H0ME",HBO Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff67b52d6c5e4a769f8aba596633b821:fbccc3d9c3a5da07af6469a007defe88
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBOHits" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Hits-180x180_2025_11_05_11_23_20.jpg" group-title="1ND1H0ME",HBO Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=904b0f31ea6c42169b5743723c046a49:27c81c26dbe300fc934efe042bd03fda
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbohits/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBOSignature" tvg-logo="https://images.indihometv.com/images/channels/imageCir_HBO-Signature-180x180_2025_11_05_12_57_49.jpg" group-title="1ND1H0ME",HBO Signature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3f11c01afca40a3ada8ae7516460f8f:50b96ac7a610e68614fc85bbe73f6291
+https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbosignature/manifest.mpd
+
+#EXTINF:-1 tvg-id="Hits" tvg-logo="https://images.indihometv.com/images/channels/image_ch_hits.png" group-title="1ND1H0ME",Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b3f7d8a5c71e470ea53b4fdbdac6e547:5e593e56ed1239b67e80ea1a1846bf25
+https://cdn08jtedge.indihometv.com/dassdvr/133/hits/manifest.mpd
+
+#EXTINF:-1 tvg-id="HitsMovies" tvg-logo="https://images.indihometv.com/images/channels/image_ch_hitsmovies.png" group-title="1ND1H0ME",Hits Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2bdffad0b984979acdabd3de5e7f55d:7f993888674c20d2db82a7ad15ac798f
+https://cdn08jtedge.indihometv.com/dassdvr/133/hitsmovie/manifest.mpd
+
+#EXTINF:-1 tvg-id="HitsNow" tvg-logo="https://images.indihometv.com/images/channels/image_ch_hitsnow.png" group-title="1ND1H0ME",Hits Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=104124f557ae49908b6e56ae227e0373:6517322c3638960d172d9d670ea0102e
+https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
+#EXTINF:-1 tvg-id="NBA" tvg-logo="https://images.indihometv.com/images/channels/image_ch_nbatv.png" group-title="1ND1H0ME",NBA TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=834ec3cbface4fe992e995a32d35f587:e0a97198d9f2dfcb0a0483cd4b04414b
+https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 #EXTINF:-1 tvg-id="RTS1.ch" group-title="netplus",RTS 1 HD 1080p
 https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
