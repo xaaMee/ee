@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="abcaustralia" tvg-logo="https://images.indihometv.com/images/channels/image_ch_abcaustrlia.png" group-title="1ND1H0ME",ABC Australia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/ABC_AUSTRALIA/manifest.mpd
 
 #EXTINF:-1 tvg-id="alquran" tvg-logo="https://images.indihometv.com/images/channels/image_ch_alquranalkareem.png" group-title="1ND1H0ME",Al Quran
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -34,6 +34,11 @@ https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8287a4d25e9c4ebcae4ba1da118514a0:ec9bc03228ad5e4d96482d90d6095a85
 https://cdn10jtedge.indihometv.com/atm/mpd-vo/cinemax/manifest.mpd
+
+#EXTINF:-1 tvg-id="CNBCAsia" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnbcasia.png" group-title="1ND1H0ME",CNBC Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5195cbd347b4492382ae174a00045276:56961bdc4edc6caf510889b44f225aeb
+https://cdn08jtedge.indihometv.com/dassdvr/134/cnbcasia/manifest.mpd
 
 #EXTINF:-1 tvg-id="CNN" tvg-logo="https://images.indihometv.com/images/channels/image_ch_cnninter.png" group-title="1ND1H0ME",CNN International
 #KODIPROP:inputstream.adaptive.license_type=clearkey
