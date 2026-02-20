@@ -50,6 +50,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/cnninternational_dash/manifest.mp
 #KODIPROP:inputstream.adaptive.license_key=92a01039ad674de28fa2088c0b579ef5:98ff2c13048835dd465793979c7e464a
 https://cdn08jtedge.indihometv.com/dassdvr/133/crimeinvestigation/manifest.mpd
 
+#EXTINF:-1 tvg-id="DaVinci" tvg-logo="https://images.indihometv.com/images/channels/image_ch_davinci.png" group-title="1ND1H0ME",Da Vinci
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff339c6ca7224a8d93bd487e45513b3d:5b8809c4ccf2ee43baa17c9e0a6fbdb0
+https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
+
 #EXTINF:-1 tvg-id="Discovery" tvg-logo="https://images.indihometv.com/images/channels/image_ch_discovery.png" group-title="1ND1H0ME",Discovery
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4271dec5b6794650872dc915fe10fdeb:0e64ddadd1cbd079f98c597fc01c06bf
